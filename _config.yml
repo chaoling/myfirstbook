@@ -1,1 +1,7 @@
-remote_theme: sighingnow/jekyll-gitbook
+title: My FIRST Book
+email: ling.chao@gmail.com
+url: "https://chaoling.github.io/myfirstbook"
+theme: jekyll-theme-gitbook
+
+# Build settings
+markdown: kramdown
