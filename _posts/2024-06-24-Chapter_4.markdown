@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Chapter 4: The FLL Challenge: Understanding the Components"
+date: 2024-06-24 12:00:00 -0700
+categories: chapter
+---
+
+# The FLL Challenge: Understanding the Components
+
+## The Robot Game
+
+## The Project
+
+## Core Values

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Chapter 2: Getting Started"
+date: 2024-06-24 12:00:00 -0700
+categories: chapter
+---
+
+## Understanding the FLL Program
+
+## Forming Your Team: Recruitment and Roles
+
+## Securing Funding and Resources
+
+## Essential Equipment and Software

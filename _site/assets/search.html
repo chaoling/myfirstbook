@@ -1,3 +1,5 @@
+<!-- Slightly Modified from _layouts/home.html -->
+
 <!DOCTYPE HTML>
 <html lang="en" >
     <head><meta charset="UTF-8">
@@ -59,7 +61,7 @@
         </div>
         <ul class="summary">
             
-            <li class="chapter active" data-level="1.1" data-path="/myfirstbook">
+            <li class="chapter" data-level="1.1" data-path="/myfirstbook">
             
                 <a href="/myfirstbook/" onclick="pageScrollToTop(this)">
                     My FIRST book
@@ -202,111 +204,28 @@
                     </h1>
                 </div>
 
-                <div class="body-inner"><div class="page-wrapper" tabindex="-1" role="main">
-    
+                <div class="body-inner">
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            <section class="normal markdown-section">
+                                
+                                    <h1 id="">My FIRST book</h1>
+                                
 
-    <div class="page-inner">
-        <div id="book-search-results">
-            <div class="search-noresults">
-                <section class="normal markdown-section">
-                    
-                        <h1 id="">My FIRST book</h1>
-                    
+                                <br />
+                            </section>
 
-                    <h1>Welcome to My First Book</h1>
+                            <!-- Slightly Modified from _layouts/home.html -->
 
-<p><a href="/myfirstbook/chapter/2024/06/24/Chapter_1.html">Start Reading Chapter 1</a></p>
+<div id="book-search-input-inside" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
 
-<h2 class="post-list-heading">Posts</h2>
-<ul class="post-list">
-  
-    <li>
-      <span class="post-meta">Jun 24, 2024</span>
-      <h3>
-        <a class="post-link" href="/myfirstbook/chapter/2024/06/24/Chapter_9.html">Chapter 9: Beyond the Basics: Advanced Strategies for Success</a>
-      </h3>
-    </li>
-  
-    <li>
-      <span class="post-meta">Jun 24, 2024</span>
-      <h3>
-        <a class="post-link" href="/myfirstbook/chapter/2024/06/24/Chapter_8.html">Chapter 8: Preparing for Competitions</a>
-      </h3>
-    </li>
-  
-    <li>
-      <span class="post-meta">Jun 24, 2024</span>
-      <h3>
-        <a class="post-link" href="/myfirstbook/chapter/2024/06/24/Chapter_7.html">Chapter 7: Core Values: Building Character and Team Spirit</a>
-      </h3>
-    </li>
-  
-    <li>
-      <span class="post-meta">Jun 24, 2024</span>
-      <h3>
-        <a class="post-link" href="/myfirstbook/chapter/2024/06/24/Chapter_6.html">Chapter 6: The Innovation Project</a>
-      </h3>
-    </li>
-  
-    <li>
-      <span class="post-meta">Jun 24, 2024</span>
-      <h3>
-        <a class="post-link" href="/myfirstbook/chapter/2024/06/24/Chapter_5.html">Chapter 5: Robot Design and Programming</a>
-      </h3>
-    </li>
-  
-    <li>
-      <span class="post-meta">Jun 24, 2024</span>
-      <h3>
-        <a class="post-link" href="/myfirstbook/chapter/2024/06/24/Chapter_4.html">Chapter 4: The FLL Challenge: Understanding the Components</a>
-      </h3>
-    </li>
-  
-    <li>
-      <span class="post-meta">Jun 24, 2024</span>
-      <h3>
-        <a class="post-link" href="/myfirstbook/chapter/2024/06/24/Chapter_3.html">Chapter 3: Building a Strong Foundation</a>
-      </h3>
-    </li>
-  
-    <li>
-      <span class="post-meta">Jun 24, 2024</span>
-      <h3>
-        <a class="post-link" href="/myfirstbook/chapter/2024/06/24/Chapter_2.html">Chapter 2: Getting Started</a>
-      </h3>
-    </li>
-  
-    <li>
-      <span class="post-meta">Jun 24, 2024</span>
-      <h3>
-        <a class="post-link" href="/myfirstbook/chapter/2024/06/24/Chapter_12.html">Chapter 12: Conclusion</a>
-      </h3>
-    </li>
-  
-    <li>
-      <span class="post-meta">Jun 24, 2024</span>
-      <h3>
-        <a class="post-link" href="/myfirstbook/chapter/2024/06/24/Chapter_11.html">Chapter 11: Resources and Appendices</a>
-      </h3>
-    </li>
-  
-    <li>
-      <span class="post-meta">Jun 24, 2024</span>
-      <h3>
-        <a class="post-link" href="/myfirstbook/chapter/2024/06/24/Chapter_10.html">Chapter 10: Case Studies and Success Stories</a>
-      </h3>
-    </li>
-  
-    <li>
-      <span class="post-meta">Jun 24, 2024</span>
-      <h3>
-        <a class="post-link" href="/myfirstbook/chapter/2024/06/24/Chapter_1.html">Chapter 1: Introduction</a>
-      </h3>
-    </li>
-  
-</ul>
-</section>
-            </div><div class="search-results">
+
+                            <div id="book-search-results">
+                                <div class="search-noresults">
+                                    
+                                </div><div class="search-results">
     <div class="has-results">
         <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
         <ul class="search-results-list"></ul>
@@ -315,60 +234,8 @@
         <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
     </div>
 </div></div>
-    </div>
-</div>
-
-<!-- introduce mathjax support -->
-<script>
-window.MathJax = {
-  tex: {
-    inlineMath: [ ['$', '$'], ['\\(', '\\)'] ]
-  },
-  svg: {
-    fontCache: 'global'
-  }
-};
-</script>
-<script
-  type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
-</script>
-
-
-<!-- introduce per-page mermaid support -->
-
-
-<!-- introduce mathjax support -->
-<script>
-    function fixes_chrome_anchors() {
-        let chrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
-        if (window.location.hash && chrome) {
-            setTimeout(function () {
-                var hash = window.location.hash;
-                window.location.hash = "";
-                window.location.hash = hash;
-            }, 300);
-        }
-    }
-
-    if (document.readyState === "loading") {
-        // Loading hasn't finished yet
-        document.addEventListener("DOMContentLoaded", fixes_chrome_anchors);
-    } else {
-        // `DOMContentLoaded` has already fired
-        fixes_chrome_anchors();
-    }
-</script>
-
-<a href="/myfirstbook/" class="navigation navigation-pre navigation-unique">
-                        <i class="fa"></i>
-                    </a>
-
-                    
-                        <a href="/myfirstbook/chapter/2024/06/24/Chapter_1.html" class="navigation navigation-next navigation-unique" aria-label="Next page: Chapter 1: Introduction">
-                            <i class="fa fa-angle-right"></i>
-                        </a>
-                    
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -480,7 +347,7 @@ window.MathJax = {
         "gitbook": "*"
     },
     "file": {
-        "path": "index.markdown",
+        "path": "assets/search.html",
         "mtime": "",
         "type": "markdown"
     },
