@@ -5,10 +5,58 @@ date: 2024-06-24 12:00:00 -0700
 categories: chapter
 ---
 
+# Chapter 2: Getting Started
+
 ## Understanding the FLL Program
+
+The FIRST Lego League (FLL) program is a global competition designed to inspire young people in the fields of science, technology, engineering, and mathematics (STEM). It encourages teamwork, creativity, and problem-solving skills through a combination of robotics, research projects, and core values. Each year, FLL releases a new challenge that includes three parts: the Robot Game, the Innovation Project, and the Core Values.
+
+- **Robot Game**: Teams build and program an autonomous robot using LEGO Mindstorms or SPIKE Prime kits to complete various missions on a themed playing field. The goal is to score as many points as possible within a set time limit.
+- **Innovation Project**: Teams identify a real-world problem related to the annual theme, research it, and propose an innovative solution. They present their findings and solutions to judges.
+- **Core Values**: FLL emphasizes the importance of teamwork, inclusion, and fun. Core values like discovery, innovation, impact, inclusion, teamwork, and fun are integrated into all aspects of the competition.
 
 ## Forming Your Team: Recruitment and Roles
 
+Creating a successful FLL team begins with recruitment and defining roles. Here’s how to get started:
+
+### Recruitment
+- **Identify Potential Members**: Look for students aged 9 to 16 (9-14 in USA) who are enthusiastic about robotics, coding, and problem-solving. Schools, community centers, and after-school programs are great places to find interested participants.
+- **Diverse Skills**: Aim for a mix of talents, including engineering, programming, research, and presentation skills. A diverse team can tackle the challenge from multiple angles.
+- **Informational Meetings**: Host meetings to explain the FLL program, the time commitment, and the benefits of participating. Engage parents and guardians to gain their support.
+
+### Defining Roles
+- **Team Roles**: Assign specific roles such as team leader, robot designer, programmer, researcher, and presenter. Each member should have a clear understanding of their responsibilities.
+- **Mentors and Coaches**: Adult mentors and coaches provide guidance, support, and expertise. They help the team stay organized, motivated, and focused on their goals.
+
 ## Securing Funding and Resources
 
+Participating in FLL requires financial and material resources. Here are steps to secure what you need:
+
+### Budget Planning
+- **Initial Costs**: Include registration fees, robot kits (Mindstorms or SPIKE Prime), field setup kits, and team shirts. 
+- **Ongoing Costs**: Consider costs for travel, additional equipment, practice space, and miscellaneous expenses.
+
+### Funding Sources
+- **Sponsorships**: Seek sponsorships from local businesses, tech companies, and community organizations. Prepare a sponsorship package that outlines the benefits of supporting your team.
+- **Grants**: Research and apply for grants from educational foundations, STEM organizations, and government programs.
+- **Fundraising**: Organize fundraising events such as bake sales, car washes, and crowdfunding campaigns. Engage the community to support your team’s efforts.
+
 ## Essential Equipment and Software
+
+To compete in FLL, your team needs specific equipment and software. Here’s a checklist to get started:
+
+### LEGO Robotics Kits
+- **Mindstorms EV3 or SPIKE Prime**: These kits include the programmable brick, motors, sensors, and LEGO pieces to build your robot. Ensure you have the latest version for compatibility with competition requirements.
+
+### Computers and Software
+- **Programming Software**: Use LEGO Education's official software, such as EV3 Classroom or SPIKE Prime App, to program your robot. Ensure your team members have access to computers or tablets for coding.
+- **Project Management Tools**: Utilize tools like Trello or Google Workspace to organize tasks, collaborate on research, and manage your project timeline.
+
+### Field Setup Kit
+- **Mission Models and Mat**: The field setup kit includes the mission models and mat required for the Robot Game. Assemble and arrange them according to the official guidelines to simulate the competition environment.
+
+### Research and Presentation Tools
+- **Research Materials**: Access to books, scientific journals, and online resources for your Innovation Project research.
+- **Presentation Tools**: Use software like PowerPoint, Google Slides, or Prezi to create engaging presentations. Equip your team with a laptop, projector, and any props needed for their presentation.
+
+By understanding the FLL program, forming a dedicated team, securing necessary resources, and gathering essential equipment, you’ll be well on your way to a successful and rewarding experience in the FIRST Lego League. The next steps involve diving deeper into each aspect of the challenge, refining your skills, and preparing for competition day.
