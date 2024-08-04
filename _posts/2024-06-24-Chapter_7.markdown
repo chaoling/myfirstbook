@@ -9,8 +9,85 @@ categories: chapter
 
 ## Understanding the FLL Core Values
 
+The FIRST Lego League (FLL) Core Values are essential principles that guide teams throughout the competition. They emphasize not just what teams accomplish, but how they work together to achieve their goals.
+
+### The Core Values
+- **Discovery**: We explore new skills and ideas.
+- **Innovation**: We use creativity and persistence to solve problems.
+- **Impact**: We apply what we learn to improve our world.
+- **Inclusion**: We respect each other and embrace our differences.
+- **Teamwork**: We are stronger when we work together.
+- **Fun**: We enjoy and celebrate what we do!
+
+Understanding and embracing these Core Values helps teams build a strong foundation of character and team spirit, which are crucial for success in FLL and beyond.
+
 ## Integrating Core Values into Daily Practices
+
+Incorporating Core Values into your team's daily practices ensures that they are more than just words on a page. Here’s how to make them a living part of your team's culture:
+
+### Daily Integration
+- **Morning Check-Ins**: Start each meeting with a brief check-in where team members share how they plan to embody the Core Values that day.
+- **Core Values Moments**: During activities, pause to highlight moments where Core Values are being demonstrated. This reinforces positive behavior.
+- **Reflection Sessions**: End each meeting with a reflection on how the team applied the Core Values during their work.
+
+### Leadership by Example
+- **Mentors and Coaches**: Adults should model the Core Values in their interactions with the team, providing a consistent example for students to follow.
+- **Team Leaders**: Encourage team leaders to exemplify the Core Values in their roles, guiding their peers by example.
 
 ## Team Building Activities
 
+Team building activities are vital for fostering strong relationships and a collaborative spirit within the team.
+
+### Icebreakers and Games
+- **Lego Challenges**: Use quick-build challenges to encourage creativity and teamwork.
+- **Problem-Solving Games**: Engage in games that require collaboration and communication, such as escape rooms or team puzzles.
+
+### Workshops and Exercises
+- **Role-Playing Scenarios**: Practice handling conflicts and difficult situations through role-playing, reinforcing respect and inclusion.
+- **Communication Workshops**: Conduct workshops focused on effective communication skills, active listening, and constructive feedback.
+
+### Group Projects
+- **Mini Projects**: Work on small, non-competition related projects that require teamwork and collective problem-solving.
+- **Community Service**: Participate in community service projects as a team to build a sense of shared purpose and impact.
+
 ## Celebrating Diversity and Inclusion
+
+Celebrating diversity and promoting inclusion strengthens the team by valuing each member's unique contributions.
+
+### Embracing Differences
+- **Cultural Exchange**: Encourage team members to share their cultural backgrounds and traditions, fostering mutual respect and understanding.
+- **Inclusive Language**: Use language that is inclusive and respectful of all team members, and address any instances of exclusion or bias promptly.
+
+### Creating an Inclusive Environment
+- **Safe Spaces**: Create an environment where all team members feel safe to express themselves and share their ideas.
+- **Equal Opportunities**: Ensure that all team members have equal opportunities to participate in activities, take on roles, and contribute to the team's success.
+
+### Celebratory Events
+- **Diversity Celebrations**: Celebrate team diversity through events that highlight different cultures, holidays, and traditions.
+- **Recognition of Efforts**: Acknowledge and celebrate the unique contributions of each team member, reinforcing their value to the team.
+
+## Observing and Judging Core Values
+
+Core Values are integral to the FLL experience and are observed and judged throughout the competition. Here are detailed examples of how Core Values are evaluated:
+
+### During Team Meetings
+- **Team Dynamics**: Judges may observe how team members interact during their presentations and demonstrations. Positive, respectful, and inclusive interactions are key indicators of strong Core Values.
+- **Problem Solving**: How the team approaches and solves problems collaboratively is assessed. Teams that encourage input from all members and use creative solutions demonstrate strong Core Values.
+
+### At Competitions
+- **Judging Sessions**: During Core Values judging sessions, teams are evaluated on how well they demonstrate the Core Values through specific challenges or activities. Judges look for evidence of teamwork, respect, and inclusion.
+- **Robot Game**: Observers may watch how the team handles successes and failures during the Robot Game. Teams that celebrate their achievements together and handle setbacks with grace and a positive attitude exemplify the Fun and Teamwork values.
+
+### Project Presentation
+- **Team Presentation**: During the Innovation Project presentation, judges assess how the team collaborates to present their project. Effective communication, shared responsibility, and mutual support are critical.
+- **Question and Answer**: How the team responds to judges' questions can reveal their Core Values. Teams that listen to each other, build on each other's ideas, and show respect for differing opinions demonstrate Inclusion and Teamwork.
+
+### Documentation and Reflection
+- **Engineering Notebook**: Detailed and reflective entries in the engineering notebook can showcase how the team embodies Core Values throughout their journey. Consistent documentation of team activities, challenges, and solutions highlights Discovery and Innovation.
+- **Reflections**: Teams are often asked to reflect on their experiences. Honest reflections on what they learned, how they grew as a team, and how they applied Core Values in their work are important.
+
+### Community Engagement
+- **Outreach Activities**: Judges may look at how teams engage with their community. Projects that have a positive impact on the community and involve community members show the Impact and Inclusion values.
+- **Partnerships**: Collaborations with experts, local organizations, or other teams can also be assessed. Teams that build meaningful partnerships demonstrate the Core Values in action.
+
+By understanding the FLL Core Values, integrating them into daily practices, engaging in team building activities, celebrating diversity and inclusion, and knowing how they are observed and judged, teams can build a strong, cohesive, and spirited group. This not only enhances their FLL experience but also prepares them with essential life skills for the future.
