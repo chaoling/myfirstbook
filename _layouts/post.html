@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+</head>
+<body>
+  <header>
+    <h1>{{ site.title }}</h1>
+  </header>
+  <main>
+    <article>
+      <h1>{{ page.title }}</h1>
+      {{ content }}
+    </article>
+    <nav>
+      {% assign chapter_number = page.title | remove: 'Chapter ' | split: ' ' | first | plus: 0 %}
+      {% assign next_chapter_number = chapter_number | plus: 1 %}
+      {% assign previous_chapter_number = chapter_number | minus: 1 %}
+      
+      {% for post in site.posts %}
+        {% assign post_chapter_number = post.title | remove: 'Chapter ' | split: ' ' | first | plus: 0 %}
+        {% if post_chapter_number == next_chapter_number %}
+          {% assign next_post = post %}
+        {% endif %}
+        {% if post_chapter_number == previous_chapter_number %}
+          {% assign previous_post = post %}
+        {% endif %}
+      {% endfor %}
+      
+      {% if previous_post %}
+        <a href="{{ site.baseurl }}{{ previous_post.url }}">Previous</a>
+      {% endif %}
+      {% if next_post %}
+        <a href="{{ site.baseurl }}{{ next_post.url }}">Next</a>
+      {% endif %}
+    </nav>
+  </main>
+  <footer>
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+  </footer>
+</body>
+</html>

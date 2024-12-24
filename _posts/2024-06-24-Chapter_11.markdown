@@ -1,0 +1,158 @@
+---
+layout: post
+title: "Chapter 11: Resources and Appendices"
+date: 2024-06-24 12:00:00 -0700
+categories: chapter
+---
+
+# Resources and Appendices
+
+## Useful Links and Tools
+
+### Robotics and Programming
+- **LEGO Mindstorms and SPIKE Prime**: [LEGO Education](https://education.lego.com/en-us/products/lego-mindstorms-ev3-core-set/5003400)
+- **Programming Resources**: [Scratch](https://scratch.mit.edu/), [Python](https://www.python.org/)
+
+### Project Management
+- **Trello**: [Trello](https://trello.com/)
+- **Asana**: [Asana](https://asana.com/)
+- **Google Workspace**: [Google Workspace](https://workspace.google.com/)
+
+### Research and Innovation
+- **Google Scholar**: [Google Scholar](https://scholar.google.com/)
+- **Khan Academy**: [Khan Academy](https://www.khanacademy.org/)
+
+### Simulation and Prototyping
+- **LEGO Digital Designer**: [LEGO Digital Designer](https://www.lego.com/en-us/ldd)
+- **Tinkercad**: [Tinkercad](https://www.tinkercad.com/)
+- **Fusion 360**: [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
+
+### Community and Support
+- **FIRST LEGO League Official Site**: [FIRST LEGO League](https://www.firstinspires.org/robotics/fll)
+- **FIRST LEGO League Forum**: [FLL Forum](https://forums.usfirst.org/forum/general-discussions/first-programs/first-lego-league)
+- **Reddit FLL Community**: [Reddit FLL](https://www.reddit.com/r/FLL/)
+
+## Sample Schedules and Checklists
+
+### Sample Team Schedule
+#### Pre-Season (June - August)
+- **June**
+  - Team formation and recruitment
+  - Initial brainstorming sessions
+  - Kick-off meeting with parents and mentors
+- **July**
+  - Research and initial project ideas
+  - Basic robot building and programming workshops
+- **August**
+  - Finalize project topic and research plan
+  - Prototype robot and initial testing
+
+#### Competition Season (September - December)
+- **September**
+  - Weekly team meetings
+  - Project development and research
+  - Robot design and programming iterations
+- **October**
+  - Practice presentations
+  - Robot testing and refinement
+  - Attend local workshops or scrimmages
+- **November**
+  - Finalize project and presentation
+  - Intensive robot practice sessions
+  - Mock judging sessions
+- **December**
+  - Regional competition
+  - Reflect and iterate based on feedback
+
+### Competition Day Checklist
+- **Robot Kit and Spare Parts**
+  - Fully charged batteries
+  - Backup sensors and motors
+  - Tools for quick repairs
+- **Documentation**
+  - Engineering notebook
+  - Printed project presentation
+  - Team member roles and schedules
+- **Presentation Materials**
+  - Visual aids (posters, slides, models)
+  - Laptop and backup USB drive with presentation files
+- **Personal Items**
+  - Team uniforms or shirts
+  - Snacks and water
+  - Emergency contact information
+
+## Templates for Documentation
+
+### Engineering Notebook Template
+#### Title Page
+- Team Name
+- Team Members
+- Coach/Mentor Names
+- Season Year
+
+#### Table of Contents
+
+#### Daily Log Entries
+- **Date**:
+- **Team Members Present**:
+- **Objectives**:
+- **Tasks Completed**:
+- **Challenges Faced**:
+- **Solutions Found**:
+- **Next Steps**:
+
+#### Project Research
+- **Problem Statement**:
+- **Research Notes**:
+- **Interviews and Expert Consultations**:
+- **Bibliography**:
+
+#### Robot Design and Programming
+- **Initial Design Sketches**:
+- **Programming Code**:
+- **Test Results and Iterations**:
+- **Final Design and Code**:
+
+### Presentation Template
+#### Title Slide
+- Project Title
+- Team Name
+- Competition Name and Year
+
+#### Introduction
+- Team introduction
+- Overview of the project topic
+
+#### Problem Statement
+- Description of the problem being addressed
+- Why it is important
+
+#### Research
+- Summary of research conducted
+- Key findings
+
+#### Solution
+- Description of the innovative solution
+- How it works
+- Benefits and potential impact
+
+#### Development Process
+- Steps taken to develop the solution
+- Prototyping and testing phases
+
+#### Conclusion
+- Summary of key points
+- Call to action or future steps
+
+## Glossary of Terms
+
+- **Autonomous**: Operating independently without human control.
+- **Brainstorming**: A group creativity technique used to generate a large number of ideas for the solution to a problem.
+- **CAD (Computer-Aided Design)**: Software used to create precision drawings or technical illustrations.
+- **Iteration**: A process of repeating a set of operations until a specific result is achieved.
+- **Prototype**: An early sample, model, or release of a product built to test a concept or process.
+- **Sensor**: A device that detects or measures a physical property and records, indicates, or otherwise responds to it.
+- **SPIKE Prime**: A LEGO Education robotics kit used in FLL competitions.
+- **STEM**: An acronym referring to the academic disciplines of science, technology, engineering, and mathematics.
+
+By providing these resources and appendices, this chapter aims to equip teams with the tools and knowledge they need to succeed in their FLL journey. Whether you're looking for useful links, sample schedules, templates, or terminology, these resources will support your team's preparation and performance.
