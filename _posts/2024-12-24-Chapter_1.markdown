@@ -1,0 +1,78 @@
+---
+layout: post
+title: "Chapter 1: Introduction"
+date: 2024-12-24 12:00:00 -0700
+categories: chapter
+next: /myfirstbook/2024/06/25/Chapter_2/
+---
+
+## Welcome to the World of FIRST LEGO League
+
+Welcome to the world of FIRST Lego League (FLL)—where robots roll, ideas soar, and coaches sometimes wonder if caffeine counts as a food group.
+
+If you’re reading this, chances are you’ve decided to dive into the wonderfully chaotic, endlessly rewarding adventure of FLL. Whether you’re a coach, a mentor, a parent who got "voluntold" to help, or a team member hoping for some insider tips, this book is your trusty guide.
+
+I’m Coach Ling, and over the years, I’ve had the joy (and occasional panic) of guiding FLL teams through robot meltdowns, last-minute presentations, and the sweet thrill of discovery. Trust me—this journey is as much about learning and growing as it is about Legos and robots. Spoiler alert: it’s a lot of fun, too.
+
+In these pages, we’ll tackle everything from managing team dynamics (hint: snacks are a universal peace treaty) to decoding the mysteries of robot programming and innovation projects. We’ll laugh, we’ll learn, and we’ll survive the chaos together—probably with a few extra gray hairs but also a heart full of pride.
+
+So, grab a cup of coffee, a Lego brick, or just your sense of adventure, and let’s dive into this amazing world. Ready? 3,2,1, LEGO!
+
+
+## My Journey as an FLL Coach
+My journey as an FLL coach began serendipitously in 2017 when I volunteered as an FLL judge at the state championship held at Arizona State University (ASU). It was my former colleague and friend, Tom Situ, who first introduced me to this incredible competition. Little did I know that this experience would ignite a passion for STEM education and lead me on a path filled with robots, teamwork, and occasional Lego-induced frustration (usually mine).
+
+### Discovering FLL  
+As a judge at the ASU state championship, I was immediately captivated by the boundless energy and creativity of the participants. The competition wasn’t just about building robots—it was a showcase of innovation, problem-solving, and, let’s be honest, some really intense snack consumption. Beyond the technical brilliance on display, I was deeply impressed by the core values of FLL, which emphasize gracious professionalism, teamwork, and community spirit. It was like watching an epic Lego-fueled episode of *Shark Tank*—with more smiles and fewer arguments.
+
+By the end of the day, I was hooked. FLL wasn’t just a competition; it was a transformative experience that empowered kids to think critically, work collaboratively, and believe in their ability to change the world. I knew I had to be a part of it.
+
+### Fire Kirin Takes Flight  
+Fueled by enthusiasm (and probably more coffee than was advisable), I approached the principal of our community chinese school in Arizona. Her excitement matched mine, and we immediately set out to form our very first FLL team: Fire Kirin (#33274). Little did we know, this small team of aspiring innovators would go on to make a big impact.
+
+Fire Kirin began its journey in 2017 with a handful of eager students and one lofty goal: have fun and learn. Over the years, the team evolved, achieving numerous awards in robot design and earning a reputation for their creativity and resilience. In the 2022–2023 *Super Powered* season, Fire Kirin reached a major milestone by winning the Arizona Champion’s Award and advancing to the World Championship in Houston. You can follow their journey (and see some epic robot designs) at [facebook.com/firekirinFLL](https://facebook.com/firekirinFLL).
+
+In the following season (*Masterpiece* in 2023–2024), Fire Kirin continued to impress by winning the Robot Design Award at the ASU State Championship. Their legacy of innovation and teamwork remained strong.
+
+### Enter the Golden Phoenix  
+In 2023, we decided to expand our reach and launched a second team: Golden Phoenix (#61064). Aiming to bring the magic of FLL to even more students, this rookie team soared to incredible heights in their very first season. Golden Phoenix won the Champion’s Award at the Arizona state competition (*Masterpiece* season, 2023–2024) and advanced to the World Championship in Houston, where they earned the prestigious Engineering Excellence Award as a rookie team! Their journey is chronicled at [facebook.com/goldenphoenixFLL](https://facebook.com/goldenphoenixFLL).
+
+### Building a Legacy  
+Watching these teams grow and succeed has been nothing short of inspiring. More importantly, their journeys are a testament to the power of curiosity, teamwork, and a few thousand Lego pieces. Fire Kirin and Golden Phoenix continue to thrive, representing what’s possible when young minds are given the tools and encouragement to explore STEM.
+
+FLL isn’t just about robots; it’s about equipping students with the skills and confidence to tackle the future. And for me, it’s been a journey of growth and inspiration. My hope is to continue championing STEM education and to encourage more educators and parents to join this adventure. Together, we can help the next generation build not just robots, but also brighter futures.
+
+In this section, I have shared my personal journey from a curious volunteer to a dedicated FLL coach. My story is a testament to the impact of FLL and the importance of fostering a supportive and engaging learning environment for students. Whether you are a new coach or an experienced mentor, I hope my experiences provide inspiration and practical insights to help you on your own FLL journey.
+
+## The Importance of STEM Education via FIRST Programs
+
+### Why STEM Education Matters
+Let’s face it—the future is looking a lot like a sci-fi movie. Automation, artificial intelligence, and technological advancements are transforming the way we live and work. For today’s students, understanding STEM (Science, Technology, Engineering, and Mathematics) isn’t just a bonus; it’s a necessity. These skills aren’t just for scientists and engineers—they’re the foundation for thriving in an increasingly tech-driven world.
+
+FIRST programs, including the LEGO League, play a vital role in preparing students for this future. But unlike that algebra worksheet collecting dust on a desk, FIRST makes STEM exciting, hands-on, and deeply meaningful. It’s where robots and creativity collide, and where students learn that science isn’t just about formulas—it’s about discovery, innovation, and changing the world.
+
+At the heart of FLL lies a simple yet powerful mantra: "We don’t use kids to build robots; we use robots to build kids." This philosophy underscores everything that FLL stands for, emphasizing that the program isn’t just about engineering—it’s about empowering young minds to grow, learn, and lead.
+
+### Beyond the Classroom
+What sets FIRST programs apart from traditional STEM education is their ability to connect theory with practice. Students don’t just learn how gears work; they use gears to solve real-world problems. They don’t just memorize programming syntax; they use it to create solutions, tackle challenges, and—most importantly—have fun.
+
+Research consistently shows the benefits of hands-on STEM programs. Participation in initiatives like FLL boosts critical thinking, improves academic performance, and sparks a lifelong interest in STEM fields. For students, this isn’t just an after-school activity—it’s a launching pad for future success. And for educators and parents, it’s a golden opportunity to foster curiosity and creativity.
+
+### Building Skills for the Real World
+FIRST programs don’t just teach technical skills—they build life skills. In FLL, students learn to:
+- Collaborate effectively with teammates (even when someone accidentally drops the robot).
+- Solve problems creatively (like when the robot does the exact opposite of what it’s supposed to do).
+- Communicate their ideas confidently (because judges love a good presentation).
+- Embrace failure as a stepping stone to success (cue the “oops” moments).
+
+These lessons extend far beyond the competition field. Whether students go on to become engineers, entrepreneurs, or anything in between, the skills they develop through FIRST are universally valuable.
+
+### Strengthening Communities
+The impact of FIRST programs isn’t limited to students. Entire communities benefit when young people are inspired to innovate. FLL projects often address local challenges, fostering a sense of responsibility and connection. Teams frequently collaborate with community members, businesses, and organizations, creating a ripple effect of positive change.
+
+Moreover, programs like FLL bring people together. Parents, mentors, educators, and volunteers unite to support a common goal: helping students succeed. This sense of shared purpose strengthens bonds and builds lasting relationships, proving that it really does take a village to raise a future innovator.
+
+### A Call to Action
+Investing in STEM education through programs like FIRST isn’t just an investment in students—it’s an investment in our collective future. By encouraging creativity, critical thinking, and collaboration, these programs help ensure that the next generation is ready to tackle the challenges of tomorrow.
+
+In the next sections, we’ll dive deeper into how to make the most of FIRST LEGO League. From team building to technical tips, you’ll find practical advice and inspiring stories to guide your journey as a coach, mentor, parent, or team member. Together, let’s empower the innovators of tomorrow, one robot at a time.
