@@ -1,31 +1,30 @@
 ---
 layout: post
 title: "Chapter 2: Getting Started"
-date: 2024-06-24 12:00:00 -0700
+date: 2024-12-24 12:00:00 -0700
 categories: chapter
 ---
 
-# Chapter 2: Getting Started
-
 ## Understanding the FLL Program
 
-The FIRST Lego League (FLL) program is a global competition designed to inspire young people in the fields of science, technology, engineering, and mathematics (STEM). It encourages teamwork, creativity, and problem-solving skills through a combination of robotics, research projects, and core values. Each year, FLL releases a new challenge that includes three parts: the Robot Game, the Innovation Project, and the Core Values.
+The FIRST Lego League (FLL) program is a global competition designed to inspire young people in the fields of science, technology, engineering, and mathematics (STEM). It encourages teamwork, creativity, and problem-solving skills through a combination of robot design and game, research projects, and core values. Each year, FLL releases a new challenge that includes four parts: the Robot Game, the Robet Design, the Innovation Project, and the Core Values.
 
-- **Robot Game**: Teams build and program an autonomous robot using LEGO Mindstorms or SPIKE Prime kits to complete various missions on a themed playing field. The goal is to score as many points as possible within a set time limit.
+- **Robot Game**: Teams build and program an autonomous robot using LEGO Mindstorms or SPIKE Prime kits to complete various missions on a themed playing field. The goal is to score as many points as possible within a set time limit (2.5 minutes).
+- **Robot Design**: Teams use engineering process to design mechanically sound and highly capable robot using lego pieces and hubs from lego education. Multiple iterations of design and testing are typical throughout the season and they present their robot mission strategy, mechanical design, programming and testing process to the judges.
 - **Innovation Project**: Teams identify a real-world problem related to the annual theme, research it, and propose an innovative solution. They present their findings and solutions to judges.
-- **Core Values**: FLL emphasizes the importance of teamwork, inclusion, and fun. Core values like discovery, innovation, impact, inclusion, teamwork, and fun are integrated into all aspects of the competition.
+- **Core Values**: FLL emphasizes the importance of teamwork, inclusion, and fun. Core values like discovery, innovation, impact, inclusion, teamwork, and fun are integrated into all aspects of the competition and are the cornerstone of the FIRST LEGO League program. "Kids do the work" is an underlying rule at the core of the FLL program.
 
 ## Forming Your Team: Recruitment and Roles
 
 Creating a successful FLL team begins with recruitment and defining roles. Here’s how to get started:
 
 ### Recruitment
-- **Identify Potential Members**: Look for students aged 9 to 16 (9-14 in USA) who are enthusiastic about robotics, coding, and problem-solving. Schools, community centers, and after-school programs are great places to find interested participants.
-- **Diverse Skills**: Aim for a mix of talents, including engineering, programming, research, and presentation skills. A diverse team can tackle the challenge from multiple angles.
+- **Identify Potential Members**: Look for students aged 9 to 16 (9-14 in USA) who are enthusiastic about robotics, coding, and problem-solving. Schools, community centers, and after-school programs are great places to find interested participants. 
+- **Diverse Skills**: Aim for a mix of talents, including engineering, programming, research, and presentation skills. A diverse team can tackle the challenge from multiple angles. Hint: although it is a robotic team, we need team members of all talent: from project manager to lawyer, from engineer to fundraiser, just like hiring many positions to form a startup company. 
 - **Informational Meetings**: Host meetings to explain the FLL program, the time commitment, and the benefits of participating. Engage parents and guardians to gain their support.
 
 ### Defining Roles
-- **Team Roles**: Assign specific roles such as team leader, robot designer, programmer, researcher, and presenter. Each member should have a clear understanding of their responsibilities.
+- **Team Roles**: Assign specific roles such as team leader, robot designer, programmer, researcher, and project manager. Each member should have a clear understanding of their responsibilities.
 - **Mentors and Coaches**: Adult mentors and coaches provide guidance, support, and expertise. They help the team stay organized, motivated, and focused on their goals.
 
 ## Securing Funding and Resources
