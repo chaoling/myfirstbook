@@ -42,7 +42,7 @@ In the following season (*Masterpiece* in 2023–2024), Fire Kirin continued to 
 ### Enter the Golden Phoenix  
 ![Golden_Phoenix_Team_Mascot] ({{ site.baseurl }}/assets/images/gp-mascot.png)
 In 2023, we decided to expand our reach and launched a second team: Golden Phoenix (#61064). Aiming to bring the magic of FLL to even more students, this rookie team soared to incredible heights in their very first season. Golden Phoenix won the Champion’s Award at the Arizona state competition (*Masterpiece* season, 2023–2024) and advanced to the World Championship in Houston, where they earned the prestigious Engineering Excellence Award as a rookie team! 
-![Golden Phoenix Team Group Photo] ({{ site.baseurl }}/assets/images/GoldenPhoenix-61064.jpg)
+![Golden_Phoenix_Team_Group_Photo] ({{ site.baseurl }}/assets/images/GoldenPhoenix-61064.jpg)
 Their journey is chronicled at [facebook.com/goldenphoenixFLL](https://facebook.com/goldenphoenixFLL).
 
 ### A Growing Legacy
