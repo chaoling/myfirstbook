@@ -1,97 +1,191 @@
 ---
 layout: post
-title: "Chapter 1: Introduction"
+title: "Chapter 1: We Use Robots to Build Kids"
 date: 2024-12-25 12:00:00 -0700
 categories: chapter
-next: /myfirstbook/2024/06/25/Chapter_2/
+next: /myfirstbook/2024/06/24/Chapter_2/
 ---
 
-## Welcome to the World of FIRST LEGO League
+## The Child Is the Final Product
 
-Welcome to the world of FIRST Lego League (FLL)—where robots roll, ideas soar, and coaches sometimes wonder if caffeine counts as a food group.
+At the beginning of the season, Shiyu could barely introduce himself.
 
-If you’re reading this, chances are you’ve decided to dive into the wonderfully chaotic, endlessly rewarding adventure of FLL. Whether you’re a coach, a mentor, a parent who got "voluntold" to help, or a team member hoping for some insider tips, this book is your trusty guide.
+When it was his turn to speak, he was very shy. Even saying his name in front of the team felt difficult. If you had met him then, you probably would not have guessed that a few months later he would be explaining the team's acceleration and deceleration code, and how it worked together with PID control. You certainly would not have guessed that he would speak in a judging room at the FIRST LEGO League World Championship in Houston.
 
-I’m Coach Ling, and over the years, I’ve had the joy (and occasional panic) of guiding FLL teams through robot meltdowns, last-minute presentations, and the sweet thrill of discovery. Trust me—this journey is as much about learning and growing as it is about Legos and robots. Spoiler alert: it’s a lot of fun, too.
+But that is exactly what happened.
 
-In these pages, we’ll tackle everything from managing team dynamics (hint: snacks are a universal peace treaty) to decoding the mysteries of robot programming and innovation projects. We’ll laugh, we’ll learn, and we’ll survive the chaos together—probably with a few extra gray hairs but also a heart full of pride.
+Shiyu was a member of Golden Phoenix (#61064), a rookie team in the 2023–2024 *MASTERPIECE* season. During one practice, I asked him to step forward and teach the class how the team's acceleration and deceleration code worked together with PID control. Acceleration and deceleration control was new for the team that season and remained one of its technical difficulties. It was not a pretend assignment invented to make him feel included. It was real technical work that the team needed to understand. He prepared, stood in front of everyone, and gave a good demonstration.
 
-So, grab a cup of coffee, a Lego brick, or just your sense of adventure, and let’s dive into this amazing world. Ready? 3,2,1, LEGO!
+Later, during a competition judging session, the judges asked the familiar final question: "What else would you like us to know?" Shiyu realized that the team had not said enough about Core Values. He reminded his teammates to talk about them. That small moment of awareness may have helped the judges understand the complete team—not only its robot and project, but also how its members worked and grew together.
 
+At the World Championship that same rookie season, Shiyu told the judges that FLL had changed his personality. The child who once struggled to introduce himself had found his voice. In later seasons, he became a team leader.
 
-## My Journey as an FLL Coach
-My journey as an FLL coach began serendipitously in 2017 when I volunteered as an FLL judge at the state championship held at Arizona State University (ASU). It was my former colleague and friend, Tom Situ, who first introduced me to this incredible competition. Little did I know that this experience would ignite a passion for STEM education and lead me on a path filled with robots, teamwork, and occasional Lego-induced frustration (usually mine).
+That is why I coach.
 
-### Discovering FLL  
-As a judge at the ASU state championship, I was immediately captivated by the boundless energy and creativity of the participants. The competition wasn’t just about building robots—it was a showcase of innovation, problem-solving, and, let’s be honest, some really intense snack consumption. Beyond the technical brilliance on display, I was deeply impressed by the core values of FLL, which emphasize gracious professionalism, teamwork, and community spirit. It was like watching an epic Lego-fueled episode of *Shark Tank*—with more smiles and fewer arguments.
+The robot matters. The Innovation Project matters. Competition matters, too—no honest competitive coach should pretend otherwise. Awards can motivate a team, and we are proud when our children's hard work is recognized. But the robot is not the final product.
 
-By the end of the day, I was hooked. FLL wasn’t just a competition; it was a transformative experience that empowered kids to think critically, work collaboratively, and believe in their ability to change the world. I knew I had to be a part of it.
+The child is the final product.
 
-### Fire Kirin Takes Flight  
-Fueled by enthusiasm (and probably more coffee than was advisable), I approached the principal of our community chinese school in Arizona. Her excitement matched mine, and we immediately set out to form our very first FLL team: Fire Kirin (#33274). Little did we know, this small team of aspiring innovators would go on to make a big impact.
+This is the philosophy at the center of this book: **we do not use kids to build robots; we use robots to build kids.**
 
-Fire Kirin began its journey in 2017 with a handful of eager students and one lofty goal: have fun and learn. Over the years, the team evolved, achieving numerous awards in robot design and earning a reputation for their creativity and resilience. In the 2022–2023 *Super Powered* season, Fire Kirin reached a major milestone by winning the Arizona Champion’s Award and advancing to the World Championship in Houston. 
+## Welcome to the Wonderful Chaos
 
-![FireKirin_Team_Compete_at_World_Festival]({{ site.url }}{{ site.baseurl }}/assets/images/fk-world-2023-1.jpg){: width="500" height="300"}
+Welcome to the world of FIRST LEGO League (FLL)—where robots roll, ideas soar, and coaches sometimes wonder whether caffeine counts as a food group.
 
-You can follow their journey (and see some epic robot designs) at [facebook.com/firekirinFLL](https://facebook.com/firekirinFLL).
+If you are reading this book, there is a good chance that someone has asked you to coach a team. Maybe you volunteered enthusiastically. Maybe you are a teacher or engineer who wants to give something back. Maybe you are a parent who was "voluntold" because your child likes LEGO bricks. You may be excited, confused, or already staring at a box of parts and wondering what you have gotten yourself into.
 
-![FireKirin_Team_Houston_World_Festival]({{ site.url }}{{ site.baseurl }}/assets/images/FireKirinWorld2023gp.jpg){: width="500" height="300"}
+I know the feeling.
 
+You may believe that an FLL coach must be the best programmer in the room. You may worry that you cannot answer every engineering question. You may think a successful season begins with a perfect robot plan.
 
-In the following season (*Masterpiece* in 2023–2024), Fire Kirin continued to impress by winning the Robot Design Award at the ASU State Championship. Their legacy of innovation and teamwork remained strong.
+It does not.
 
-### Enter the Golden Phoenix  
+A coach does not need to hold every answer. A coach needs to create the conditions in which children learn how to find answers together. We show them the rope. We demonstrate important concepts, spark their interest, and help them believe that the problem is worth solving. Then we let them climb. We stay close enough to give frequent and constructive feedback, but we do not climb for them.
 
-![Golden_Phoenix_Team_Mascot]({{ site.url }}{{ site.baseurl }}/assets/images/gp-mascot.png){: width="500" height="300"}
+That boundary sounds simple. In practice, it may be the hardest part of coaching.
 
-In 2023, we decided to expand our reach and launched a second team: Golden Phoenix (#61064). Aiming to bring the magic of FLL to even more students, this rookie team soared to incredible heights in their very first season. Golden Phoenix won the Champion’s Award at the Arizona state competition (*Masterpiece* season, 2023–2024) and advanced to the World Championship in Houston, where they earned the prestigious Engineering Excellence Award as a rookie team! 
-![Golden_Phoenix_Team_Group_Photo]({{ site.url }}{{ site.baseurl }}/assets/images/GoldenPhoenix-61064.jpg){: width="500" height="300"}
+When a robot fails one week before competition, an adult can often repair it faster. When a presentation is disorganized, an adult can rewrite it in an evening. When a prototype looks unfinished beside the polished work of another team, every instinct tells us to step in.
 
-Their journey is chronicled at [facebook.com/goldenphoenixFLL](https://facebook.com/goldenphoenixFLL).
+But if we take ownership away from the children, we may improve the object while weakening the child. A shinier prototype is not worth that trade.
 
-### A Growing Legacy
-Not only have Fire Kirin and Golden Phoenix achieved great success in their own FLL journeys, but their alumni have also gone on to expand the reach of FLL within our community. Graduates of the two teams have formed additional FLL teams, such as Alienators, Explorers (#64955), the Potato Heads (#65150), and Techno Titans (#66253), to name just a few.
+This book is about how to guide without taking over, compete without losing perspective, and build a team in which every child has meaningful work and a voice.
 
-Their contributions don’t stop there. One particularly driven team member began coaching robotics clubs at her high school and later assisted her teacher in teaching FLL concepts in the classroom. Over the past two years, she has been instrumental in forming eight new FLL teams, inspiring more students to embrace STEM and the values of FLL.
+## I Entered FLL Through the Judging Room
 
-Watching this ripple effect—where one team's journey sparks a cascade of innovation and learning—is a testament to the transformative power of FLL. These young leaders are not only building robots but also fostering a culture of creativity, collaboration, and mentorship in our community.
+My FLL journey began in 2017, when my former colleague and friend Tom Situ introduced me to the program. I volunteered as a judge at the Arizona state championship at Arizona State University.
 
-Watching these teams grow and succeed has been nothing short of inspiring. More importantly, their journeys are a testament to the power of curiosity, teamwork, and a few thousand Lego pieces. Fire Kirin and Golden Phoenix continue to thrive, representing what’s possible when young minds are given the tools and encouragement to explore STEM.
+I arrived as a curious volunteer. By the end of the day, I was hooked.
 
-FLL isn’t just about robots; it’s about equipping students with the skills and confidence to tackle the future. And for me, it’s been a journey of growth and inspiration. My hope is to continue championing STEM education and to encourage more educators and parents to join this adventure. Together, we can help the next generation build not just robots, but also brighter futures.
+The students' energy was impossible to miss. They had designed robots, researched real problems, tested ideas, survived disagreements, and somehow organized all of that learning into presentations for a room full of adults. Some robots performed beautifully. Others developed what I will politely call "competition-day personalities." Yet the most impressive part was not any single machine.
 
-In this section, I have shared my personal journey from a curious volunteer to a dedicated FLL coach. My story is a testament to the impact of FLL and the importance of fostering a supportive and engaging learning environment for students. Whether you are a new coach or an experienced mentor, I hope my experiences provide inspiration and practical insights to help you on your own FLL journey.
+It was the children.
 
-## The Importance of STEM Education via FIRST Programs
+I saw students thinking under pressure, building on one another's answers, and recovering when something did not go as planned. I saw the values FIRST calls Discovery, Innovation, Impact, Inclusion, Teamwork, and Fun. I saw Gracious Professionalism—the belief that we can compete intensely while respecting and helping one another.
 
-### Why STEM Education Matters
-Let’s face it—the future is looking a lot like a sci-fi movie. Automation, artificial intelligence, and technological advancements are transforming the way we live and work. For today’s students, understanding STEM (Science, Technology, Engineering, and Mathematics) isn’t just a bonus; it’s a necessity. These skills aren’t just for scientists and engineers—they’re the foundation for thriving in an increasingly tech-driven world.
+Judging also taught me something I later had to relearn as a coach: judges are not looking only for a final answer. They are trying to understand the team's journey. Who did the work? How did the design change? What did the team learn from failure? Can every child explain a meaningful contribution? Do the Core Values appear only on a poster, or can they be seen in the way the team behaves?
 
-FIRST programs, including the LEGO League, play a vital role in preparing students for this future. But unlike that algebra worksheet collecting dust on a desk, FIRST makes STEM exciting, hands-on, and deeply meaningful. It’s where robots and creativity collide, and where students learn that science isn’t just about formulas—it’s about discovery, innovation, and changing the world.
+The engineering process matters more than a perfect-looking result. Core Values are visible everywhere—inside and outside the judging room, at the practice table, in the pit, and at the Robot Game table.
 
-At the heart of FLL lies a simple yet powerful mantra: "We don’t use kids to build robots; we use robots to build kids." This philosophy underscores everything that FLL stands for, emphasizing that the program isn’t just about engineering—it’s about empowering young minds to grow, learn, and lead.
+By the end of that state championship, I did not want to remain only an observer. I wanted to coach.
 
-### Beyond the Classroom
-What sets FIRST programs apart from traditional STEM education is their ability to connect theory with practice. Students don’t just learn how gears work; they use gears to solve real-world problems. They don’t just memorize programming syntax; they use it to create solutions, tackle challenges, and—most importantly—have fun.
+## Fire Kirin: Where We Learned by Making Mistakes
 
-Research consistently shows the benefits of hands-on STEM programs. Participation in initiatives like FLL boosts critical thinking, improves academic performance, and sparks a lifelong interest in STEM fields. For students, this isn’t just an after-school activity—it’s a launching pad for future success. And for educators and parents, it’s a golden opportunity to foster curiosity and creativity.
+I approached the principal of Hope Chinese School in Arizona, and together we formed Fire Kirin (#33274) in 2017. My daughter joined the team and remained part of its journey through the 2022–2023 *SUPERPOWERED* season.
 
-### Building Skills for the Real World
-FIRST programs don’t just teach technical skills—they build life skills. In FLL, students learn to:
-- Collaborate effectively with teammates (even when someone accidentally drops the robot).
-- Solve problems creatively (like when the robot does the exact opposite of what it’s supposed to do).
-- Communicate their ideas confidently (because judges love a good presentation).
-- Embrace failure as a stepping stone to success (cue the “oops” moments).
+Like many rookie coaches, I began with enthusiasm and incomplete understanding. Our first season moved slowly. We struggled with time management and student commitment. Not enough children were involved deeply enough, early enough. At a regional competition, one team member told the judges that the coach had designed the robot. That was not true, but the statement revealed a real failure in our process: the student did not understand the team's work well enough to explain it.
 
-These lessons extend far beyond the competition field. Whether students go on to become engineers, entrepreneurs, or anything in between, the skills they develop through FIRST are universally valuable.
+We did not advance to the state championship.
 
-### Strengthening Communities
-The impact of FIRST programs isn’t limited to students. Entire communities benefit when young people are inspired to innovate. FLL projects often address local challenges, fostering a sense of responsibility and connection. Teams frequently collaborate with community members, businesses, and organizations, creating a ripple effect of positive change.
+It was painful, but it became one of my most important coaching lessons. If only a few students understand how the robot was created, then the team does not fully own the robot—even when the coach never touched the design. Children need meaningful responsibilities throughout the season. They need to document their decisions, learn one another's work, and practice speaking before judging day.
 
-Moreover, programs like FLL bring people together. Parents, mentors, educators, and volunteers unite to support a common goal: helping students succeed. This sense of shared purpose strengthens bonds and builds lasting relationships, proving that it really does take a village to raise a future innovator.
+We learned to plan earlier. We learned to involve more students. We learned that judging preparation is not about memorizing a polished script; it is about helping children recognize and communicate what they genuinely did and learned.
 
-### A Call to Action
-Investing in STEM education through programs like FIRST isn’t just an investment in students—it’s an investment in our collective future. By encouraging creativity, critical thinking, and collaboration, these programs help ensure that the next generation is ready to tackle the challenges of tomorrow.
+Fire Kirin grew with us. Over the years, the team earned awards for its robot work, creativity, and resilience. In the 2022–2023 *SUPERPOWERED* season, Fire Kirin won the Arizona Champion's Award and advanced to the World Championship in Houston. My daughter finished her Fire Kirin journey on that world stage—six seasons after our difficult beginning.
 
-In the next sections, we’ll dive deeper into how to make the most of FIRST LEGO League. From team building to technical tips, you’ll find practical advice and inspiring stories to guide your journey as a coach, mentor, parent, or team member. Together, let’s empower the innovators of tomorrow, one robot at a time.
+![Fire Kirin competing at the 2023 World Championship]({{ site.url }}{{ site.baseurl }}/assets/images/fk-world-2023-1.jpg){: width="500" height="300"}
+
+![Fire Kirin at the 2023 World Championship in Houston]({{ site.url }}{{ site.baseurl }}/assets/images/FireKirinWorld2023gp.jpg){: width="500" height="300"}
+
+In the following *MASTERPIECE* season, Fire Kirin won a regional Champion's Award and first place in Robot Performance. I received the Coach/Mentor Award at that regional competition. At the Arizona state championship, Fire Kirin earned the Robot Design Award.
+
+I was grateful for the Coach/Mentor Award, but its meaning was deeper than recognition from the judges. It reflected appreciation from the children. Coaches spend many evenings worrying about schedules, team conflict, broken robots, unfinished research, and whether anyone remembered to bring the charger. We do not always know whether the children understand that work. Sometimes they do.
+
+You can follow Fire Kirin's continuing journey at [facebook.com/FireKirinFLL](https://facebook.com/FireKirinFLL).
+
+## Golden Phoenix: Excellence Without Taking Over
+
+In the 2023–2024 *MASTERPIECE* season, we created Golden Phoenix (#61064). This time, we were not beginning from zero. We brought lessons from Fire Kirin: assign real responsibilities, involve every student, document the process, prepare everyone to speak, and pay attention to the whole FLL program—not only the Robot Game leaderboard.
+
+![Golden Phoenix team mascot]({{ site.url }}{{ site.baseurl }}/assets/images/gp-mascot.png){: width="500" height="300"}
+
+Golden Phoenix won the Arizona Champion's Award and advanced to the World Championship in its rookie season. But before Houston, the team had a serious weakness: its Innovation Project prototype was not where we wanted it to be.
+
+The mentors demonstrated how SPIKE Prime parts could be used for prototyping. We showed examples from past projects to inspire ideas. The children made progress, but they did not arrive with the kind of shiny, fully developed prototype we saw from some other world-level teams.
+
+It would have been easy for adults to finish it.
+
+We did not.
+
+The children presented the work they actually understood and owned. Golden Phoenix earned the Engineering Excellence Award at the World Championship—an award recognizing strong achievement across the program. Their success did not mean the prototype was secretly perfect. It meant that excellence is larger than one artifact. The judges saw engineering, learning, teamwork, communication, and potential in a complete rookie team.
+
+That season also gave us Shiyu's transformation. To me, his new confidence was more important than any trophy.
+
+![Golden Phoenix at a 2025 SUBMERGED season regional qualifier competition]({{ site.url }}{{ site.baseurl }}/assets/images/GoldenPhoenix-61064.jpg){: width="500" height="300"}
+
+You can follow Golden Phoenix at [facebook.com/GoldenPhoenixFLL](https://facebook.com/GoldenPhoenixFLL).
+
+## Iron Pegasus: A Rookie Team Built on Years of Lessons
+
+Iron Pegasus (#72674) began in the 2025–2026 *UNEARTHED* season. It was a new team, but our coaching philosophy was no longer new. Iron Pegasus inherited lessons earned through years of mistakes, reflection, and growth.
+
+The team advanced to the World Championship in Houston and received the Rising All-Star Award. My wife, Coach Min Lu, received the Coach/Mentor Award there.
+
+![Iron Pegasus at the 2026 FIRST Championship in Houston]({{ site.url }}{{ site.baseurl }}/assets/images/IronPegasus-Houston-2026.jpg){: width="500" height="300"}
+
+Those two awards belong together in my mind. One recognized a young team with remarkable promise. The other recognized the mentorship and culture helping that promise emerge. A strong rookie season is almost never built in one season. It grows from accumulated knowledge, a community willing to help, and coaches who continue learning alongside the children.
+
+You can follow Iron Pegasus at [facebook.com/IronPegasusFLL](https://facebook.com/IronPegasusFLL).
+
+## What I Believe About Coaching
+
+Nearly a decade of coaching and judging has not given me a perfect formula. Every team is different, every season brings new surprises, and children are very talented at discovering problems no coaching manual anticipated. But six principles guide my work.
+
+### 1. Show Them the Rope, but Let Them Climb
+
+Introduce the concept. Demonstrate a technique. Ask questions that open a path. Give frequent, specific, and constructive feedback. Then return ownership to the children.
+
+"Kids do the work" does not mean adults do nothing. It means adults teach without secretly becoming team members.
+
+### 2. Make Ownership Visible
+
+Our teams use a RACI chart so students, mentors, and coaches understand their responsibilities and boundaries. For each major job, we identify who is Responsible, Accountable, Consulted, and Informed.
+
+Every student holds several roles. One may program missions and help document the engineering process. Another may lead research, contact professionals, and prepare outreach materials. Roles do not create status. They create ownership.
+
+When ownership is clear, children can honestly say, "This is what I did, this is what I learned, and this is how my work helped the team."
+
+### 3. Talent Never Excuses Poor Values
+
+The six FLL Core Values and Gracious Professionalism are not decorations for a presentation board. They are our behavioral foundation. A talented programmer does not receive permission to disrespect a teammate. A high Robot Game score does not excuse mocking another team.
+
+When behavior violates our values, we address it directly. The goal is accountability, reflection, and repairing the team—not humiliation. Core Values matter most in the moments when following them is difficult.
+
+### 4. Give Every Child a Voice
+
+Dominant students naturally fill silence. Quiet students can disappear inside it. A coach must design opportunities for everyone to contribute.
+
+We assign homework, presentations, and small-group projects so that each student has a chance to produce and explain meaningful work. This is good preparation for judging, where every child should contribute, but the purpose is larger. A child cannot become a leader if the team never makes room for that child's voice.
+
+### 5. Define Winning as Beating Yesterday
+
+Winning is a healthy motivator, but our definition must be broad enough to help children grow. Did the robot become more reliable? Did the team recover from conflict more constructively? Did a quiet student speak? Did the children ask better questions than they asked last month?
+
+Compete against other teams on tournament day. Compete against yesterday every day.
+
+Awards are consequences of hard work—and sometimes luck. They are not proof of a child's value. There is no meaningless competition if the team learns from it.
+
+### 6. Reflect, Especially When It Hurts
+
+Saying "everyone is a winner" should never become an excuse to avoid honest evaluation. After a competition or season, we ask what went well, what did not, and what we will change next time.
+
+Our first Fire Kirin season taught us about time management, commitment, shared ownership, and judging preparation. Those lessons helped later teams reach places we could not imagine in 2017. Reflection turns a disappointing result into future capability.
+
+The real journey is not from regional competition to state championship to Houston. It is from one version of the team to a better one.
+
+## A Book for the First-Time Volunteer Coach
+
+This book is for the coach standing at the beginning of that journey.
+
+We will discuss how to recruit a team, work with parents, divide responsibilities, plan a season, guide robot design and programming, approach the Innovation Project, teach Core Values, prepare for judging, and survive competition day with both your team spirit and your sense of humor intact.
+
+I will write from two sides of the judging-room door. As a coach, I know the pressure of helping children prepare while respecting the boundary that the work must remain theirs. As a judge, I know that a polished presentation cannot replace authentic understanding—and that a nervous child may know much more than the first answer reveals.
+
+I will also share our mistakes. A book containing only championship stories would teach the wrong lesson. Fire Kirin, Golden Phoenix, and Iron Pegasus reached the World Championship, but none of them traveled a straight road. Their difficult moments are often more useful than their trophies.
+
+You do not need to be an expert in everything before you begin. You need patience, curiosity, clear boundaries, and the courage to let children struggle long enough to surprise you.
+
+There will be robot meltdowns, unfinished presentations, disagreements, missing LEGO pieces, and a few extra gray hairs. There will also be moments like Shiyu standing in Houston and telling the judges that FLL changed him.
+
+Those moments make the chaos worthwhile.
+
+Ready? 3, 2, 1, LEGO!
