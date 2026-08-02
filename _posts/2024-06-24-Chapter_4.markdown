@@ -184,6 +184,10 @@ By the final physical draft, the game was fully printed rather than assembled fr
 
 The team began commercializing versions of the game, including through online marketplaces, with a plan to donate proceeds to support an archaeological society. That is the difference between presenting the word *Impact* and creating impact.
 
+![The production edition of Relics of the Lost Continent by Iron Pegasus Games]({{ site.url }}{{ site.baseurl }}/assets/images/iron-pegasus-relics-production-edition.webp){: width="500"}
+
+*The production edition of* [*Relics of the Lost Continent*](https://www.ebay.com/itm/205986892335), *created by Iron Pegasus Games. Product image used with permission.*
+
 At the World Championship in Houston, Iron Pegasus earned the Rising All-Star Award. Another Arizona team posted stronger Robot Game performance but did not receive an award there. That comparison does not diminish either team. It illustrates what judges are asked to recognize: the complete body of student work, not one visible number.
 
 Look at how many parts of FLL existed inside this one project:
