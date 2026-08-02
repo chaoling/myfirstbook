@@ -1,61 +1,231 @@
 ---
 layout: post
-title: "Chapter 2: Getting Started"
+title: "Chapter 2: Why Not Now?"
 date: 2024-12-24 12:00:00 -0700
 categories: chapter
 ---
 
-## Understanding the FLL Program
+## The Question That Started Everything
 
-The FIRST Lego League (FLL) program is a global competition designed to inspire young people in the fields of science, technology, engineering, and mathematics (STEM). It encourages teamwork, creativity, and problem-solving skills through a combination of robot design and game, research projects, and core values. Each year, FLL releases a new challenge that includes four parts: the Robot Game, the Robet Design, the Innovation Project, and the Core Values.
+After judging my first FIRST LEGO League competition in 2017, I went to the principal of Hope Chinese School full of excitement.
 
-- **Robot Game**: Teams build and program an autonomous robot using LEGO Mindstorms or SPIKE Prime kits to complete various missions on a themed playing field. The goal is to score as many points as possible within a set time limit (2.5 minutes).
-- **Robot Design**: Teams use engineering process to design mechanically sound and highly capable robot using lego pieces and hubs from lego education. Multiple iterations of design and testing are typical throughout the season and they present their robot mission strategy, mechanical design, programming and testing process to the judges.
-- **Innovation Project**: Teams identify a real-world problem related to the annual theme, research it, and propose an innovative solution. They present their findings and solutions to judges.
-- **Core Values**: FLL emphasizes the importance of teamwork, inclusion, and fun. Core values like discovery, innovation, impact, inclusion, teamwork, and fun are integrated into all aspects of the competition and are the cornerstone of the FIRST LEGO League program. "Kids do the work" is an underlying rule at the core of the FLL program.
+I told her what I had seen: children building robots, solving problems, presenting ideas, and working together with an energy that no ordinary worksheet could create. FLL seemed perfect for the students in our school. I suggested that we should offer a class.
 
-## Forming Your Team: Recruitment and Roles
+Then I added the cautious part.
 
-Creating a successful FLL team begins with recruitment and defining roles. Here’s how to get started:
+We would need time to prepare.
 
-### Recruitment
-- **Identify Potential Members**: Look for students aged 9 to 16 (9-14 in USA) who are enthusiastic about robotics, coding, and problem-solving. Schools, community centers, and after-school programs are great places to find interested participants. 
-- **Diverse Skills**: Aim for a mix of talents, including engineering, programming, research, and presentation skills. A diverse team can tackle the challenge from multiple angles. Hint: although it is a robotic team, we need team members of all talent: from project manager to lawyer, from engineer to fundraiser, just like hiring many positions to form a startup company. 
-- **Informational Meetings**: Host meetings to explain the FLL program, the time commitment, and the benefits of participating. Engage parents and guardians to gain their support.
+I was new to FLL. I had judged one competition, but judging a team for a few minutes and guiding one through an entire season are very different experiences. We would need to study the program, gather equipment, plan lessons, and decide how the team would work. Starting later seemed responsible.
 
-### Defining Roles
-- **Team Roles**: Assign specific roles such as team leader, robot designer, programmer, researcher, and project manager. Each member should have a clear understanding of their responsibilities.
-- **Mentors and Coaches**: Adult mentors and coaches provide guidance, support, and expertise. They help the team stay organized, motivated, and focused on their goals.
+The principal listened and asked a simple question:
 
-## Securing Funding and Resources
+"Why not now?"
 
-Participating in FLL requires financial and material resources. Here are steps to secure what you need:
+I did not have a confident answer.
 
-### Budget Planning
-- **Initial Costs**: Include registration fees, robot kits (Mindstorms or SPIKE Prime), field setup kits, and team shirts. 
-- **Ongoing Costs**: Consider costs for travel, additional equipment, practice space, and miscellaneous expenses.
+So I said yes.
 
-### Funding Sources
-- **Sponsorships**: Seek sponsorships from local businesses, tech companies, and community organizations. Prepare a sponsorship package that outlines the benefits of supporting your team.
-- **Grants**: Research and apply for grants from educational foundations, STEM organizations, and government programs.
-- **Fundraising**: Organize fundraising events such as bake sales, car washes, and crowdfunding campaigns. Engage the community to support your team’s efforts.
+I said yes with plenty of uncertainty and no secret master plan. Sometimes a new coach imagines that experienced coaches began with complete knowledge, a perfect schedule, organized storage bins, and a robot already driving in a straight line.
 
-## Essential Equipment and Software
+We did not.
 
-To compete in FLL, your team needs specific equipment and software. Here’s a checklist to get started:
+We began because someone asked, "Why not now?" and we were willing to learn what came next.
 
-### LEGO Robotics Kits
-- **Mindstorms EV3 or SPIKE Prime**: These kits include the programmable brick, motors, sensors, and LEGO pieces to build your robot. Ensure you have the latest version for compatibility with competition requirements.
+It turned out okay—eventually. But "okay" included mistakes, schedule problems, inconsistent commitment, borrowed meeting spaces, and many lessons that later teams would inherit.
 
-### Computers and Software
-- **Programming Software**: Use LEGO Education's official software, such as EV3 Classroom or SPIKE Prime App, to program your robot. Ensure your team members have access to computers or tablets for coding.
-- **Project Management Tools**: Utilize tools like Trello or Google Workspace to organize tasks, collaborate on research, and manage your project timeline.
+That is the good news for a first-time volunteer coach: you do not need to feel ready before you begin.
 
-### Field Setup Kit
-- **Mission Models and Mat**: The field setup kit includes the mission models and mat required for the Robot Game. Assemble and arrange them according to the official guidelines to simulate the competition environment.
+The important news is that beginning does not remove the need for structure. Enthusiasm opens the door. Clear expectations help a team walk through it.
 
-### Research and Presentation Tools
-- **Research Materials**: Access to books, scientific journals, and online resources for your Innovation Project research.
-- **Presentation Tools**: Use software like PowerPoint, Google Slides, or Prezi to create engaging presentations. Equip your team with a laptop, projector, and any props needed for their presentation.
+## Our First Team
 
-By understanding the FLL program, forming a dedicated team, securing necessary resources, and gathering essential equipment, you’ll be well on your way to a successful and rewarding experience in the FIRST Lego League. The next steps involve diving deeper into each aspect of the challenge, refining your skills, and preparing for competition day.
+Hope Chinese School created a new FLL class, and families registered their children. Ten students joined the first Fire Kirin team. They were nine to eleven years old.
+
+Ten students may look like a small group on a registration form. In a room full of LEGO parts, laptops, competing ideas, and elementary school energy, ten can feel like a small corporation with no human resources department.
+
+Our regular class met for two hours at Hope Chinese School's CGCC Pecos campus. Two hours was enough to introduce ideas, but not enough to complete the work of a competitive season. Families also opened their homes on Sundays, when we often met for about four more hours.
+
+Finding those spaces was not easy. Only a few parents were able or willing to host. Every extra meeting required coordination: whose house, what time, who would transport the field setup, whether tables were large enough, and whether dozens of tiny LEGO pieces would return home with the correct family.
+
+The parents shared the initial expenses, including registration, the robot and season materials, shirts, and other team costs. What we did not share clearly enough was the commitment.
+
+In our first year, we did not establish a serious family agreement. We asked parents to contribute financially, but we did not define the time students would need outside the regular class. We did not explain clearly enough that consistent work between meetings was part of the program. Some families saw an interesting weekly class. The coaches were trying to build a competitive team.
+
+Both expectations were understandable. They were also incompatible.
+
+The result was slow progress and uneven ownership. Some students attended and worked consistently. Others had less time available or did not continue their work outside class. With only a few months in the season, missed weeks accumulate quickly. A robot mission does not care that three students had conflicting activities, one laptop needed an update, and the meeting space was unavailable last Sunday.
+
+Our mistake was not starting before we knew everything. Our mistake was failing to make the unknowns and expectations visible to everyone.
+
+## Understand the Whole Program Before You Recruit
+
+Many families hear "LEGO robotics" and picture one thing: children programming a robot to score points. The Robot Game is exciting and visible, so it naturally attracts attention. Parents watch the leaderboard. Students want to complete the most impressive missions. New coaches may spend every available hour at the competition table.
+
+But FIRST LEGO League Challenge is a balanced program. Teams are evaluated through four connected areas:
+
+### Robot Game
+
+Students design and program an autonomous robot to complete missions during timed matches. Reliability, strategy, testing, and calm execution matter as much as an ambitious design.
+
+### Robot Design
+
+Students explain their engineering process: how they chose mission strategies, built mechanisms, developed code, tested ideas, used data, and improved the robot through iteration.
+
+### Innovation Project
+
+Students investigate a real problem connected to the season theme. They research it, speak with people who understand it, develop an innovative solution, create and test a prototype when appropriate, and communicate their work.
+
+### Core Values
+
+Students demonstrate Discovery, Innovation, Impact, Inclusion, Teamwork, and Fun. Core Values are not limited to one speech in the judging room. Judges, referees, volunteers, and other teams can see them in how students divide work, respond to failure, include quieter members, and treat competitors.
+
+The four areas support one another. Robot Design is difficult to explain if the team did not document its iterations. An Innovation Project is weak if only one student understands it. A high Robot Game score cannot prove that the team worked inclusively. Core Values without meaningful work become slogans.
+
+Before recruiting, explain this complete picture to families. Robotics is for the researcher, artist, organizer, builder, storyteller, tester, strategist, and student who has never written a line of code. A strong FLL team resembles a small startup more than a programming club.
+
+FIRST changes program formats, registration options, eligibility, and technology over time. Ages also vary by country and region. Do not build a permanent family handbook from an old season's rules—or even from this book. Confirm the current requirements through the [official FIRST LEGO League get-started page](https://www.firstinspires.org/programs/fll/get-started) and your local Program Delivery Partner before registration.
+
+The technology may change. The need for teamwork, ownership, engineering process, and reflection will not.
+
+## Recruit for Compatibility, Not Existing Skill
+
+In 2017, students registered for a new class and became a team. Today, with more coaching experience and years of team history, I would use the first few weeks differently.
+
+New students can learn from demonstrations, engineering notebooks, robots, attachments, project prototypes, and stories from past seasons. History gives them a runway. It shows what is possible and helps them avoid rediscovering every lesson from zero.
+
+But past success creates a danger: adults may start selecting children based on who already looks like a champion.
+
+That is not my goal.
+
+Prior coding experience can help, but it is not the most important qualification. I look for curiosity, reliability, willingness to listen, courage to try unfamiliar work, and the ability to recover when an idea fails. I also look at how students affect one another. Does one child make a quieter teammate more willing to speak—or less willing? Can two strong personalities disagree without turning every decision into a contest?
+
+I would place new members into temporary small teams and give them short, varied tasks. One task might involve building and testing a simple mechanism. Another might require researching a problem, interviewing an imaginary expert, or presenting a two-minute explanation. Students would rotate responsibilities so that previous experience did not determine every outcome.
+
+This is not a tryout for the fastest builder or strongest programmer. It is a compatibility and commitment period. Children learn what FLL work feels like. Coaches observe how they communicate and persist. After several weeks, students can identify teammates with whom they work well, and coaches can form teams with a healthier balance.
+
+Do not use temporary teams to exclude beginners. Use them to discover how beginners learn.
+
+## Parents Are Part of the Team Structure
+
+FLL students must do the competition work, but children cannot create the conditions around that work by themselves. Adults provide transportation, meeting space, schedule coordination, fees, safety, food, and emotional support. Parents do not build the robot, but the season may not happen without them.
+
+This is why the first parent meeting matters as much as the first robot lesson.
+
+Before accepting registration or collecting money, discuss:
+
+- The regular meeting schedule and likely additional hours near competitions.
+- Expectations for attendance and advance notice of conflicts.
+- Work that students may need to complete between meetings.
+- Transportation and supervision.
+- The full estimated budget, including registration, event fees, equipment, replacement parts, shirts, travel, and food.
+- Whether families can host meetings or help secure a reliable workspace.
+- Communication methods and expected response times.
+- The meaning of "kids do the work" and the boundary between helping and taking over.
+- Core Values and behavior expectations.
+- Photography, student privacy, and publication permissions.
+- What happens if a student decides not to continue.
+
+Do not hide the commitment because you are afraid families will say no. A clear no before the season is kinder than a surprised withdrawal two weeks before competition.
+
+At the same time, avoid treating money or schedule flexibility as proof of commitment. Families have different resources. A parent who cannot host six children may be able to organize snacks, translate materials, contact a sponsor, supervise an online meeting, or transport the field kit. Ask what each family can contribute.
+
+Our first team relied on parents sharing costs and a few families opening their homes. It worked, but it was fragile. Today I would identify the primary practice space, backup space, storage plan, and adult supervision before the season begins.
+
+Meeting space is not an administrative detail. It is part of the team's infrastructure.
+
+## Communication Between Meetings
+
+A team that meets only once a week can forget half of its decisions before the next meeting. Communication between meetings keeps learning alive and makes in-person time more productive.
+
+Our teams use Google Classroom for learning materials and work tracking. We also use Discord where it is age-appropriate and permitted, and we sometimes hold online weekday meetings to keep students engaged between longer practices.
+
+The specific platform matters less than the habits around it:
+
+- Keep assignments visible.
+- Record decisions and deadlines.
+- Give parents access to schedule information.
+- Separate urgent announcements from casual conversation.
+- Require students to document what they tried, not only whether it worked.
+- Protect student privacy and follow school policies, parent expectations, and platform age requirements.
+
+For younger students, communication may need to go through parents or a school-managed system. Never ask a child to misrepresent an age to create an account. A convenient tool is not worth violating its rules or weakening parent trust.
+
+Online meetings should support hands-on collaboration, not replace it. A robot attachment is difficult to pass through a webcam. But a fifteen-minute weekday check-in can prevent a task from disappearing for seven days.
+
+## The First Four Weeks I Would Use Today
+
+If I formed Fire Kirin again, I would not spend the first month trying to maximize Robot Game points. I would use it to build the operating system of the team.
+
+### Week 1: Show the Journey
+
+Introduce the complete FLL program and the six Core Values. Show examples from past seasons: an early robot beside its final version, a project prototype that changed, a page from an engineering notebook, and a short competition video.
+
+Show failures as well as awards. Children should understand that impressive results come from iteration, not magic.
+
+Give every student one simple task that can be completed during the meeting. End with a reflection: What interested you? What confused you? What would you like to try next?
+
+### Week 2: Work in Temporary Teams
+
+Create small groups and assign short challenges covering different skills. Include a build-and-test task, a research-and-explain task, and a teamwork problem.
+
+Observe without solving. Who begins immediately? Who asks useful questions? Who includes others? Who becomes frustrated? Who notices that the instructions are ambiguous?
+
+The purpose is not to rank children. It is to understand how they learn and work together.
+
+### Week 3: Rotate and Communicate
+
+Change roles and groupings. Ask builders to present, presenters to test, and experienced programmers to work with beginners. Introduce basic documentation: goal, idea, test, result, and next change.
+
+Hold the detailed parent meeting during this week. Share the proposed calendar, expenses, communication tools, workspace needs, and participation agreement. Ask families to identify conflicts now.
+
+### Week 4: Form the Team Agreement
+
+Use observations from the temporary groups to create balanced teams and initial roles. Let students express whom they worked well with and why, but do not turn team selection into a popularity contest.
+
+Create a simple RACI chart showing who is Responsible, Accountable, Consulted, and Informed for early tasks. Roles will evolve, but every student should leave Week 4 able to answer three questions:
+
+1. What am I responsible for now?
+2. Who can help me?
+3. How will the team know what I learned?
+
+Confirm the regular meeting space, backup location, communication process, adult coverage, and first major milestones. Then—and only then—begin accelerating into the season challenge.
+
+## What You Actually Need to Begin
+
+New coaches sometimes delay because they imagine a fully equipped robotics laboratory. A dedicated room is wonderful. It is not required.
+
+At minimum, plan for:
+
+- A registered team that meets current regional requirements.
+- The current season materials and compatible robotics equipment.
+- Computers or tablets that can run the required software.
+- A stable work surface large enough for the field.
+- Safe storage for the robot, mission models, parts, and project materials.
+- Reliable internet access for rules, updates, research, and communication.
+- At least two screened adult coaches or the supervision required by current FIRST and local policies.
+- A season calendar and realistic preliminary budget.
+- A way to record engineering work from the first meeting.
+
+You do not need matching shirts in Week 1. You do not need a team logo before students know one another. You do not need to buy every sensor, motor, storage cabinet, and 3D printer another team owns.
+
+Buy or borrow what supports the next stage of learning. Add equipment when students can explain why they need it.
+
+The most valuable early resources are time, consistency, and adults who understand their boundaries.
+
+## A Better Answer to "Why Not Now?"
+
+When the principal asked me that question in 2017, I heard it as a challenge to begin immediately. Today I hear more inside it.
+
+Why not give children the opportunity now?
+
+Why not begin learning before we feel like experts?
+
+Why not accept that the first season will teach the coaches, too?
+
+But "now" should not mean "without honesty." Tell families what you know and what you are still learning. Define the commitment. Build the calendar. Secure the space. Give every child real work. Establish how the team will communicate and reflect.
+
+Then begin.
+
+The first Fire Kirin season did not advance beyond the regional competition. Yet without that imperfect beginning, there would have been no six-year journey to Houston, no Golden Phoenix rookie season, and no Iron Pegasus.
+
+Sometimes the team you are afraid to start becomes the history that teaches every team after it.
