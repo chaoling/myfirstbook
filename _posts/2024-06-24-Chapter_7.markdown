@@ -1,93 +1,291 @@
 ---
 layout: post
-title: "Chapter 7: Core Values: Building Character and Team Spirit"
+title: "Chapter 7: Who You Are When No One Is Scoring"
 date: 2024-06-24 12:00:00 -0700
 categories: chapter
 ---
 
-# Core Values: Building Character and Team Spirit
+# Who You Are When No One Is Scoring
 
-## Understanding the FLL Core Values
+## The Sentence at the Table
 
-The FIRST Lego League (FLL) Core Values are essential principles that guide teams throughout the competition. They emphasize not just what teams accomplish, but how they work together to achieve their goals.
+Golden Phoenix was standing at a Robot Game table during a regional tournament at Chandler High School in the 2024-2025 *SUBMERGED* season. Across the table was another team whose robot had not completed as many missions.
 
-### The Core Values
-- **Discovery**: We explore new skills and ideas.
-- **Innovation**: We use creativity and persistence to solve problems.
-- **Impact**: We apply what we learn to improve our world.
-- **Inclusion**: We respect each other and embrace our differences.
-- **Teamwork**: We are stronger when we work together.
-- **Fun**: We enjoy and celebrate what we do!
+One of our robot operators looked at them and said something like, “They don’t have anything.”
 
-Understanding and embracing these Core Values helps teams build a strong foundation of character and team spirit, which are crucial for success in FLL and beyond.
+The lead referee heard him.
 
-## Integrating Core Values into Daily Practices
+Afterward, the referee came to me. She explained what she had heard and warned that behavior like this could affect the team’s Gracious Professionalism at the table.
 
-Incorporating Core Values into your team's daily practices ensures that they are more than just words on a page. Here’s how to make them a living part of your team's culture:
+As a coach, I had several possible reactions. I could defend the child by saying he was excited, nervous, or misunderstood. I could lecture him in front of everyone. I could worry only about whether the incident might cost us an award.
 
-### Daily Integration
-- **Morning Check-Ins**: Start each meeting with a brief check-in where team members share how they plan to embody the Core Values that day.
-- **Core Values Moments**: During activities, pause to highlight moments where Core Values are being demonstrated. This reinforces positive behavior.
-- **Reflection Sessions**: End each meeting with a reflection on how the team applied the Core Values during their work.
+None of those responses would teach the lesson the team needed.
 
-### Leadership by Example
-- **Mentors and Coaches**: Adults should model the Core Values in their interactions with the team, providing a consistent example for students to follow.
-- **Team Leaders**: Encourage team leaders to exemplify the Core Values in their roles, guiding their peers by example.
+I took the team aside and repeated what the referee had told me. I asked the student whether he understood why his comment did not show Gracious Professionalism. Then I spoke to everyone.
 
-## Team Building Activities
+“Focus on our own performance,” I told them. “We do not make another team smaller. We cheer for other teams whether their robot scores more points than ours or fewer.”
 
-Team building activities are vital for fostering strong relationships and a collaborative spirit within the team.
+Then I asked a more important question:
 
-### Icebreakers and Games
-- **Lego Challenges**: Use quick-build challenges to encourage creativity and teamwork.
-- **Problem-Solving Games**: Engage in games that require collaboration and communication, such as escape rooms or team puzzles.
+**What can we do now?**
 
-### Workshops and Exercises
-- **Role-Playing Scenarios**: Practice handling conflicts and difficult situations through role-playing, reinforcing respect and inclusion.
-- **Communication Workshops**: Conduct workshops focused on effective communication skills, active listening, and constructive feedback.
+The students decided they could help the other team develop more robot missions. That same day, the whole team went over and helped the other students with their coding.
 
-### Group Projects
-- **Mini Projects**: Work on small, non-competition related projects that require teamwork and collective problem-solving.
-- **Community Service**: Participate in community service projects as a team to build a sense of shared purpose and impact.
+The original comment was a mistake. What happened next revealed the beginning of a culture.
 
-## Celebrating Diversity and Inclusion
+Core Values do not mean children never behave badly. They mean a team has principles strong enough to recognize a mistake, repair harm, and choose a better action. If a coach treats every mistake as proof that a child has bad character, children learn to hide. If a coach ignores the mistake because the child is talented or the team is winning, children learn that values are optional.
 
-Celebrating diversity and promoting inclusion strengthens the team by valuing each member's unique contributions.
+The goal is neither shame nor excuse. The goal is growth.
 
-### Embracing Differences
-- **Cultural Exchange**: Encourage team members to share their cultural backgrounds and traditions, fostering mutual respect and understanding.
-- **Inclusive Language**: Use language that is inclusive and respectful of all team members, and address any instances of exclusion or bias promptly.
+## Compete Hard Without Making Anyone Small
 
-### Creating an Inclusive Environment
-- **Safe Spaces**: Create an environment where all team members feel safe to express themselves and share their ideas.
-- **Equal Opportunities**: Ensure that all team members have equal opportunities to participate in activities, take on roles, and contribute to the team's success.
+FIRST gives us two ideas that may seem contradictory at first: compete and cooperate.
 
-### Celebratory Events
-- **Diversity Celebrations**: Celebrate team diversity through events that highlight different cultures, holidays, and traditions.
-- **Recognition of Efforts**: Acknowledge and celebrate the unique contributions of each team member, reinforcing their value to the team.
+The contradiction disappears when we understand what competition is for.
 
-## Observing and Judging Core Values
+A worthy opponent challenges us to improve. Their good performance does not take away the value of ours. We can try our hardest to win a match while also lending another team a part, helping recover lost code, applauding a successful run, or offering encouragement after a difficult one. FIRST calls this spirit **Coopertition**. It is competition that produces mutual respect and, when possible, mutual benefit.
 
-Core Values are integral to the FLL experience and are observed and judged throughout the competition. Here are detailed examples of how Core Values are evaluated:
+**Gracious Professionalism** describes the quality of our conduct while doing demanding work. High standards and kindness belong together. We can disagree without humiliating. We can appeal a ruling without attacking a volunteer. We can be proud of our achievement without treating another team as inferior.
 
-### During Team Meetings
-- **Team Dynamics**: Judges may observe how team members interact during their presentations and demonstrations. Positive, respectful, and inclusive interactions are key indicators of strong Core Values.
-- **Problem Solving**: How the team approaches and solves problems collaboratively is assessed. Teams that encourage input from all members and use creative solutions demonstrate strong Core Values.
+The current official descriptions of these ideas and the six Core Values are available on the [FIRST mission and Core Values page](https://www.firstinspires.org/about). Coaches should also use the current season’s official Challenge materials, because event procedures and judging language can change. The philosophy, however, is stable: how we do the work matters as much as what we produce.
 
-### At Competitions
-- **Judging Sessions**: During Core Values judging sessions, teams are evaluated on how well they demonstrate the Core Values through specific challenges or activities. Judges look for evidence of teamwork, respect, and inclusion.
-- **Robot Game**: Observers may watch how the team handles successes and failures during the Robot Game. Teams that celebrate their achievements together and handle setbacks with grace and a positive attitude exemplify the Fun and Teamwork values.
+I have seen this philosophy expressed more memorably through behavior than through any speech.
 
-### Project Presentation
-- **Team Presentation**: During the Innovation Project presentation, judges assess how the team collaborates to present their project. Effective communication, shared responsibility, and mutual support are critical.
-- **Question and Answer**: How the team responds to judges' questions can reveal their Core Values. Teams that listen to each other, build on each other's ideas, and show respect for differing opinions demonstrate Inclusion and Teamwork.
+At the 2024 *MASTERPIECE* World Championship, Golden Phoenix shared a Robot Game table set with a veteran Spanish team, Legotronic Beavers. The Spanish team sang and cheered—not only for themselves, but for us. After the run, they even lifted one of our students into the air in celebration.
 
-### Documentation and Reflection
-- **Engineering Notebook**: Detailed and reflective entries in the engineering notebook can showcase how the team embodies Core Values throughout their journey. Consistent documentation of team activities, challenges, and solutions highlights Discovery and Innovation.
-- **Reflections**: Teams are often asked to reflect on their experiences. Honest reflections on what they learned, how they grew as a team, and how they applied Core Values in their work are important.
+Our children were surprised. They had traveled to Houston expecting strong robots. They encountered a strong culture.
 
-### Community Engagement
-- **Outreach Activities**: Judges may look at how teams engage with their community. Projects that have a positive impact on the community and involve community members show the Impact and Inclusion values.
-- **Partnerships**: Collaborations with experts, local organizations, or other teams can also be assessed. Teams that build meaningful partnerships demonstrate the Core Values in action.
+[Watch Legotronic Beavers celebrate both teams at the 2024 World Championship.](https://www.youtube.com/watch?v=qjfQA-th_W4)
 
-By understanding the FLL Core Values, integrating them into daily practices, engaging in team building activities, celebrating diversity and inclusion, and knowing how they are observed and judged, teams can build a strong, cohesive, and spirited group. This not only enhances their FLL experience but also prepares them with essential life skills for the future.
+That memory later gave me a positive example when Golden Phoenix needed correction. I could tell the children not only what was wrong at Chandler High School, but what the better choice looked and felt like.
+
+This is why examples matter. “Show Gracious Professionalism” can sound abstract to a nine-year-old. “Remember the team that sang for us and lifted our teammate” is concrete. Children can imitate what they have experienced.
+
+Fire Kirin has helped other teams build and code robots at competitions many times. These moments did not weaken our competitive spirit. They gave it a healthier direction. We still wanted our robot to perform well. We simply understood that our success did not require another child’s failure.
+
+<figure>
+  <img src="{{ '/assets/images/GoldenPhoenix-61064.jpg' | relative_url }}" alt="Golden Phoenix team members at a regional FIRST LEGO League qualifier during the SUBMERGED season">
+  <figcaption>Golden Phoenix during the 2024-2025 <em>SUBMERGED</em> season at a regional qualifier. A team’s culture is visible in how members treat one another, volunteers, and competitors throughout the event.</figcaption>
+</figure>
+
+## Six Values, Not Six Slogans
+
+FIRST names six Core Values: Discovery, Innovation, Impact, Inclusion, Teamwork, and Fun.
+
+It is easy to turn these into six definitions on a poster. It is harder—and far more useful—to turn them into six ways of making decisions.
+
+**Discovery** asks whether children are truly learning. A veteran who does every difficult task may make the team faster, but leaves rookies with less to discover. A coach who supplies every answer may improve tonight’s robot and weaken the season.
+
+**Innovation** asks whether the team is willing to create, test, fail, and try again. An idea does not need to be unprecedented in human history to represent innovation for a child. It needs thoughtful problem-solving, persistence, and ownership.
+
+**Impact** asks what changes because of the team’s learning. Sometimes the change is in the community. Sometimes it is in one teammate who can now explain an idea, recover from failure, or see a future in engineering.
+
+**Inclusion** asks who is heard, who has meaningful work, and whether differences are treated as resources rather than inconveniences. Invitation alone is not inclusion. A child can attend every meeting and still remain outside the real decisions.
+
+**Teamwork** asks whether the result belongs to the team. Shared ownership does not mean every child performs every task equally. It means members understand one another’s work, contribute in authentic ways, give credit, and help the group recover when something goes wrong.
+
+**Fun** asks whether the experience contains joy. Fun is not the absence of discipline. It is the energy that makes sustained effort possible and gives children memories larger than a score.
+
+Use the values as questions during the season:
+
+- What did each of us discover today?
+- Where did we persist or try a new approach?
+- Who may be left out of this decision?
+- Whose work made this result possible?
+- Who benefited from what we learned?
+- Did we leave room to enjoy and celebrate the work?
+
+When children can use the values to examine real choices, they no longer need to perform a memorized definition for a judge. Their answers come from experience.
+
+## Correct the Behavior Without Defining the Child
+
+Coaches must sometimes intervene. A team culture cannot survive if adults refuse to name harmful behavior.
+
+But correction should protect dignity.
+
+When possible, I separate the behavior from the child. “That comment was disrespectful” is different from “You are disrespectful.” The first identifies an action the student can repair. The second can become an identity the student either accepts or fights.
+
+My usual process has four parts:
+
+1. **Interrupt the harm.** If behavior is hurting another person or the team, stop it. Do not postpone safety or respect until the next reflection meeting.
+2. **Discuss it privately.** Speak one-to-one with the student, and with the parents when appropriate. Explain what happened, listen to the child’s understanding, and connect the action to a Core Value.
+3. **Ask for reflection and repair.** An apology may be appropriate, but repair can go further. At Chandler High School, helping the other team turned a negative comment into constructive action.
+4. **Follow up.** A single conversation is not culture. Notice whether behavior changes, recognize improvement, and intervene again if needed.
+
+Public humiliation often produces defensiveness, not reflection. Permanent labels are even more damaging. Children arrive with different levels of maturity, communication experience, and self-control. Coaches should hold a clear boundary while leaving room for growth.
+
+At the same time, talent earns no exemption. A student may be the best programmer, presenter, or robot operator on the team. If that student repeatedly talks over teammates, mocks competitors, or claims other people’s work, the coach must respond. A team that sacrifices its values to protect performance teaches every child the wrong definition of success.
+
+Our standard is not perfection. It is whether the team becomes more honest, respectful, and responsible over time.
+
+## Inclusion Must Be Designed
+
+“Everyone is welcome” is a good beginning. It is not a complete inclusion strategy.
+
+Over the years, our teams have included children with ADHD, autistic children, quiet children, energetic children, fast processors, and children who need more time before answering. The coach’s job is not to force every student into one model of participation. It is to design a team in which different students can contribute and grow.
+
+That begins with helping teammates understand differences without turning one child into a classroom lesson. We can teach the whole team practical habits: do not interrupt, give people time to finish, make instructions visible, break large work into smaller steps, ask before taking over, and do not assume silence means lack of ideas.
+
+Any discussion of a child’s diagnosis or accommodation must happen with the student’s and family’s permission. When a family wants event volunteers or judges to know about a need, communicate through the event’s established accommodation process as early as possible. The purpose is not to ask for easier standards. It is to give the child a fair opportunity to participate—for example, enough processing time to answer a question.
+
+Neurodivergence is not a behavior violation. Harmful behavior should be addressed as behavior, while support needs should be addressed with respect and appropriate accommodations. Coaches must be careful not to confuse the two.
+
+Inclusion also concerns who owns visible work. Some children naturally speak first. Others need a specific invitation, preparation time, or a smaller setting before they contribute confidently. I assign individual homework and small-group projects so that each student has a chance to produce work the team can see. I also pair veteran members with rookies. The rookie gains a guide; the veteran learns that leadership is not doing the task for someone else, but helping that person become capable.
+
+Shiyu’s story is one example.
+
+At the beginning of Golden Phoenix’s rookie *MASTERPIECE* season, he was so shy that introducing himself was difficult. It would have been easy to let more confident students become the permanent public face of the team. Instead, I asked Shiyu to prepare and explain an important technical challenge: the team’s acceleration and deceleration code working together with PID control. Acceleration and deceleration were new for the team that season and remained technically difficult.
+
+He gave the demonstration.
+
+At the 2024 World Championship in Houston, during Golden Phoenix’s first season, he spoke in the judging room about how FLL had changed his personality and helped him speak up. In later seasons, he became a team lead.
+
+His growth did not come from being told, “Be more confident.” It came from having real work, preparation, repeated opportunities, and adults who expected him to contribute without taking the contribution away from him.
+
+That is what inclusion can produce: not equal time in a scripted presentation, but genuine belonging and expanding capability.
+
+## Adults Are Part of the Team Culture
+
+Children notice what coaches and parents do more closely than what we tell them to do.
+
+If a coach demands respect from students and then insults a referee, the lesson is clear. If parents talk only about the leaderboard, children learn that awards are the real values and everything else is decoration. If an adult takes over the robot when pressure rises, the team learns that ownership lasts only until the work becomes important.
+
+Parents often need an introduction to Core Values just as students do. Many families first see FLL as a robotics contest. They watch the game score because it is visible and easy to compare. A coach must explain early that robot performance is one part of a larger program and that what children learn matters more than which award they receive.
+
+Share concrete stories. Explain why mocking a competitor can have consequences. Describe what it looks like when a strong team helps another team. Make expectations for parent conduct part of the season agreement.
+
+Adults will sometimes disagree with a judge or referee. FLL provides procedures for questions and appeals, and teams should follow the current event rules. A polite appeal is compatible with Gracious Professionalism. Accusation, intimidation, and continued argument after a decision are not.
+
+The same principle applies inside the team. Coaches and parents will not agree about every schedule, role, design choice, or disciplinary decision. We should model how people can state concerns, listen, and resolve disagreements without making the relationship the casualty.
+
+Core Values are not only rules imposed on children. They are commitments adults make in front of children.
+
+## Build Culture Before You Need It
+
+You cannot install team culture during the car ride to a tournament.
+
+It is built in ordinary meetings when no one is watching: who gets the laptop, who cleans the table, who receives credit, how the team reacts when a prototype breaks, and whether a child can disagree without being dismissed.
+
+In the first four weeks, I use team bonding, icebreakers, and small friendly competitions. These activities are not filler before “real work.” They reveal how students communicate and how they respond to pressure.
+
+Give temporary groups a short design or programming challenge. Observe:
+
+- Who begins organizing the work?
+- Who listens before acting?
+- Who disappears when another student takes over?
+- Who shares parts and information?
+- Who can lose a friendly contest without blaming?
+- Who helps another group while still completing their own task?
+
+Then reflect together. Ask not only which design won, but how the groups worked. This gives the team a low-risk way to practice Coopertition before a season result feels important.
+
+Throughout the year, hold reflections after major events. Let students name what the team did well, what behavior did not match its values, and what it will change next time. The adult does not have to deliver every conclusion. A thoughtful question can help children take responsibility for the culture themselves.
+
+Roles also matter. If one child always drives, one always codes, and one always speaks, the team may become efficient but fragile. Rotate learning opportunities early. As the season develops, students can specialize according to interest and strength, but no role should become a private kingdom. Members should be able to explain the team’s work, support one another, and give accurate credit.
+
+Celebrate effort and growth, not only final outcomes. A reliable program, a brave question to an expert, a patient explanation to a rookie, or a calm recovery after a failed run deserves recognition. What coaches repeatedly notice becomes what children repeatedly value.
+
+## Let the Team Be Seen Beyond Competition
+
+Outreach makes Core Values visible outside the judging room.
+
+Golden Phoenix and Fire Kirin have traveled across the East Valley for events such as ASU Open Door, Luke Air Show, Barnes & Noble LEGO activities, school STEM nights, and the Chandler Innovation Fair. We have also participated in activities with FTC and FRC teams.
+
+At outreach events, children cannot rely on a polished judging script. They meet younger students, parents, educators, engineers, and community members. They must adjust explanations, invite people to participate, care for equipment, share limited space, and represent the team for hours.
+
+That is demanding Core Values practice.
+
+Outreach also changes how students see their own knowledge. A child who thinks, “I am only a rookie,” may discover that a younger visitor sees them as an expert. A veteran may learn that knowing how to build a robot is different from patiently helping someone else build one. The team’s work gains impact when it creates curiosity and confidence in other people.
+
+But outreach should not become a collection of impressive numbers for judges. Ten meaningful conversations can matter more than hundreds of hurried contacts. Ask students what people wanted to know, what surprised them, and how the team might improve the next demonstration. The reflection turns attendance into learning.
+
+## Fun Is Maintenance, Not a Reward
+
+Our teams work hard, but not every gathering revolves around a robot or presentation.
+
+We have used go-karting, hiking, soccer, and table tennis as team-building activities. These experiences let children interact without their technical roles. The strongest programmer may be a beginner on the soccer field. A quiet student may become the person who encourages everyone up a difficult trail.
+
+Shared fun creates memories and relationships that help the team survive stressful weeks later. Children are more willing to give feedback, ask for help, and recover from conflict when they know one another as people.
+
+Fun does not need to be expensive or elaborate. A silly building challenge, team cheer, shared snack, or five-minute game can reset the energy of a long meeting. The important question is whether everyone can participate. An activity that consistently leaves one child out does not strengthen the team merely because others enjoy it.
+
+Do not save all celebration for the end of the season. If fun is offered only after success, children may hear that joy must be earned by winning. Celebrate the work while it is happening.
+
+## What Judges Notice
+
+As a judge, I can often sense the difference between Core Values that belong to a team and Core Values prepared for a team.
+
+A rehearsed team may recite perfect definitions. An authentic team shows its culture in smaller ways: members leave room for one another, build on an answer instead of correcting it harshly, credit the person who did the work, recover together when something goes wrong, and enjoy one another’s success.
+
+Warning signs also appear in ordinary interactions. A team may speak loudly about inclusion while two students answer every question. A coach may claim that the children own the work while stepping in to arrange materials, prompt answers, or control the room. A volunteer may observe poor conduct elsewhere at the event and communicate it through the event’s process.
+
+This does not mean children should feel they are under secret surveillance from the airport to the hotel to the judging room. It means culture travels. The way a team treats people does not suddenly become real when a judge picks up a rubric, and it should not disappear when the formal session ends.
+
+Judging structures and event procedures can change, so coaches should consult the current season’s official materials rather than train children for an outdated separate Core Values activity or poster. What remains important is evidence of shared ownership, inclusion, teamwork, discovery, impact, innovation, and joy throughout the team’s work.
+
+The best preparation is not to manufacture more examples. It is to help the team notice the true ones.
+
+After a meeting or event, ask each student to complete one sentence:
+
+- “A teammate helped me when…”
+- “I changed my mind because…”
+- “Someone whose contribution might be missed is…”
+- “We included more voices by…”
+- “Our most difficult moment became fun when…”
+- “Next time I will…”
+
+Specific memories are more convincing than slogans because they reveal a season the children actually lived.
+
+## The Recognition That Mattered Most
+
+The awards that make me proudest are Coach/Mentor Awards.
+
+I received one during the 2023-2024 *MASTERPIECE* season at a regional tournament. More recently, at the 2026 FIRST Championship in Houston during the *UNEARTHED* season, my wife, Min Lu, received a Coach/Mentor Award while coaching Iron Pegasus.
+
+Students and parents wrote personal nomination notes for Min. Their words reflected her dedication from both the children’s and parents’ points of view.
+
+A tournament award can recognize a day. A nomination written by children reveals a relationship built across many ordinary days.
+
+Coaches spend a season arranging meetings, listening to disagreements, moving equipment, answering parent questions, protecting student ownership, and deciding when to intervene and when to step back. Much of that work is invisible. When children recognize it, the award represents more than coaching skill. It suggests that the adults’ values were felt by the team.
+
+That does not mean a good coach needs an award. Many extraordinary mentors will never receive one. The deeper reward is the child who begins the season unable to introduce himself and later tells judges that FLL helped him find his voice. It is the team that makes a disrespectful comment in the morning and helps the other team code in the afternoon.
+
+Those changes are difficult to place on a leaderboard. They are the reason the leaderboard is not the whole story.
+
+## A Coach’s Core Values Plan for the First Four Weeks
+
+For a new coach, Core Values can feel less urgent than building the robot or choosing a project problem. Begin anyway. Early habits become late-season behavior.
+
+### Week 1: Define How We Want to Work
+
+Introduce the six Core Values in plain language. Ask students to describe what each one looks like in a meeting. Create a short team agreement covering listening, credit, conflict, equipment, mistakes, and treatment of other teams. Explain the same expectations to parents.
+
+### Week 2: Make Participation Visible
+
+Run small challenges with temporary groups. Rotate who builds, records, tests, and reports. Watch who speaks and who is overlooked. Begin assigning meaningful work that lets quieter students prepare before presenting.
+
+### Week 3: Practice Competition and Cooperation
+
+Hold a friendly contest. Let teams try to perform well, then ask them to share one useful lesson or help another group improve. Discuss winning as comparison with yesterday’s self, not proof of superiority over another child.
+
+### Week 4: Reflect and Adjust
+
+Ask students and parents what is helping or hurting participation. Establish a short reflection routine for future meetings and major events. Pair veterans with rookies where appropriate. Change roles or team practices before patterns become permanent.
+
+This plan will not prevent every conflict. That is not its purpose. It creates a language and process the team can use when conflict arrives.
+
+## Who the Team Becomes
+
+At the Chandler High School tournament, the referee could have said nothing. I could have treated the incident only as a threat to a score. The students could have apologized and returned to their own robot.
+
+Instead, the moment became a test of who the team wanted to be.
+
+Golden Phoenix did not erase the comment by helping the other team. Repair does not make a mistake disappear. It shows that the mistake does not have to be the final decision.
+
+This is what coaches are building when we teach Core Values. We are not preparing six definitions for a judge. We are helping children develop habits for difficult moments: how to compete without contempt, lead without taking over, correct without humiliating, include without lowering expectations, and celebrate without needing someone else to lose.
+
+Awards may recognize those habits. Judges may notice them. Referees and volunteers may see them at an event.
+
+But their true value appears when no one is scoring.
+
+That is when we discover who the team has become.
