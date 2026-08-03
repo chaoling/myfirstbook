@@ -1,67 +1,381 @@
 ---
 layout: post
-title: "Chapter 6: The Innovation Project"
+title: "Chapter 6: From Curiosity to Impact"
 date: 2024-06-24 12:00:00 -0700
 categories: chapter
 ---
 
-# The Innovation Project
+# From Curiosity to Impact
 
-## Identifying and Researching a Problem
+## When the Game Forgot Its Purpose
 
-The Innovation Project is a core component of the FLL Challenge, encouraging teams to identify and solve a real-world problem related to the annual theme.
+Iron Pegasus had a board game.
 
-### Identifying a Problem
-- **Exploring the Theme**: Start by understanding the annual theme. Discuss with your team the different aspects of the theme and brainstorm potential problems.
-- **Observations and Interviews**: Conduct observations in your community or field of interest. Interview experts, community members, and stakeholders to gain insights into relevant problems.
-- **Narrowing Down**: Choose a problem that is specific, impactful, and achievable within the scope of the project. Ensure it resonates with your team’s interests and skills.
+The children had a map, paths, playing pieces, rules, rewards, consequences, and many opinions about how everything should look. They discussed colors. They adjusted game mechanics. They worked on details that made the board more attractive and the game more fun.
 
-### Researching the Problem
-- **Gathering Information**: Use a variety of sources such as books, scientific journals, online articles, and interviews to gather information about the problem.
-- **Analyzing Existing Solutions**: Study existing solutions to understand what has been tried and where there may be gaps or opportunities for improvement.
-- **Documentation**: Keep detailed notes and records of your research findings in your engineering notebook. This will be valuable for both the development and presentation phases.
+For a long time, however, the project was stuck.
 
-## Developing Innovative Solutions
+The problem was not a lack of activity. The children were busy. The problem was that their activity had drifted away from the reason the game existed.
 
-Once you have identified and researched a problem, the next step is to develop innovative solutions.
+Iron Pegasus had not entered the 2025-2026 *UNEARTHED* season merely to create another board game. The team wanted to help people understand archaeology. Their early research found familiar misconceptions: archaeologists study dinosaurs, hunt for treasure, or dig up artifacts to sell. The game was supposed to correct those ideas.
 
-### Brainstorming Ideas
-- **Divergent Thinking**: Encourage the team to think broadly and generate as many ideas as possible. No idea is too outlandish at this stage.
-- **Convergent Thinking**: Evaluate the feasibility, impact, and innovation of each idea. Narrow down to a few promising solutions.
-- **Prototyping**: Create prototypes or models of your top solutions. This could include sketches, physical models, or digital simulations.
+But as the team concentrated on appearance and rules, the educational purpose became harder to see.
 
-### Testing and Refinement
-- **Feedback**: Gather feedback from peers, mentors, and potential users. Use their input to refine your solution.
-- **Iterative Design**: Continuously improve your solution based on testing and feedback. Document each iteration in your engineering notebook.
+The coaches had to ask a simple question:
 
-## Creating an Impactful Presentation
+**What are we trying to change for the people who play this game?**
 
-An effective presentation is crucial for conveying your project’s value to judges and the community.
+That question moved the team's attention from decoration to evidence. If the game was educational, what should players learn? Which questions belonged in it? Who could verify the archaeology? How would the team know whether anyone understood more after playing?
 
-### Structuring the Presentation
-- **Introduction**: Clearly introduce the problem you are addressing and its significance.
-- **Research Findings**: Summarize your research process and key findings.
-- **Solution**: Explain your innovative solution, how it works, and why it’s effective.
-- **Impact**: Highlight the potential impact of your solution on the community or target audience.
-- **Conclusion**: Recap the key points and emphasize the importance of your project.
+The children began improving the question bank with help from professionals. They designed surveys. They reconsidered game mechanics that accidentally repeated the very misconceptions they hoped to correct.
 
-### Presentation Techniques
-- **Visual Aids**: Use slides, posters, or models to enhance your presentation. Ensure they are clear, engaging, and professional.
-- **Practice**: Rehearse your presentation multiple times to ensure smooth delivery. Practice answering potential questions from judges.
-- **Team Participation**: Ensure all team members are involved in the presentation. Each member should be confident in their part and able to answer questions.
+The board game began moving again because the team remembered the problem.
 
-## Collaborating with Experts and Community Partners
+This is the central coaching challenge of the Innovation Project. Children can produce a polished poster, clever prototype, energetic skit, or beautiful slide deck and still lose sight of the human need underneath it. A coach must keep returning the team to purpose without choosing the answer for them.
 
-Collaboration with experts and community partners can enhance your project by providing valuable insights and resources.
+The product is visible. The learning is deeper:
 
-### Engaging with Experts
-- **Identify Relevant Experts**: Seek out professionals, academics, or industry experts who have knowledge related to your project.
-- **Conduct Interviews**: Prepare questions and conduct interviews to gather expert insights and feedback.
-- **Ongoing Consultation**: Maintain contact with experts throughout your project for continuous guidance and support.
+- Can children identify a real problem instead of starting with a favorite invention?
+- Can they listen to people who understand or experience that problem?
+- Can they create and test a solution?
+- Can evidence persuade them to change it?
+- Can they explain both their progress and their limits honestly?
 
-### Community Involvement
-- **Local Organizations**: Partner with local organizations, schools, or community groups that have a stake in your project’s success.
-- **Public Outreach**: Share your project with the community through presentations, social media, or local events. Gather feedback and build support.
-- **Implementation and Testing**: Work with community partners to test and implement your solution in a real-world setting. This can provide valuable data and demonstrate the practical impact of your project.
+The Innovation Project is not a school report attached to a robotics competition. It is engineering with people at the center.
 
-By thoroughly identifying and researching a problem, developing innovative solutions, creating an impactful presentation, and collaborating with experts and community partners, your team can excel in the Innovation Project. This component not only contributes to the FLL competition but also fosters real-world skills and community impact.
+## One Engineering Process, Two Different Products
+
+In the Arizona coaches' workshops that Elaine Michaud and I have taught, we use one engineering process for both Robot Design and the Innovation Project:
+
+1. **Identify** the problem and relevant requirements.
+2. **Design** possible solutions and a plan.
+3. **Create** a model, prototype, or other meaningful representation.
+4. **Iterate** through testing, feedback, and evidence.
+5. **Communicate** the work, impact, and learning.
+
+These words may appear to form a straight line. Real projects do not.
+
+An expert conversation may reveal that the team identified the wrong problem. A prototype may expose a missing requirement. A survey may show that the solution is confusing. Preparing a presentation may reveal that no one can explain why a major decision was made.
+
+Then the team goes backward and forward again.
+
+That is not poor planning. That is the process working.
+
+Use the current season's official rubric as a learning map because details can change. Do not wait until the week before competition and turn rubric language into lines for children to memorize. From the beginning, let the rubric remind the team what strong work makes visible: a clear problem, varied research, deliberate choices, an innovative solution, testing, feedback, iteration, sharing, and evidence of impact.
+
+The rubric should help children notice missing work. It should not replace the work.
+
+## Begin with Problems, Not Products
+
+The fastest way to weaken an Innovation Project is to begin by asking, "What should we build?"
+
+That question rewards the first exciting product idea. A student likes apps, so the answer becomes an app. A parent owns a 3D printer, so the answer becomes a printed device. A mentor knows artificial intelligence, so the answer becomes an AI system.
+
+Begin instead with the season theme and the people inside it.
+
+- What do people in this field struggle with?
+- Who experiences the problem?
+- How do we know it is a problem?
+- What have people already tried?
+- What would improve if the problem were reduced?
+- Can children research and test it safely during one season?
+
+Every Iron Pegasus member contributed at least one possible problem. Their matrices included ideas involving ancient writing, artifact removal, tools for excavation, robots for difficult terrain, ground-penetrating radar, soil testing, educational toys, a website, and a board game.
+
+The team compared ideas using visible criteria:
+
+- Does it fit the season's challenge?
+- Does the problem exist in our community?
+- Can children research or test it?
+- Is most of the team excited about it?
+- Can we improve an existing solution or create something meaningfully different?
+- Can we build a prototype or put the idea into action?
+- Might any part of the idea be protectable?
+
+The highest-scoring ideas advanced to a team poll. The numbers did not replace student choice; they improved the choice by making the reasons visible.
+
+That distinction matters. A popular vote asks, "Which idea do you like?" A decision matrix asks, "What evidence supports your score?"
+
+A matrix is not automatically objective. Children can assign numbers casually, design criteria that favor a preferred answer, or treat a total as if it were scientific truth. Ask students to defend their ratings. Let them revise a score after research. Discuss whether one criterion should carry more weight than another. The educational value comes from making judgment discussable.
+
+Iron Pegasus arrived at this problem statement:
+
+**How can we help our local community learn more about archaeology?**
+
+It was specific enough to investigate and broad enough to allow several solutions. Most importantly, it described a change for people rather than naming the product in advance.
+
+## Prove the Problem Before Falling in Love with the Solution
+
+Hongying, the team's lead researcher, conducted a classroom survey. Every team member contributed at least two questions. Students asked what archaeologists study, what happens to artifacts, whether the location of an artifact matters, and whether archaeology is mainly about dinosaurs, fossils, treasure, or human history.
+
+The team reported that 52 percent of respondents showed misunderstandings about archaeology. Some associated it with treasure chests or dinosaur bones.
+
+That result helped confirm a need, but it also offers a lesson for coaches. A percentage without a sample size is incomplete evidence. The team's report preserved the percentage and examples of responses, but it did not place the number of classroom respondents beside the result. Today, I would ask the children to document both:
+
+- Who was invited to respond?
+- How many people responded?
+- What exact questions were asked?
+- How did the team decide whether an answer showed understanding?
+- What limitations might affect the result?
+
+Children do not need to conduct university-level research. They do need to learn that evidence has context.
+
+Also separate evidence of the **problem** from evidence for the **solution**. A survey showing that people misunderstand archaeology does not prove that a board game will teach them. That requires a second test.
+
+This is where many projects stop too soon. The team establishes that a problem exists, builds something, and assumes the product creates impact. A stronger team measures again after people use the solution.
+
+Iron Pegasus later used before-and-after surveys and gathered player feedback. At a Lakewood community event, approximately ten participants completed a survey and played the game. At Luke's Air Day, the team shared physical and digital versions and collected approximately twenty surveys. These are modest samples, but they moved the project from "People enjoyed it" toward "What did people learn, and what should we change?"
+
+Enjoyment matters for an educational game. It is not the same as learning.
+
+## Contact Experts While They Can Still Disagree
+
+One of the most common Innovation Project mistakes is contacting an expert after the team has finished everything.
+
+At that point, children often want one sentence: "Your idea is wonderful."
+
+That is approval, not collaboration.
+
+Iron Pegasus researched university and archaeological-organization websites, developed student-written email templates, and contacted more than one hundred professionals. The first day brought no replies. The children were discouraged.
+
+Silence is part of authentic outreach. Professionals are busy. Some messages reach the wrong person. Some are too vague. Some simply disappear inside full inboxes.
+
+Then positive replies began arriving, including responses from Arizona State University professors. More than a dozen professionals eventually spoke with the team, and several stayed involved as the game changed. The excitement of the first reply belonged to the children because the outreach belonged to them.
+
+The professionals did not merely decorate a presentation slide. They changed the work:
+
+- Archaeology professor Michael Barton explained that archaeologists study what people left behind and that much of the profession happens outside an excavation site.
+- Patrick Green, a field-station coordinator, encouraged the team to use real archaeological locations. The children added sites such as Parque Arqueológico do Solstício and Alice Boer.
+- Guam State Archaeologist John Mark Joseph supplied photographs of real artifacts and questions connected to them, strengthening the educational content.
+- Archaeologist Sachiko Sakai discussed funding challenges in the profession. That conversation led the team to plan to dedicate part of future earnings to archaeology programs.
+- Christopher Caseldine at ASU challenged an important game mechanic: players should not carry artifacts home as treasure. The endpoint changed from Cuzco to a museum, where artifacts could be preserved and studied.
+- Another game-design professional, who remained anonymous, reviewed the digital game.
+
+The museum change is exactly what expert involvement should produce. It was not a cosmetic suggestion. It corrected the message encoded in the rules.
+
+The coach's job is to make contact safe and possible without taking over. Coaches and parents can provide leads, supervise communications, teach email etiquette, review a draft, arrange facilities, and attend meetings. Children should introduce the team, explain unfinished work, ask questions, listen, and follow up whenever possible.
+
+For online or in-person contact with adults, follow youth-protection requirements, include appropriate adults in communications, avoid private unsupervised meetings, and obtain permission before publishing a professional's name, image, or words.
+
+Before each expert meeting, ask the children to prepare:
+
+- A one-sentence problem statement.
+- A short explanation of current evidence.
+- Something unfinished to show.
+- Three to five questions that cannot be answered by a quick web search.
+- A person responsible for notes.
+- A follow-up message and a decision about what feedback to use.
+
+Experts are most valuable when they are still allowed to make the children uncomfortable.
+
+## Choose a Solution That Can Teach You Something
+
+Iron Pegasus considered websites, digital games, educational toys, and other approaches. The children selected a board game because it could be social, physical, fun, and testable with both children and adults. They could use real locations, professional facts, and question cards while watching people play.
+
+The coach had shown examples of earlier FLL projects, including games. That is a healthy use of examples. Showing children that a category of solution exists is different from designing their solution for them.
+
+Children do not create in a vacuum. They study prior work, tutorials, products, and case studies. The ownership test is whether they can explain:
+
+- What inspired them.
+- What already existed.
+- What they adopted or changed.
+- Why their version fits the users and problem.
+- What they personally designed, tested, and learned.
+
+The team researched commercial archaeology games and concluded that many emphasized entertainment without correcting common misconceptions. Their opportunity was not simply to make another game with an archaeology theme. It was to make the mechanics teach responsible archaeology.
+
+That standard became important when the project drifted. A beautiful map did not matter if players finished with the wrong idea.
+
+## A Prototype Is a Question Made Visible
+
+The first Iron Pegasus board was rough. Paths were not secured. Some routes were too small. It had no finished playing pieces or question cards. The design included both Mesoamerica and South America, and the educational system was mostly an intention.
+
+![An early Iron Pegasus archaeology board-game prototype]({{ site.url }}{{ site.baseurl }}/assets/images/iron-pegasus-archaeology-game-prototype-1.jpg){: width="500"}
+
+*An early Iron Pegasus prototype. It gave the children something concrete to test rather than something polished to defend. Photo courtesy of Iron Pegasus.*
+
+The next version used a larger South America map, added paths, question cards, and playing pieces, but it still had one-way routes, unfinished pieces, and questions without answers.
+
+Later versions changed opportunity spaces to stars, removed most one-way paths, added accurate question-and-answer content, and revised what players collected. The children shifted from collecting real artifacts to collecting images of artifacts. They added laboratory analysis and changed the destination to a museum.
+
+![A later Iron Pegasus archaeology board-game prototype]({{ site.url }}{{ site.baseurl }}/assets/images/iron-pegasus-archaeology-game-prototype-2.png){: width="500"}
+
+*A later prototype with revised routes, pieces, cards, and mechanics shaped by testing and professional feedback. Photo courtesy of Iron Pegasus.*
+
+By a later physical draft, components were printed rather than loosely glued to the board. The team sent copies to professionals and created explanatory videos for reviewers who did not want to provide a mailing address. Across the season, the children counted six major versions.
+
+Do not treat six as a magic number. One meaningful revision supported by evidence is more valuable than six color changes labeled as iterations.
+
+For every version, ask:
+
+- What question were we testing?
+- Who tested it?
+- What happened?
+- What evidence did we record?
+- What did we change?
+- Why should the next version work better?
+
+Photographs help, but a timeline of photographs without decisions is only an album. Pair each image with the problem, action, result, and next step.
+
+## When New Technology Expands the Solution
+
+The physical board game did not remain the only format.
+
+After regionals, the team developed a Scratch version, an AI-assisted website, an advertisement video, and an online presence. After the state tournament, the children added customization features and developed a Roblox version to reach players beyond local events.
+
+A mentor introduced recent AI tools as possible resources. Brian, one of the team's technical members, became absorbed in the challenge and spent months improving the website and digital game.
+
+This is an important coaching boundary. "Made with AI" does not mean "made without work," but neither does typing one prompt prove engineering ownership.
+
+When children use AI, ask them to document:
+
+- What they wanted the tool to produce.
+- Which prompts, inputs, or constraints they created.
+- What the tool produced incorrectly.
+- How they verified facts and tested behavior.
+- What they edited, programmed, rejected, or redesigned.
+- Which decisions remained human decisions.
+- How they credited the tool and other starting resources.
+
+The child should be able to demonstrate the result, explain its structure at an age-appropriate level, identify failures, and improve it without pretending the first generated output was finished.
+
+AI should increase the number of experiments a child can run. It should not remove the child from the process.
+
+## Sharing Is Not Automatically Impact
+
+FLL teams love large numbers.
+
+"We presented to eight hundred students."
+
+"Ten thousand people attended the event."
+
+"Hundreds of people walked past our booth."
+
+Those numbers describe opportunity and reach. They do not automatically demonstrate impact.
+
+I teach teams to separate four levels:
+
+- **Activity:** We presented, posted, demonstrated, or sold something.
+- **Reach:** A certain number of people encountered it.
+- **Response:** People played, answered, commented, or requested more information.
+- **Outcome:** Evidence suggests that knowledge, behavior, access, or conditions changed.
+
+Iron Pegasus shared the game at community events, tested physical and digital versions, collected surveys, created videos, and offered the production edition online. By the time of this writing, the team had sold approximately six or seven copies at $9.99 each.
+
+The children also planned to support archaeology programs with a portion of future earnings. The amount raised so far is small, and a donation has not yet been made. That distinction belongs in the story.
+
+Honesty does not weaken impact. It makes the evidence trustworthy.
+
+The team can say:
+
+"We sold several copies and created a plan to donate part of future proceeds. We have not raised enough to make that donation yet. Our next step is to expand distribution and document what is donated."
+
+That answer is stronger than turning an intention into an accomplishment.
+
+![The production edition of Relics of the Lost Continent by Iron Pegasus Games]({{ site.url }}{{ site.baseurl }}/assets/images/iron-pegasus-relics-production-edition.webp){: width="500"}
+
+*The production edition of* [*Relics of the Lost Continent*](https://www.ebay.com/itm/205986892335), *created by Iron Pegasus Games. Product image used with permission.*
+
+Impact can also occur inside the team. Hongying researched professionals, led much of the outreach, helped produce several versions of the report, designed promotional materials, directed the judging skit, and spoke confidently in the judging room. Brian used new tools to build digital forms of the solution. Other children contributed survey questions, game mechanics, research, testing, presentations, and outreach.
+
+The project changed the product, the audience, and the children doing the work.
+
+## The Prototype That Was Not Ready
+
+Golden Phoenix offers a different lesson from its 2023-2024 *MASTERPIECE* rookie season.
+
+The team investigated how technology might help deaf people experience music. Students visited a Phoenix school serving deaf and blind learners, studied how people experienced music through other senses, and considered robotic technology that might translate music into another form. Along the way, they even offered to help the school explore forming an FLL team.
+
+Before the Houston World Championship, however, their proposed solution existed mainly in drawings. The team did not have the kind of working hardware prototype we hoped to show.
+
+As mentors, we demonstrated how SPIKE Prime parts could be used for prototyping and showed examples from earlier seasons. We wanted to spark ideas. We also felt the temptation to close the gap ourselves.
+
+We did not build the missing prototype for them.
+
+The children arrived with authentic but incomplete work. At the World Championship, Golden Phoenix earned the Engineering Excellence Award.
+
+That does not prove that prototypes are unimportant. A stronger student-built prototype would have improved the project. The award recognized the complete team performance, including the children's ability to tell genuine stories about learning, initiative, fundraising, teamwork, and personal growth.
+
+A trophy should not rewrite the engineering history. The prototype was still late. The children still owned it.
+
+For a coach, that is sometimes the harder victory.
+
+## What Judges Hear Beneath the Presentation
+
+As a judge, I do not decide that a project has impact because a poster uses the word *impact* in large letters.
+
+I listen for connections:
+
+- Does the research support the problem statement?
+- Did the team talk with relevant people?
+- Can children explain why they selected this solution?
+- Did feedback arrive early enough to change something?
+- Can they show what changed between versions?
+- Do their tests measure the intended result?
+- Are their claims consistent with their records and expert feedback?
+- Can more than one child answer an unscripted follow-up question?
+
+Children this age are usually honest when a judge asks, "How did you decide that?" or "What did you personally do?" Memorized lines become visible when the next question moves one step beyond the script.
+
+The goal is not to train children to hide uncertainty. Teach them to say:
+
+"We do not know yet."
+
+"Our first survey was too small."
+
+"We tried that and it failed."
+
+"An expert changed our mind."
+
+"This is what we would test next."
+
+Those are engineering answers.
+
+## The First Four Weeks
+
+A first-time coach does not need a final solution after four weeks. The team needs a strong foundation for discovering one.
+
+### Week 1: Explore the Theme
+
+- Learn the season theme and vocabulary.
+- Examine several roles, users, and settings connected to it.
+- Invite every child to contribute possible problems.
+- Begin a project notebook and source list.
+
+### Week 2: Meet the Field
+
+- Identify professionals, community members, and potential users.
+- Let children draft safe, supervised outreach messages.
+- Conduct early interviews before selecting a final problem.
+- Record surprises, contradictions, and new questions.
+
+### Week 3: Compare Problems
+
+- Refine the broad list into researchable problem statements.
+- Agree on decision criteria before scoring ideas.
+- Use a matrix, discuss the ratings, and investigate weak assumptions.
+- Select a problem through evidence and team judgment, not volume or adult preference.
+
+### Week 4: Establish Evidence and Plan
+
+- Research existing solutions and give credit.
+- Design an initial survey, observation, or interview method.
+- Record sample size and limitations.
+- Create a project roadmap with owners and near-term deadlines.
+- Brainstorm several solutions without committing to the first attractive one.
+
+The team may move more slowly than an adult would. That is acceptable. The adult's efficiency is not the purpose of the season.
+
+## Keep Asking the Real Question
+
+The Iron Pegasus board game improved when the children stopped asking only, "How can we make the game better?" and returned to, "How can this help people understand archaeology?"
+
+That shift changed the question cards, the map locations, the handling of artifacts, the destination, the surveys, the experts involved, the physical product, and the digital versions.
+
+It also changed the meaning of success.
+
+Success was not merely finishing a board. It was learning to choose with evidence, contact strangers professionally, survive unanswered emails, accept correction, test with users, work through multiple versions, use new technology responsibly, communicate honestly, and continue after competition.
+
+The Innovation Project begins with curiosity, but curiosity alone wanders. Engineering gives it direction. Feedback gives it humility. Evidence gives it credibility. Sharing gives it reach.
+
+Impact begins when something changes—and the children can show us how they know.
