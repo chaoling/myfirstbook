@@ -1,70 +1,314 @@
 ---
 layout: post
-title: "Chapter 4: The FLL Challenge: Understanding the Components"
+title: "Chapter 4: More Than the Robot"
 date: 2024-06-24 12:00:00 -0700
 categories: chapter
 ---
 
-## The FLL Challenge: Understanding the Components
+## The Brightest Distraction in the Room
 
-The FIRST Lego League (FLL) Challenge is comprised of three main components: the Robot Game, the Project, and Core Values. Each component is designed to test and develop different skills, encouraging participants to think critically, work collaboratively, and innovate creatively.
+At an FLL tournament, the Robot Game is difficult to ignore.
 
-## The Robot Game
+There is a clock. There is a scoreboard. There are referees, cheering parents, crowded tables, and robots that behave perfectly during practice but develop independent personalities under competition lights. Everyone can see which team scored more points.
 
-The Robot Game is a key part of the FLL Challenge where teams design, build, and program an autonomous robot to complete a series of missions on a themed playing field. Here’s a detailed breakdown:
+The rest of FIRST LEGO League Challenge is less visible.
 
-### Understanding the Field
-- **Field Setup**: The playing field is a mat with specific mission models that need to be interacted with by the robot. Each year, the layout and missions change based on the theme.
-- **Missions**: Missions are tasks that the robot must complete to score points. These can include moving objects, triggering mechanisms, or navigating obstacles.
+You cannot place a child's growing confidence on a leaderboard. You cannot reduce months of research, design choices, expert feedback, failed prototypes, and teamwork to one exciting two-and-a-half-minute match. A parent watching from the stands may see the Robot Game score and believe they have seen the result of the season.
 
-### Robot Design and Build
-- **Design**: Teams must brainstorm and sketch multiple designs before deciding on the final build. Consider factors like stability, maneuverability, and the ability to perform specific tasks.
-- **Build**: Using LEGO Mindstorms or SPIKE Prime kits, teams construct their robot. The build process involves assembling motors, sensors, and structural components.
+They have seen only one part.
 
-### Programming the Robot
-- **Coding**: Teams use graphical programming environments like EV3 Classroom or SPIKE Prime App to write the code that controls the robot’s actions.
-- **Testing and Iteration**: Extensive testing is crucial. Teams should test their robot’s performance in completing missions and iterate on their design and code based on the results.
+I have watched a team finish first in Robot Performance and still not advance because it was not strong enough across the complete program. I have also seen a team finish near the bottom of the Robot Game standings at the World Championship and earn an Innovation Project award.
 
-### Strategy and Scoring
-- **Strategizing**: Teams need to decide the order in which to complete missions and the path the robot will take. Efficiency and consistency are key.
-- **Scoring**: Points are awarded based on the successful completion of missions. Understanding the scoring rules and maximizing points through strategy is essential.
+This surprises many new coaches. It should not.
 
-## The Project
+FIRST LEGO League is more than a robot competition. I describe it to parents as a competitive sport in which every child can become a winner—not because every child receives the same trophy, but because the most valuable results are skills and experiences no opposing team can take away. FLL is engineering, research, communication, community, leadership, and personal change. It is a life experience disguised as a robotics program.
 
-The Innovation Project is where teams apply research and problem-solving skills to address a real-world issue related to the annual theme.
+The robot may be the brightest attraction in the room. Do not let it become the brightest distraction.
 
-### Identifying a Problem
-- **Theme Exploration**: Each year’s challenge has a theme (e.g., renewable energy, space exploration). Teams explore this theme to identify a specific problem they want to solve.
-- **Research**: Conduct thorough research to understand the problem, existing solutions, and potential areas for innovation.
+## Four Views of One Team
 
-### Developing a Solution
-- **Brainstorming**: Generate a range of possible solutions through brainstorming sessions. Encourage creativity and out-of-the-box thinking.
-- **Prototyping**: Create prototypes or models of the proposed solution. This could involve sketches, physical models, or digital simulations.
+The FLL Challenge asks teams to develop in four connected areas:
 
-### Presentation
-- **Creating the Presentation**: Develop a compelling presentation that explains the problem, the research process, the proposed solution, and its potential impact.
-- **Delivering the Presentation**: Teams must present their project to judges, effectively communicating their ideas and answering questions. Practice and polish the presentation for clarity and confidence.
+| Area | The central question | Evidence the team creates |
+|---|---|---|
+| **Robot Game** | Can the robot complete missions reliably under the rules? | Match performance, strategy, reliability, and operator readiness |
+| **Robot Design** | How did the children engineer the robot and code? | Decisions, tests, data, iterations, explanations, and demonstrations |
+| **Innovation Project** | Can the team identify and address a meaningful real-world problem? | Research, expert input, solution development, prototypes, feedback, and impact |
+| **Core Values** | How did the children work, learn, include others, and compete? | Behavior throughout the season, judging session, outreach, and tournament |
 
-## Core Values
+These are not four departments that happen to wear the same shirt. They are four views of the same team.
 
-Core Values are the cornerstone of FLL and emphasize teamwork, inclusion, and fun. They reflect how teams approach both the Robot Game and the Project.
+The official Champion's Award process looks for balanced strength in the three judged areas and Robot Game performance. FIRST describes those four areas as equally weighted when identifying the initial group of Champion's Award candidates, followed by judge deliberation. This is why I sometimes tell teams that the Robot Game is only one quarter of the complete picture.
 
-### Discovery
-- **Learning**: Embrace the process of learning and discovery. Value the journey over the end result.
+That phrase is a coaching reminder, not a formula for predicting awards. Judging includes qualitative comparison and deliberation. Event formats, advancement policies, timing, and award structures can also change by season and region. Always use the current [FIRST LEGO League season materials](https://www.firstinspires.org/resources/library/fll/season-materials), current rubrics and judging flowchart, and guidance from your local Program Delivery Partner.
 
-### Innovation
-- **Creativity**: Encourage innovative thinking and creative problem-solving. Look for new ways to tackle challenges.
+The enduring principle is simple: a complete team does not hide three quarters of its learning behind one score.
 
-### Impact
-- **Contribution**: Understand the impact of your solutions and actions on the community and beyond.
+## Core Values Are Woven Through Everything
 
-### Inclusion
-- **Teamwork**: Promote a culture of inclusion where every team member is valued and their contributions are recognized.
+New teams sometimes imagine a separate Core Values speech: say the six words, show a poster, and move on to the serious technical work.
 
-### Teamwork
-- **Collaboration**: Work together effectively, leveraging each other’s strengths and supporting one another.
+That is not how Core Values work.
 
-### Fun
-- **Enjoyment**: Ensure that fun and enthusiasm are integral parts of the FLL experience.
+Discovery appears when a programmer admits that a test disproved an assumption. Innovation appears in both an attachment and a project solution. Inclusion appears when the quietest member explains a meaningful contribution. Teamwork appears when operators recover calmly from a failed run. Impact appears when research changes what people understand or do. Fun may be visible in a song, a cheer, or the simple pride children take in one another.
 
-By understanding the components of the FLL Challenge—the Robot Game, the Project, and Core Values—teams can approach the competition with a comprehensive strategy. Success in FLL is not just about winning; it’s about learning, growing, and having fun throughout the process.
+Current FIRST rubrics embed Core Values into the Innovation Project and Robot Design discussions, and Core Values can be observed throughout an event. The team is showing its culture from the moment it enters the room—and often before.
+
+As a judge, I have seen teams from Mexico praise their coach's extraordinary effort and then teach the judges a dance at the end of the session. I have watched Spanish teams sing and dance with contagious pride. I have seen children help another team restore robot code that was lost the night before competition. I have seen teams cheer for the children across the Robot Game table, not only for themselves.
+
+Our own students have helped other teams with code, cheered competitors, complimented teammates in the judging room, and told judges how FLL changed them personally.
+
+None of those moments needed a slide titled *Core Values*.
+
+The values were already visible.
+
+## Build Two Roadmaps, Not One Last-Minute Rush
+
+Our teams create season roadmaps for both the robot work and the Innovation Project. A typical season may span twelve to fifteen weeks and contain three or four broad phases. A compressed season may have only six or seven weeks.
+
+We organize the work around the engineering design process:
+
+1. **Identify** the problem, requirements, constraints, and opportunities.
+2. **Design** possible approaches and decide what to try.
+3. **Create** a robot, program, attachment, project solution, or prototype.
+4. **Iterate** through testing, feedback, failure, and improvement.
+5. **Communicate** the decisions, evidence, learning, and impact.
+
+Do not treat these as five boxes that can be checked once. Communication may reveal a weak assumption and send the team back to Identify. A test may expose a design problem. An expert conversation may require another prototype. The process repeats.
+
+One of our students created a simplified seven-week Robot Design plan:
+
+- **Weeks 1–2:** Create CAD concepts for a base robot, build candidates, and test them.
+- **Weeks 2–3:** Develop mission strategy and begin the first attachments, programs, and tests.
+- **Weeks 4–5:** Complete additional runs while adjusting strategy, mechanisms, and code.
+- **Weeks 6–7:** Test complete runs repeatedly, improve reliability, prepare the Robot Design explanation, and practice for competition.
+
+The overlapping weeks are intentional. Engineering does not wait politely for one phase to end before the next begins.
+
+We build a parallel roadmap for the Innovation Project: explore problems, compare ideas, research existing solutions, contact professionals, prototype, collect feedback, revise, communicate, and create impact.
+
+Documentation and Core Values do not receive a separate final week. They run through both roadmaps. Judging preparation also begins long before competition because students regularly explain what they did and learned.
+
+Near the first regional events in December, we increase formal judging preparation. Our teams often hold mock judging sessions near the end of November. We also practice full table runs so operators experience different starting positions, noise, pressure, mistakes, and recovery.
+
+The goal is not to make children sound rehearsed. It is to make the real environment feel familiar.
+
+## Start the Robot Game With Strategy, Not Plastic
+
+When the annual challenge is released, children want to build immediately. Enthusiasm is valuable, but a pile of parts cannot rescue a weak strategy.
+
+Before committing to a robot or attachment, our teams:
+
+- Read every mission and the complete Robot Game rules.
+- Confirm how points are earned and lost.
+- Identify missions that interact or create dependencies.
+- Consider travel distance, alignment, attachment changes, risk, and recovery.
+- Group missions into possible runs.
+- Compare points with expected reliability and time.
+- Discuss and document why certain missions should come earlier or later.
+
+Then students design.
+
+We encourage team members to model base-robot ideas in CAD, even when the software is new to them. Students may each create and build a candidate robot appropriate for the season challenge. The team compares the designs, tests them, and selects or combines the strongest ideas.
+
+The same principle applies to attachments. Do not choose the most impressive-looking mechanism by popular vote. Define what it must do. Create alternatives. Test them. Record evidence. Improve or replace them.
+
+We often manage this work in an agile style: deliver one useful improvement, test it, celebrate the small win, and decide what to attempt next. A completed reliable run is more informative than six brilliant attachments that have never operated together.
+
+Our philosophy is to fail fast and fail often—but not carelessly. Fast failure means testing an uncertain idea early enough that the result can guide the next decision. Repeating the same mistake without evidence is not iteration.
+
+Encourage children to challenge themselves with new tools: CAD, a new programming language, or a more systematic test method. Coaches and mentors do not need to know every answer before the children begin. We can learn together.
+
+## Robot Performance Is a Result; Robot Design Is a Story
+
+A high Robot Game score can come from strong engineering. It does not explain that engineering by itself.
+
+Robot Design judging looks at the process behind the performance. Students should be ready to explain:
+
+- Which missions they selected and why.
+- How they organized robot runs.
+- Why they chose the base robot, attachments, sensors, and programming methods.
+- Which alternatives they rejected and what evidence informed the decision.
+- How testing changed the design or code.
+- How they improved reliability, precision, efficiency, and operator usability.
+- What failed and what the team learned.
+- How different members contributed.
+
+A robot that scores beautifully while only one child understands it is a fragile team achievement. Builders and programmers are not the only students with a Robot Design contribution. Testers can explain the data they gathered. Operators can describe attachment usability and match strategy. Researchers can investigate technical alternatives. Documenters can trace design changes. A student who did not write the code can still understand its purpose and describe how the team tested it.
+
+Judges do not need every child to claim every job. They need evidence that the robot belongs to the team.
+
+This is why presentation practice should not begin with a script. Give a student an attachment and ask, "What problem was this designed to solve?" Show a code section and ask, "What changed after testing?" Ask a teammate who did not build the mechanism to describe it, then let the builder correct or expand the explanation.
+
+Communication exposes gaps in shared understanding while there is still time to teach.
+
+## Iron Pegasus and the Archaeology Game
+
+Iron Pegasus's 2025–2026 *UNEARTHED* Innovation Project shows how all four areas can reinforce one another.
+
+The team wanted to help the local community understand archaeology. Their research found common misconceptions: people may think archaeologists study dinosaurs, hunt for treasure, or dig up artifacts to sell. In the team's local survey, about 52 percent of respondents showed misunderstandings about archaeology.
+
+The children did not select a solution through a simple popularity vote. They used decision matrices to compare project ideas. Their criteria included:
+
+- Potential impact on the local or global community.
+- Whether the full team felt motivated by the idea.
+- Whether the solution could be tested and improved.
+- Whether it had meaningful innovation or potentially protectable features.
+- Whether the team could create a realistic prototype during the season.
+
+Quantitative scoring did not remove discussion. It made the reasons visible. Children still challenged the criteria, explained their ratings, and investigated weak assumptions. The matrix prevented the loudest voice or most entertaining first idea from winning automatically.
+
+The selected solution was an archaeology-themed educational board game for children and adults. Players could have fun while learning what archaeologists actually do, exploring real sites, and answering questions developed with professional input.
+
+Then the team did something more impressive than creating the first board.
+
+They contacted more than one hundred professionals.
+
+More than a dozen spoke with the team, and several continued providing feedback. The children—not the coaches—gained experience writing emails, presenting unfinished work, asking useful questions, listening to criticism, and following up. Archaeologists contributed question-bank material that made the game more accurate and valuable.
+
+The prototype changed repeatedly.
+
+The first version had unsecured paths, no finished playing pieces, no question cards, and routes that were too small. The second version used a larger map, added question cards and pieces, and improved the paths, but it still had one-way routes, unfinished pieces, and questions without answers.
+
+![An early Iron Pegasus archaeology board-game prototype]({{ site.url }}{{ site.baseurl }}/assets/images/iron-pegasus-archaeology-game-prototype-1.jpg){: width="500"}
+
+*An early Iron Pegasus archaeology game prototype. Photo courtesy of Iron Pegasus.*
+
+![A later Iron Pegasus archaeology board-game prototype]({{ site.url }}{{ site.baseurl }}/assets/images/iron-pegasus-archaeology-game-prototype-2.png){: width="500"}
+
+*A later prototype with revised routes, pieces, cards, and game mechanics. Photo courtesy of Iron Pegasus.*
+
+Professional feedback changed more than the appearance. Archaeologists advised the team not to make players collect real artifacts as if archaeology were treasure hunting. Players could collect images of artifacts instead. Artifacts should go to a museum, and they could be taken to a laboratory for analysis. Those changes aligned the game mechanics with the profession the children were trying to explain.
+
+By the final physical draft, the game was fully printed rather than assembled from loosely attached pieces. The team sent prototypes to professionals for review and created explanatory videos for experts who preferred not to share mailing addresses. Across the season, the children produced five or six major iterations and also developed digital versions on game platforms, including Roblox, with help from AI tools.
+
+The team began commercializing versions of the game, including through online marketplaces, with a plan to donate proceeds to support an archaeological society. That is the difference between presenting the word *Impact* and creating impact.
+
+![The production edition of Relics of the Lost Continent by Iron Pegasus Games]({{ site.url }}{{ site.baseurl }}/assets/images/iron-pegasus-relics-production-edition.webp){: width="500"}
+
+*The production edition of* [*Relics of the Lost Continent*](https://www.ebay.com/itm/205986892335), *created by Iron Pegasus Games. Product image used with permission.*
+
+At the World Championship in Houston, Iron Pegasus earned the Rising All-Star Award. Another Arizona team posted stronger Robot Game performance but did not receive an award there. That comparison does not diminish either team. It illustrates what judges are asked to recognize: the complete body of student work, not one visible number.
+
+Look at how many parts of FLL existed inside this one project:
+
+- Research and professional communication strengthened the Innovation Project.
+- Decision matrices and prototype testing demonstrated the engineering process.
+- Repeated explanations improved judging confidence.
+- Documentation preserved feedback and iterations.
+- Shared roles created Inclusion and Teamwork.
+- Accurate game mechanics respected the people and profession being represented.
+- Outreach, education, and fundraising expanded Impact.
+
+One authentic activity can strengthen the whole team.
+
+## Experts Are Partners, Not Decorations
+
+The most common Innovation Project mistake I see is waiting too long to involve professionals.
+
+Some teams choose a favorite idea, build nearly the entire solution, and then search for an expert who will say it is good. That is not feedback. It is a request for approval.
+
+Engage experts while the problem and solution can still change. Ask them:
+
+- Are we describing the problem accurately?
+- Who is most affected by it?
+- What existing solutions have we missed?
+- Why have previous approaches succeeded or failed?
+- What assumption in our idea worries you most?
+- How could we test the solution with real users?
+- What would make the prototype more useful or realistic?
+
+Students must prepare for these conversations. Before an online expert meeting, they should be able to introduce the team, state the problem, show current progress, and ask specific questions. Afterward, they should document what they heard, decide which feedback to use, and explain why.
+
+The coach can help locate professionals, teach email etiquette, supervise communication, and rehearse questions. The students should conduct the meeting whenever possible.
+
+That single experience develops research, initiative, listening, public speaking, documentation, and confidence. For a shy child, an outreach presentation or expert interview can be one of the best judging practices available because the audience is real and the questions are not scripted.
+
+## Prepare to Explain, Not Recite
+
+When judges want to know whether children understand the work, the method is not mysterious. We ask follow-up questions.
+
+What led you to that decision? What did the professional tell you? Which prototype failed? What did *you* contribute? What would you change with another month? Why is this code structured this way?
+
+Children are usually honest. A memorized presentation may survive the first question, but genuine understanding appears in the second and third. Team members build on one another's responses. They point to evidence. They can explain disagreement, uncertainty, and change.
+
+Practice should therefore begin early and include improvisation:
+
+- Ask students to give a one-minute update at every meeting.
+- Let different members explain the same design.
+- Interrupt a prepared sequence with a follow-up question.
+- Practice answering when the expected speaker is absent.
+- Ask what failed, not only what succeeded.
+- Present to parents, younger classes, community groups, and unfamiliar adults.
+- Give frequent, specific, constructive feedback.
+
+Near competition, hold full mock judging sessions using the current official flowchart and rubrics. Rookie students should enter the real room recognizing the rhythm.
+
+Do not confuse familiarity with memorization. A child who forgets one sentence but understands the work can recover. A child who knows only the sentence cannot.
+
+## What to Expect in the Judging Room
+
+FIRST currently describes a unified judging session in which teams share their Innovation Project, Robot Design, and teamwork. The exact timing and flow can change, so download the current judging session flowchart rather than relying on an older coach's memory—or even the timing printed in this book.
+
+In the format our teams commonly prepare for, students generally have a short live Innovation Project presentation followed by questions, a Robot Design explanation followed by questions, and time for broader Core Values reflection and judge feedback. Judges guide the transitions and may adjust questions to learn what the team has not yet shown.
+
+Bring materials that reveal the work:
+
+- The robot and important attachments.
+- A project prototype or model.
+- A clear poster or other reliable visual.
+- Examples of code, on a charged device and/or in a readable printed report.
+- Engineering-journal evidence, test results, research, and prototype iterations.
+- Any permitted season-specific documents listed in the current guidance.
+
+Technology can help, but it can also consume precious minutes. I have watched rookie teams struggle to connect laptops and projectors while the session clock continued. A poster cannot lose Wi-Fi, install an update, or decide that today is the day to forget its adapter.
+
+If students use technology, they should have a backup and practice the setup under time pressure.
+
+The coach's role inside the judging room is simple: become invisible. If coaches are permitted to observe, they do not prompt, mouth answers, point to materials, correct students, or communicate with judges on the team's behalf. Adult assistance can undermine the judges' ability to see student ownership and may violate event rules.
+
+The children may be nervous. Judges know this. A good judging panel is not trying to trap them. We ask questions to uncover work that nervous students may not communicate in the first answer.
+
+The best preparation is not a coach ready to rescue the team. It is a team that has rescued itself many times during practice.
+
+FIRST also publishes practical [judging-session preparation guidance](https://community.firstinspires.org/tournament-tips-preparing-for-your-judging-session). Use it with the current season flowchart and rubrics.
+
+## Do Not Save Communication for the End
+
+An inexperienced team often treats documentation, feedback, and presentation practice as finishing work. The robot is engineered all season; its story is engineered during the final week.
+
+That is too late.
+
+Documentation should be part of the process. Project experts should be engaged while they can still change the work. Students should explain designs before those designs look polished. Core Values reflection should happen after ordinary meetings, not only before judging. Robot reliability should be measured throughout the season, not guessed during the final practice.
+
+As competition approaches, increase the intensity:
+
+- Run full Robot Game matches under realistic timing and noise.
+- Change small conditions so operators learn to adapt.
+- Practice attachment transitions and recovery from failure.
+- Hold mock judging sessions with unfamiliar adults.
+- Ask questions in a different order each time.
+- Confirm that every student can explain meaningful work.
+- Rehearse carrying materials into and out of the room efficiently.
+- Give feedback, revise, and practice again.
+
+But do not invent a polished story that did not happen. Judging preparation helps children recognize and communicate their real engineering journey. It does not replace that journey.
+
+## One Process, Repeated Everywhere
+
+Robot Design, the Innovation Project, Core Values, and the Robot Game may look different on a tournament schedule. Underneath, the team is practicing the same habits:
+
+- Identify what matters.
+- Explore more than one idea.
+- Make a reasoned decision.
+- Create something children own.
+- Test it in the real world.
+- Invite feedback before it is comfortable.
+- Learn from failure.
+- Improve the work.
+- Explain the journey honestly.
+- Help others while competing hard.
+
+This is why a well-run FLL season feels like one complete challenge rather than four unrelated assignments.
+
+The Robot Game may attract children to FLL, but a good engineering design process—and the courage to fail fast—keeps them growing.

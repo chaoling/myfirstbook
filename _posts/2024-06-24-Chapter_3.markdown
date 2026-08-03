@@ -1,139 +1,265 @@
 ---
 layout: post
-title: "Chapter 3: Building a Strong Foundation"
+title: "Chapter 3: Ten Children, One Team"
 date: 2024-06-24 12:00:00 -0700
 categories: chapter
 ---
-# Building a Strong Foundation
 
-## Establishing Team Goals and Values
+## Culture Is the Team's First Engineering Project
 
-A successful FLL team starts with clear goals and strong values. Setting these from the beginning will guide your team’s actions and decisions throughout the season.
+At Fire Kirin's first meeting in 2017, I did not put LEGO pieces on the table.
 
-### Defining Team Goals
-- **Short-Term Goals**: Set achievable milestones, such as completing specific missions or refining robot designs. Celebrate small victories to keep the team motivated.
-- **Long-Term Goals**: Aim for broader objectives like winning a regional competition, improving technical skills, or developing a strong Innovation Project. These goals provide a vision for the team's progress.
-- **SMART Goals**: Ensure goals are Specific, Measurable, Achievable, Relevant, and Time-bound. This clarity helps track progress and make necessary adjustments.
+That may sound strange for the first day of a robotics team. Ten children, ages nine to eleven, had registered for a new class at Hope Chinese School. Most of them did not know one another. They were probably expecting motors, sensors, and the satisfying sound of hundreds of parts being poured into plastic bins.
 
-### Establishing Core Values
-- **Inclusivity**: Encourage every team member to contribute their ideas and skills. A diverse range of perspectives strengthens problem-solving.
-- **Respect and Collaboration**: Promote a culture of mutual respect. Recognize and value each member's contributions and foster a supportive environment.
-- **Continuous Improvement**: Emphasize learning and growth. Encourage the team to view challenges as opportunities to improve and innovate.
+Instead, I asked them to introduce themselves.
 
-## Creating a Collaborative Team Environment
+Name. Age. Grade. Hobby. One fun fact.
 
-A collaborative team environment is essential for success in FLL. Here are strategies to build and maintain it:
+The room was quiet. Speaking in front of unfamiliar teammates can be harder than programming a robot to drive straight—especially when you are nine years old and have not yet decided whether these people are friends, competitors, or simply strangers who happen to like LEGO.
 
-### Team-Building Activities
-- **Icebreakers**: Start with icebreakers to help team members get to know each other and build trust. Fun activities like Lego building challenges or problem-solving games can break the ice. (e.g: Nine Dots Puzzel)
-- **Regular Meetings**: Schedule regular team meetings to discuss progress, brainstorm ideas, and address any issues. Consistent communication keeps everyone aligned and engaged.
-- **Role Rotation**: Rotate roles periodically to give everyone a chance to experience different aspects of the competition. This fosters empathy and a broader skill set.
+We watched the season reveal video. We discussed preliminary Robot Game strategies and possible Innovation Project topics. The children began imagining what they might build together before they touched the materials.
 
-## Suggested Roles for a Typical FLL Team
+In later seasons, I changed the introduction. Instead of asking each child to describe themselves, I paired students and asked them to talk with a neighbor. Then each child introduced the other person to the group.
 
-### Team Leader
-- **Responsibilities**: Oversees the entire team, ensures all members are engaged, facilitates meetings, and maintains overall organization. Acts as the main point of contact between the team and coaches/mentors.
-- **Skills Needed**: Leadership, organization, communication.
+That small change carried an important message: your first responsibility on this team is not to advertise yourself. It is to listen closely enough to represent a teammate.
 
-### Robot Designer/Builder
-- **Responsibilities**: Leads the design and construction of the robot. Works on assembling and modifying the robot to complete missions.
-- **Skills Needed**: Engineering, creativity, hands-on building.
+Before children can engineer a robot, they must begin engineering relationships. Before they can divide missions, they must learn one another's names. Before they can trust a teammate to start a competition run, they must learn to speak, listen, disagree, recover, and try again together.
 
-### Programmer
-- **Responsibilities**: Writes and tests the code to control the robot's movements and actions. Ensures the robot can complete missions autonomously.
-- **Skills Needed**: Coding, problem-solving, logical thinking.
+Culture is the team's first engineering project.
 
-### Researcher
-- **Responsibilities**: Conducts research for the Innovation Project. Gathers information, identifies problems, and helps develop innovative solutions.
-- **Skills Needed**: Research, critical thinking, creativity.
+Like every engineering project, it will not work perfectly on the first attempt.
 
-### Presenter
-- **Responsibilities**: Prepares and delivers presentations for the Innovation Project and Core Values judging sessions. Ensures the team communicates their ideas clearly and effectively.
-- **Skills Needed**: Public speaking, communication, confidence.
+## Why Fire Kirin?
 
-### Documenter/Journalist
-- **Responsibilities**: Keeps detailed records of the team's progress, designs, code iterations, and research findings. Documents team meetings and activities.
-- **Skills Needed**: Writing, organization, attention to detail.
+The children helped choose our team name through a vote.
 
-### Core Values Champion
-- **Responsibilities**: Ensures the team embodies the FLL Core Values. Promotes teamwork, inclusion, and fun during all activities.
-- **Skills Needed**: Empathy, leadership, positive attitude.
+They selected **Fire Kirin**, inspired by the ancient Chinese mythical creature. To us, the Kirin represented team members from different backgrounds bringing their strengths together and becoming stronger as one team.
 
-### Task Manager
-- **Responsibilities**: Helps with scheduling, assigning tasks, and tracking progress. Ensures deadlines are met and tasks are completed efficiently.
-- **Skills Needed**: Organization, time management, attention to detail.
+A good team name does more than decorate a shirt. It gives children something they jointly own before the robot exists. The discussion around a name, logo, or team identity is also an early lesson in decision-making. Children propose ideas, explain them, hear alternatives, vote, and accept a result that may not have been their first choice.
 
-### Equipment Manager
-- **Responsibilities**: Manages the team's equipment and supplies, including the robot kit, sensors, and field setup. Ensures everything is well-maintained and organized.
-- **Skills Needed**: Organization, responsibility, technical knowledge.
+The coach should not turn that exercise into a branding project managed by adults. The drawing may be imperfect. The vote may take too long. A child may campaign for a name no one else understands. That is part of the work.
 
-### Outreach Coordinator
-- **Responsibilities**: Coordinates team outreach efforts, such as community presentations, fundraising events, and collaborations with other teams or organizations.
-- **Skills Needed**: Communication, networking, organizational skills.
+The finished name is less important than the first experience of saying, "This is ours."
 
-### Mentor/Coach (Adult Role)
-- **Responsibilities**: Provides guidance, support, and expertise to the team. Helps facilitate meetings, offers technical advice, and ensures the team stays on track.
-- **Skills Needed**: Coaching, mentoring, knowledge in relevant fields (engineering, programming, etc.).
+## Begin With People, Not Positions
 
-### Conflict Resolution
-- **Open Communication**: Encourage open and honest communication. Create a safe space where team members feel comfortable expressing their concerns and ideas.
-- **Mediation**: When conflicts arise, use mediation techniques to resolve them constructively. Focus on finding solutions that respect everyone’s viewpoints.
-- **Team Agreements**: Develop team agreements or a code of conduct that outlines expectations for behavior and cooperation. This sets a standard for accountability.
+A first-time coach often wants to organize the team immediately:
 
-## Time Management and Scheduling
+- You are the programmer.
+- You are the builder.
+- You are the presenter.
+- You are the researcher.
 
-Effective time management is crucial to balance the various components of the FLL challenge. Here’s how to manage your time efficiently:
+The labels create an impressive-looking chart. They can also trap children inside the skills they happened to show during the first week.
 
-### Creating a Schedule
-- **Season Timeline**: Map out the entire season with key dates and deadlines. Include competition dates, project milestones, and practice sessions.
-- **Weekly Plans**: Break down the season timeline into weekly plans. Assign specific tasks to each team member and ensure regular check-ins to monitor progress.
-- **Buffer Time**: Include buffer time in your schedule to account for unexpected challenges or delays. Flexibility helps keep the team on track despite setbacks.
+At the beginning of our seasons, we encourage or require students to rotate through roles. A child who likes programming should still experience research. A confident speaker should still test a mechanism. A careful builder should still explain an idea to the team. Later in the season, key roles become more stable because consistency matters near competition. Even then, there are always more jobs than team members, so every child wears several hats.
 
-### Prioritization
-- **Task Prioritization**: Identify high-priority tasks that are critical to your goals. Focus on these tasks first to ensure essential components are completed.
-- **Time Blocks**: Use time blocks to dedicate focused periods to specific tasks, such as robot programming, research, or presentation practice. This helps maintain productivity.
+Iron Pegasus gave us a wonderful example during its rookie 2025–2026 *UNEARTHED* season. One girl was mainly a researcher, and she did excellent work. She was uncertain about becoming a Robot Game operator. Operating at the table brings a different kind of pressure: the clock is visible, the crowd is noisy, and a small mistake can affect an entire run.
 
-### Delegation
-- **Assign Responsibilities**: Delegate tasks based on team members’ strengths and interests. Clear assignments prevent overlap and ensure all aspects of the project are covered.
-- **Accountability**: Hold team members accountable for their tasks. Regular updates and reviews help maintain progress and identify any issues early.
+We gave her a tryout.
 
-## Effective Communication Strategies
+She proved to be remarkably stable. The role that made her uncertain became one of her strengths, and she became vital to Iron Pegasus as the team advanced from a regional championship to the World Championship in Houston.
 
-Strong communication is the backbone of a cohesive and efficient team. Implement these strategies for effective communication:
+If we had assigned permanent roles based only on her initial confidence, we might never have discovered that ability.
 
-### Tools and Platforms
-- **Communication Tools**: Use tools like Slack, Microsoft Teams, or Discord for team communication. These platforms facilitate real-time discussions and file sharing.
-- **Project Management**: Utilize project management tools like Trello, Asana, or Google Workspace to organize tasks, track progress, and collaborate on documents.
+Children need some stability, but they also need permission to surprise us.
 
-### Meeting Structure
-- **Agendas**: Prepare an agenda for each meeting to keep discussions focused and productive. Share the agenda in advance so team members can prepare.
-- **Minutes**: Take minutes during meetings to document decisions, action items, and key discussions. Distribute these minutes to ensure everyone is informed.
+## Goals Belong to the Children, Too
 
-### Feedback and Improvement
-- **Regular Feedback**: Provide regular feedback to team members on their performance and progress. Constructive feedback helps improve skills and team dynamics.
-- **Reflection Sessions**: Hold reflection sessions after major milestones or competitions to discuss what went well and what could be improved. Continuous reflection fosters growth and learning.
+At the beginning of a season, I repeatedly ask our students two questions:
 
-## Importance of the Engineering Notebook
+> What are your team goals?
 
-The engineering notebook is a critical component of the FLL journey. It serves as a comprehensive record of the team's progress, documenting every step of the process from initial brainstorming sessions to final designs and programming solutions. Maintaining a digital engineering notebook offers several advantages:
+> What are your personal goals?
 
-### Why Maintain a Digital Engineering Notebook?
+Coaches and students set goals together, but the children's answers matter especially. I return to the questions throughout the season because goals can change. A student who begins wanting to learn basic programming may later want to lead a technical explanation. A child who wants a trophy may discover that speaking confidently in the judging room is the more meaningful challenge.
 
-- **Accessibility**: A digital notebook can be accessed by all team members from anywhere, ensuring that everyone stays up-to-date.
-- **Collaboration**: Multiple team members can contribute simultaneously, making it easier to collaborate and share ideas.
-- **Organization**: Digital tools allow for better organization of notes, images, code snippets, and research findings.
-- **Backup and Security**: Digital notebooks can be backed up easily, preventing loss of valuable information.
+Robot scores and awards can be team goals. We do not need to pretend that competition is unimportant. But a healthy goal system must extend beyond the leaderboard:
 
-### Responsibilities of Team Members
+- Try a role outside your comfort zone.
+- Ask an expert a thoughtful question.
+- Complete work when you promised it.
+- Help a teammate understand—not merely copy—your solution.
+- Make the robot more reliable than it was last week.
+- Recover constructively after an idea fails.
+- Speak at least once during every team presentation.
 
-Every team member is responsible for contributing to the digital engineering notebook after each meeting. This practice ensures that all progress is documented, including:
+I also ask, "Are you challenged enough?"
 
-- **Design Changes**: Document any modifications to the robot design or strategy.
-- **Programming Updates**: Record changes in the code, including problems encountered and how they were resolved.
-- **Research Findings**: Summarize research discoveries and how they influence the Innovation Project.
-- **Meeting Notes**: Detail discussions, decisions made, and tasks assigned during meetings.
+If a capable student can complete every assignment without struggle, the role may be too small. If a beginner is overwhelmed and cannot identify a first step, the role may be too large or insufficiently supported. Good coaching does not give every child identical work. It gives every child meaningful work and a reachable next challenge.
 
-By regularly updating the engineering notebook, the team creates a detailed record that can be referenced throughout the season and presented during judging sessions. This habit fosters accountability, enhances learning, and improves the overall quality of the team’s work.
+Our definition of winning is beating yesterday. That requires knowing what yesterday looked like.
 
+## Use Core Values as Operating Rules
 
-By establishing clear goals and values, fostering a collaborative environment, managing time effectively, and utilizing strong communication strategies, your FLL team will build a strong foundation for success. These elements are essential for navigating the challenges of the competition and achieving your objectives.
+Our current teams ask every new and returning family to complete an information survey. We want to understand the student's background, previous experience, interests, schedule outside FLL, and any information that can help us coach the child well.
+
+This is not paperwork for its own sake. A student who has piano lessons every Thursday needs a different schedule from one who is available that evening. A child who has never coded needs a different starting point from one who has programmed for three years. Fairness does not mean pretending those differences do not exist. It means planning with them honestly.
+
+We also establish expectations for attendance, homework, deadlines, respectful communication, device use, and advance notice of absences. But rules alone do not create culture. Our behavioral foundation is the six FIRST Core Values: Discovery, Innovation, Impact, Inclusion, Teamwork, and Fun.
+
+When a student interrupts, excludes a teammate, hides information, mocks someone, or refuses assigned work, the conversation should not be only, "You broke Coach's rule." A stronger question is, "Which Core Value are we failing to show, and what would that value ask us to do next?"
+
+This makes values usable. They become criteria for everyday decisions, not vocabulary saved for judging day.
+
+A team agreement for young students should be short enough to remember and concrete enough to apply. It might include:
+
+1. We arrive prepared and tell the team early when we must be absent.
+2. We complete or report on assigned work by the agreed deadline.
+3. We listen without mocking or interrupting.
+4. We share information, equipment, opportunities, and credit.
+5. We criticize ideas respectfully, not people.
+6. We ask for help before a problem becomes a crisis.
+7. We document what we tried, including failures.
+8. We leave the workspace ready for the next meeting.
+
+Let the children discuss the wording and add expectations of their own. A rule imposed by a coach can control behavior temporarily. An agreement children help create gives them a standard they can use with one another.
+
+## Make Ownership Visible With RACI
+
+Children often experience teamwork as a vague instruction: "Everyone help."
+
+When everyone is supposedly responsible for everything, one or two children frequently do most of the work. Other students wait to be told what to do. Near competition, the overloaded child says, "I have to do everything," while another child says, "No one gave me a job."
+
+Both may be telling the truth.
+
+Our teams use a RACI chart to make ownership visible:
+
+- **Responsible:** coordinates or performs the work needed to move the task forward.
+- **Accountable:** owns the result and makes sure the task is completed.
+- **Consulted:** contributes relevant knowledge before decisions are made.
+- **Informed:** receives the information needed to understand progress and support the team.
+
+For Innovation Project research, one version of our chart may look like this:
+
+| Role | RACI relationship | What it means in practice |
+|---|---|---|
+| Research lead | Accountable | Makes sure the research is credible, useful, and complete. |
+| Project manager | Responsible | Coordinates the research schedule, assignments, and deadlines. |
+| Robot or creative designer | Consulted or Informed | Contributes when design knowledge may help the selected problem or solution. |
+| Programmer | Informed | Understands the project and can connect it to the team's complete story. |
+| Coach or mentor | Consulted and Informed | Teaches methods, asks questions, gives feedback, and monitors progress without owning the children's result. |
+
+The exact letters can change as the task becomes more specific. Researching an existing solution, contacting an expert, prototyping, and preparing a presentation may each need their own row. The chart is a conversation tool, not a sacred formula.
+
+The adult boundary is the crucial part. Coaches are usually Consulted and Informed. The students remain Responsible and Accountable for competition work.
+
+That does not mean the coach is passive. We teach what reliable research looks like. We demonstrate how to write a professional email. We ask whether a claim has evidence. We notice a deadline approaching. We give frequent, constructive feedback.
+
+But when the judging room door closes, the children must be able to say, "This is what we decided, this is what we tried, and this is what we learned."
+
+## When the Workload Is Not Fair
+
+Sooner or later, a student will come to the coach and say, "I am doing too much. No one else is doing anything."
+
+We have heard variations of that sentence many times.
+
+Do not answer too quickly. Sometimes the student truly carries an unfair load. Sometimes that student has difficulty delegating or rejects work that is not done in their preferred way. Sometimes another teammate has been working quietly on tasks the first child cannot see. The complaint is a signal to investigate, not a verdict.
+
+First, make the work visible. Review the RACI chart, assignments, deadlines, and recent contributions. Ask the overloaded student which tasks are causing the most pressure. Move appropriate work from that child's plate and give other students assignments with real importance—not decorative jobs created to keep them busy.
+
+Then talk privately with students who repeatedly miss meetings or do not complete work. Try to understand the cause. The task may be unclear, the student may lack confidence, the family schedule may have changed, or the child may no longer want the same level of commitment. Support should come before judgment, but support cannot mean that every unfinished task quietly returns to the most reliable child.
+
+If the pattern continues, restructure the work and update the RACI chart. In some seasons, a group of ten has functioned better after students voted to form two smaller teams of four or five. A smaller team gives every member a major role. There are fewer places to hide, but also more chances to matter.
+
+Splitting a team should not be used as a public punishment or a way to label children as strong and weak. It is an organizational decision that must consider friendships, schedules, adult coverage, equipment, registration rules, and the students' voices. Done thoughtfully, it can turn passive members into owners.
+
+The goal is not equal minutes on every task. The goal is meaningful contribution, manageable workload, and shared accountability.
+
+## Build a Rhythm Between Meetings
+
+Team culture disappears quickly when communication stops for six days.
+
+Our current teams hold at least one online meeting between in-person meetings. We use Google Classroom to post weekly slides, lesson topics, teachable moments, and assignments tailored to each student's roles. Discord supports team communication and, when appropriate, online conversations with experts invited for the season.
+
+For young students, every digital tool must follow school policy, parent expectations, privacy safeguards, and the platform's age requirements. The adults establish the safe structure. Inside that structure, the children should do the communicating whenever possible.
+
+That is especially important when contacting professionals for the Innovation Project. Let students write the email or make the call. Coaches can teach etiquette, review a draft, supervise contact, and help the child prepare questions. But the child should experience the uncertainty of reaching out and the satisfaction of receiving an answer.
+
+The more students practice initiative and communication, the more capable they become.
+
+Our season rhythm changes over time. During the first few weeks, coaches "show the rope." We model productive behavior, teach the engineering process, demonstrate tools, and help students understand what good work looks like. Later, meetings increasingly belong to the students. They present what they researched, built, programmed, tested, or learned that week. The team questions the work and decides what comes next.
+
+Those short weekly explanations are also judging preparation, although we do not need to call them rehearsals. By competition time, students should not be encountering their own story for the first time. They have been telling it all season.
+
+## The Engineering Journal Is the Team's Memory
+
+At the end of every meeting, one team member is accountable for updating the online engineering journal. Some teams rotate the responsibility. Some use a random prize-drawing app to select the "lucky" journalist for the day.
+
+When meetings run long, documentation is the first task people want to postpone. "We will do it at home" often means "we will try to remember it next week." A simple solution is to reserve the final five minutes of the meeting for the journal before anyone leaves.
+
+The entry does not need to be beautiful. It should answer useful questions:
+
+- What was our goal today?
+- What did we build, program, research, or practice?
+- What did we test?
+- What evidence or result did we observe?
+- What failed or surprised us?
+- What decision did we make?
+- Who contributed, and what will each person do next?
+
+The journal is not a scrapbook assembled for judges the night before competition. It is the team's external memory. It allows an absent student to catch up. It prevents the team from repeating a failed experiment without realizing it. It shows how an early idea became a better one. It gives every student evidence for answering judging questions about the engineering process.
+
+Judges have repeatedly noticed and specifically mentioned the thoroughness and consistency of our teams' engineering journals. A strong journal creates a good first impression, but that is a benefit, not its primary purpose. The journal should help the team long before it helps the judges.
+
+Do not let one talented writer become the permanent historian. Rotate the role, while asking the students closest to each task to supply the technical details. Documentation is part of engineering, and every child should learn to do it.
+
+## Teach Children to Think Outside the Nine Dots
+
+One team-building exercise I use is the classic Nine Dots Puzzle. Students see nine dots arranged in a square and are challenged to connect them under a set of constraints.
+
+Most initially assume a boundary around the dots even when no boundary was stated. They keep their lines inside an imaginary box and conclude that the problem has no solution.
+
+The lesson is not merely the familiar phrase "think outside the box." It is to notice who created the box.
+
+Was the limitation in the rules, or did we add it ourselves? Are we rejecting an idea because testing showed it would fail, or because it looks unfamiliar? Is there only one correct solution, or have we stopped imagining alternatives?
+
+The activity also reveals team habits. Who grabs the marker? Who watches silently? Who builds on another child's partial idea? Who erases a failed attempt before the group can learn from it?
+
+A coach can make almost any activity about teamwork by reflecting afterward. Without reflection, it is a puzzle. With reflection, it becomes a mirror.
+
+## A Meeting Structure That Transfers Ownership
+
+First-time coaches often ask what to do during a meeting. The exact schedule depends on the season, but a useful structure is:
+
+### 1. Check In
+
+Ask each student to report briefly: What did I complete? Where am I stuck? What help do I need? Do not allow a ten-minute speech from one child to consume everyone else's opportunity.
+
+### 2. Revisit Goals
+
+Identify the meeting's most important outcomes. Connect them to team and personal goals. If the plan is impossible in the available time, choose priorities openly.
+
+### 3. Work in Small Groups
+
+Use the RACI chart to form groups around robot missions, project research, programming, documentation, outreach, or presentation work. Coaches circulate, observe, teach when needed, and ask questions.
+
+### 4. Share and Test
+
+Students demonstrate unfinished work. The team gives specific feedback: what worked, what evidence is missing, and what should be tried next. Waiting for perfection prevents early learning.
+
+### 5. Assign the Next Step
+
+Every assignment needs an owner, a deadline, and a visible place where progress will be reported. "Work on the robot" is not an assignment. "Test the new attachment ten times and record the success rate before Wednesday's online meeting" is.
+
+### 6. Document and Reflect
+
+Reserve the final minutes for the engineering journal. Ask one reflection question: What did we learn? What will we change? Which Core Value did we demonstrate—or need more of—today?
+
+This structure gradually changes the coach's role. Early in the season, adults may lead the agenda and demonstrate the process. Later, students should increasingly run check-ins, present progress, update assignments, and lead reflection.
+
+The goal is not an efficient meeting controlled forever by the coach. It is a team that learns to control its own work.
+
+## Before the Robot Can Win
+
+Ten registered students are not automatically a team.
+
+A team forms through hundreds of small acts: learning a neighbor's story, accepting a vote, trying an unfamiliar role, completing an assignment, asking for help, sharing credit, documenting a failed test, and returning the next week ready to improve it.
+
+The robot will expose every weakness in that culture. If communication is poor, two students will build incompatible attachments. If ownership is unclear, important work will wait for "someone." If failure is embarrassing, test results will be hidden. If only one child understands the code, the team will be fragile no matter how high it scores.
+
+But the robot can also give children a reason to repair those weaknesses. It creates problems too complex for one person and deadlines too real to ignore. Under good coaching, those pressures become opportunities to practice trust, responsibility, and resilience.
+
+At our first Fire Kirin meeting, the children were quiet and the LEGO pieces stayed in their boxes. Yet the real building had already begun.
+
+Before children can build a winning robot, they must learn to fail—and learn from the failure.

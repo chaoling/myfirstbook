@@ -1,76 +1,324 @@
 ---
-title: "Chapter 5: Robot Design and Programming"
+layout: post
+title: "Chapter 5: A Robot the Whole Team Owns"
 date: 2024-06-26 12:00:00 -0700
 categories: chapter
 ---
 
-# Robot Design and Programming
+## The Night Before, It Was Perfect
 
-## Basics of LEGO Robotics
+The night before the Arizona state championship in the 2023-2024 *MASTERPIECE* season, Fire Kirin achieved a full Robot Game score.
 
-LEGO robotics forms the foundation of the FLL Robot Game. Understanding the basics is essential for building and programming an effective robot.
+Then competition day arrived.
 
-### Components of LEGO Robotics
-- **Programmable Brick**: The brain of the robot, such as the EV3 brick or the SPIKE Prime hub. It controls the robot's actions based on the code you upload.
-- **Motors**: These provide movement to the robot. Large and medium motors offer different speeds and torque.
-- **Sensors**: Various sensors like touch, color, ultrasonic, and gyro sensors help the robot interact with its environment.
-- **Structural Elements**: LEGO beams, connectors, and other pieces form the robot's body and mechanisms.
+At the state tournament, the robot began to spin. It did not make a small turn and recover. It kept turning, trapped in a gyro-controlled behavior that had worked during practice and now refused to end.
 
-### Basic Building Principles
-- **Stability**: Ensure your robot is stable and can withstand the movements and tasks it will perform.
-- **Balance**: Proper weight distribution prevents the robot from tipping over.
-- **Modularity**: Build the robot in a modular way, allowing for easy adjustments and additions.
+Anyone who has coached a robotics team knows the special helplessness of watching this happen. The children are at the table. The clock is running. The robot that looked so reliable the night before suddenly appears to have forgotten everything.
 
-## Advanced Building Techniques
+The failure cost more than mission points. It affected the spirit of the whole Fire Kirin team. The disappointment followed the children away from the Robot Game table and into the judging session. They did not communicate with their usual confidence.
 
-Once you have a grasp of the basics, advanced building techniques can enhance your robot’s performance and versatility.
+Fire Kirin still finished with a higher Robot Game score than Golden Phoenix at that tournament. But Golden Phoenix delivered the stronger complete performance, won the Arizona Champion's Award, and advanced to the World Championship.
 
-### Gear Systems
-- **Understanding Gears**: Gears can change the speed and torque of your motors. Learn how different gear ratios affect movement.
-- **Implementing Gears**: Use gear trains to optimize your robot’s power and speed for specific tasks.
+The lesson was not that the robot did not matter. The robot mattered very much. The lesson was that a robot failure can become a team failure if children are not prepared to diagnose it, recover emotionally, and tell the engineering story honestly.
 
-### Custom Attachments
-- **Designing Attachments**: Create specialized attachments to complete specific missions. Attachments can be swapped out depending on the task.
-- **Quick-Change Mechanisms**: Develop mechanisms that allow for fast attachment changes, minimizing downtime during the Robot Game.
+A robot the coach understands is not enough. A robot one programmer understands is not enough. Even a robot that scored perfectly yesterday is not enough.
 
-### Structural Integrity
-- **Reinforcing Builds**: Use bracing and triangulation to reinforce your robot’s structure, making it more robust.
-- **Minimizing Flex**: Ensure that your robot’s frame is rigid to prevent loss of energy and maintain precise movements.
+The robot must belong to the whole team.
 
-## Programming with LEGO Mindstorms and Spike Prime
+## Strategy Is an Art
 
-Programming is a critical aspect of controlling your robot’s actions. Whether using LEGO Mindstorms or SPIKE Prime, understanding programming concepts is key.
+Children naturally want to begin a new season by building. The challenge mat is open, the mission models are ready, and thousands of LEGO pieces appear to be asking for immediate attention.
 
-### Basic Programming Concepts
-- **Sequences**: A series of commands that the robot executes in order.
-- **Loops**: Repeating a set of commands multiple times.
-- **Conditionals**: Making decisions in the code based on sensor input (e.g., if-else statements).
+Ask the team to wait.
 
-### LEGO Mindstorms Programming
-- **EV3 Software**: Use the EV3 Classroom software for drag-and-drop programming. Familiarize yourself with the interface and basic programming blocks.
-- **Advanced Techniques**: Implement advanced programming techniques like data logging, multitasking, and using MyBlocks for modular coding.
+Robot Game strategy begins before the base robot and before the first attachment. Students need to read every mission, study the field, and understand the rules. Then they can compare possible work using more than the point value printed beside a mission.
 
-### SPIKE Prime Programming
-- **SPIKE Prime App**: Similar to EV3, the SPIKE Prime App offers a user-friendly interface for block-based coding.
-- **Python Programming**: For more advanced users, SPIKE Prime supports Python, allowing for greater flexibility and control.
+Our teams consider:
 
-### Testing and Debugging
-- **Simulation**: Use simulation tools within the software to test code before running it on the robot.
-- **Debugging Techniques**: Learn to troubleshoot common issues, such as sensor calibration errors, motor synchronization problems, and logical errors in the code.
+- Points available.
+- Expected time.
+- Points per second.
+- Travel distance.
+- Alignment opportunities.
+- Mission dependencies.
+- Risk of disturbing another model.
+- Attachment complexity and change time.
+- Whether missions require similar movements.
+- How reliably the robot and operators can complete the work.
+- What recovery is possible when something goes wrong.
 
-## Troubleshooting and Iterative Design
+A high-value mission may be a poor early choice if it requires a long trip, a complicated attachment, and a precise return through crowded models. Two smaller missions may belong in one run because they are close together and use the same robot movement. A mission that succeeds four times out of ten is not worth its theoretical score in the same way as one that succeeds nine times out of ten.
 
-Effective troubleshooting and iterative design are essential for refining your robot and its programming.
+Points per second is useful, but it is not the only answer. Reliability, field position, operator workload, and the cost of failure matter. Robot Game strategy is an art because the numbers guide judgment without replacing it.
 
-### Common Issues and Solutions
-- **Motor Problems**: Check for loose connections, ensure the motor is correctly programmed, and test for mechanical issues.
-- **Sensor Calibration**: Regularly calibrate sensors to maintain accuracy. Ensure they are not obstructed and are properly connected.
-- **Structural Failures**: Identify weak points in your robot’s design and reinforce them. Regularly inspect the robot for wear and tear.
+Golden Phoenix describes its philosophy simply: group missions that are close together or require the same action, reduce unnecessary returns to base, avoid excessive attachment switching, and preserve a path toward the highest practical score.
 
-### Iterative Design Process
-- **Testing**: Continuously test your robot’s performance in completing missions.
-- **Feedback**: Gather feedback from tests and team observations. Identify what works and what needs improvement.
-- **Redesigning**: Based on feedback, make necessary adjustments to the robot’s design and programming.
-- **Documentation**: Keep detailed records of changes and their outcomes in your engineering notebook. This documentation helps track progress and provides insights during the review process.
+The word *practical* matters. A strategy exists for a real robot, operated by real children, on a competition field where hands shake and conditions change slightly. A beautiful plan that assumes perfect execution is not yet a competition strategy.
 
-By mastering the basics and advancing to more complex building and programming techniques, teams can create highly effective robots capable of tackling the FLL challenges. Troubleshooting and iterative design ensure continuous improvement and adaptation, key elements for success in the competition.
+## Read the Rules Again
+
+Fire Kirin's MASTERPIECE state experience carried another lesson. Some strategies the team had considered were not permitted under the competition rules.
+
+This is more painful to discover at a state championship than during an ordinary meeting.
+
+Read the Robot Game rules when the season begins. Read them while forming strategy. Read the updates throughout the season. Read them again before every tournament. Ask the children to explain the rules that affect their runs rather than allowing one adult to become the team's rulebook.
+
+Rules are engineering requirements. They define what the solution must do and what it may not do. A mechanism that performs beautifully but violates a rule has not solved the problem.
+
+This is also a student-ownership issue. When only the coach understands the rules, the team depends on the coach to approve every idea. When students understand them, they can challenge one another:
+
+"Are we allowed to touch that model?"
+
+"Where must the robot start?"
+
+"What happens if this piece returns to base?"
+
+"Did an update change our interpretation?"
+
+The coach can teach children how to locate a rule, compare language, and ask an official question through the correct channel. The children should learn to make rule-aware decisions themselves.
+
+## Every Child Designs a Robot
+
+Our teams design a new base robot for each season because the field and strategy change. Past robots remain valuable references, and students can study designs shared by other teams online, but the goal is not to select the first impressive robot they find and reproduce it without thought.
+
+Golden Phoenix used BrickLink Studio to model base-robot ideas for the 2025-2026 *UNEARTHED* challenge. Every team member created a candidate. The designs looked very different. That was useful. If only the most experienced builder creates a proposal, the team receives one answer and calls it the answer.
+
+![Four Golden Phoenix student-designed base robot candidates]({{ site.url }}{{ site.baseurl }}/assets/images/golden-phoenix-base-robot-candidates.png){: width="700"}
+
+*Four student-designed base robot candidates from Golden Phoenix's UNEARTHED Robot Report.*
+
+The students compared their designs with a matrix. They considered qualities such as size, strength, ease of attachment, sensor placement, accessibility, wire management, and suitability for the season strategy. The selected robot then evolved.
+
+One version added braces around the wheels, protected access to the hub, improved wire management, and created a box-like structure. Another changed the wheels to improve traction and removed ball-cup supports that could introduce inaccuracy. A later version made the front wheels sturdier.
+
+The important artifact was not only the final robot. It was the visible sequence of decisions.
+
+Children do not need to invent every beam arrangement in isolation. Engineers learn from existing work. They can study an online design, a previous team robot, a tutorial, or an example shown by a mentor. But they should give credit, explain what they adopted, show what they changed, and connect those changes to their own requirements.
+
+There is an educational difference between saying, "We found this design online," and saying:
+
+"We studied this design because its wheel placement addressed our stability problem. We credited the source, built it, tested it on our field, discovered that the front flexed during attachment loads, and changed the bracing."
+
+The first statement identifies an object. The second reveals engineering.
+
+## Show Them the Tool, Not the Answer
+
+A first-time coach may worry about not knowing enough CAD, mechanical design, or programming. The answer is not to become the team's hidden engineer.
+
+Provide resources and motivation. Demonstrate the tool. Show children how to begin a BrickLink Studio model, how to find a reliable Python tutorial, how to search for examples, and how to compare technical sources. Work through a small example that is unrelated to the team's final mission solution. Then return the problem to them.
+
+We show them the rope. They still have to climb.
+
+This approach requires judgment. Too little support leaves beginners staring at an unfamiliar screen with no first step. Too much support gives them an adult's design wearing a student-team logo.
+
+A useful boundary is to teach transferable methods:
+
+- How to create and rotate a CAD model.
+- How to identify structural weakness.
+- How to calculate or test a gear ratio.
+- How to organize code into reusable functions.
+- How to read sensor values.
+- How to design a controlled experiment.
+- How to search for documentation and credit a source.
+- How to ask a precise technical question.
+
+Do not quietly decide the final chassis, attachment geometry, mission sequence, or code architecture for them. Ask questions that reveal tradeoffs. Let the children make a choice, test it, and live with enough of the result to learn from it.
+
+## Speed in the Middle, Precision at the Ends
+
+Shiyu's acceleration and deceleration lesson from Chapter 1 belongs to the robot story as well as the child-development story.
+
+Golden Phoenix wanted the robot to travel quickly without sacrificing precision. Driving slowly for an entire route may be accurate but wastes time. Driving at full power from the first instant can cause wheel slip, abrupt motion, overshooting, and inconsistent stopping.
+
+Acceleration and deceleration control offered a better shape for the movement. The robot could begin smoothly, reach higher speed in the middle of the route, and slow as it approached the target. PID control helped correct the robot's course when it was bumped or disturbed.
+
+The technical challenge was not simply to make the robot fast. It was to make speed usable.
+
+This distinction is important for new coaches. Advanced code should solve an observed problem. A team does not earn meaningful innovation by placing complicated mathematics into a program that does not need it. Children should be able to explain:
+
+- What behavior was unreliable before the change.
+- What the new method was intended to improve.
+- Which values they adjusted.
+- What happened during testing.
+- What limitation remained.
+
+Shiyu did not merely repeat the words *PID control*. He explained how acceleration and deceleration worked together with it. Teaching the concept to his teammates made the team's code more widely understood and gave a quiet student an important technical voice.
+
+That is what technical depth should do in FLL. It should improve the robot and expand the child.
+
+## Choose a Language the Team Can Own
+
+Programming-language debates can distract coaches from the more important question: can the children use, test, and explain the code?
+
+Block programming can provide an accessible beginning. Golden Phoenix found it easier for new students, but increasingly complex programs produced long and difficult-to-manage custom blocks. The team later moved to Python with Pybricks, then used Visual Studio Code so its programs could be stored and tracked in GitHub.
+
+Python created new challenges. It was harder for beginners. Students needed tutorials, examples, and practice before the code felt natural. But the text-based system also helped the team organize commands, track changes, calibrate behavior, and maintain source history.
+
+Neither choice is automatically superior. A short, well-understood block program is better than Python code copied by children who cannot explain it. Python may become valuable when the team has a genuine need and enough shared understanding to support it.
+
+When adopting a new language or tool, ask:
+
+- What problem are we trying to solve?
+- Who currently understands this method?
+- How will that student teach the others?
+- Where will we document the code and its purpose?
+- How will we test the change?
+- What happens if the primary programmer is absent?
+
+New technology should increase the team's capability, not concentrate ownership in one child.
+
+## Six Versions of One Attachment
+
+Golden Phoenix's *UNEARTHED* Robot Report documents six versions of its first-run attachment.
+
+The early versions used different elements to clear sediment, grab a brush, and collect topsoil. The team then tried to combine work from two separate runs. On paper, combining runs appeared efficient: fewer returns to base should save time.
+
+![Golden Phoenix Run 1 attachment, Version 1.0]({{ site.url }}{{ site.baseurl }}/assets/images/golden-phoenix-run1-attachment-v1.png){: width="700"}
+
+*The first documented Run 1 attachment used several mechanisms to complete different mission tasks.*
+
+Version 3.0 demonstrated the danger of optimizing the plan before testing the machine. The attachment became bulky, difficult to navigate, inaccurate, and inconsistent with the team's preference for simple mechanisms. Version 4.0 was less bulky and saved about two seconds, but it remained too complicated and unreliable.
+
+The children reconsidered the assumption that combining runs must be better.
+
+Version 5.0 split the work back into two runs. That decision saved approximately nine seconds compared with Version 4.0. The revised mechanism used an arm that could push and grab soil without demanding excessive precision, sticks for topsoil, and a passive attachment for additional work. Version 6.0 strengthened the aligner.
+
+![Golden Phoenix Run 1 attachment, Version 6.0]({{ site.url }}{{ site.baseurl }}/assets/images/golden-phoenix-run1-attachment-v6.png){: width="700"}
+
+*By Version 6.0, the team had returned to a simpler run structure and strengthened the aligner.*
+
+This is an excellent engineering story because the final answer contradicts the tempting first answer. Fewer runs sounded faster. Testing showed that a simpler pair of runs could operate much faster and more reliably than one oversized combination.
+
+The same pattern appeared elsewhere in the robot. A flag holder gained another layer of LEGO pieces to reduce slipping, then a limiter to prevent an arm from traveling too far. A one-way door received longer elements to improve contact, followed by a backstop to keep the flag from falling out. A millstone arm changed to a trident shape, and a slope was added to move boulders passively.
+
+Each change is small enough to explain. Together, they reveal a season of engineering.
+
+## Reliability Is a Number
+
+"It worked" is not useful test data.
+
+Did it work once? On which table? At what battery level? From which starting alignment? With which operator? What happened during the failures?
+
+Before competition, our teams look for approximately eight or nine successful attempts out of ten. The exact target can depend on the mission and its role in the overall strategy, but one perfect run is never enough evidence.
+
+Reliability testing should resemble the environment the robot will face:
+
+- Reset the field carefully but recognize that models and mats are never mathematically identical.
+- Let different operators set up and launch the run.
+- Test attachment changes under time pressure.
+- Vary the starting alignment within the realistic range.
+- Track success, failure, time, score, and the observed cause.
+- Change one important variable when possible so the result can teach something.
+- Repeat the complete sequence, not only isolated missions.
+
+The team should decide what counts as success before testing. If children change the definition after every attempt, the data will always confirm what they hoped to believe.
+
+Testing is not a punishment delivered after building. It is how the robot speaks back to its designers.
+
+## Build for the Hands at the Table
+
+The best attachment is not merely the one that performs a mission in a quiet practice room. Children must carry it, install it, align it, remove it, and recover when it does not seat correctly.
+
+Golden Phoenix emphasized attachments that were consistent, easy to repair, and easy to install using gravity rather than delicate fastening. The team applied the KISS principle: keep it simple.
+
+Simple does not mean unsophisticated. A passive mechanism that uses the robot's movement or the field's geometry can be more elegant than an additional motor. An aligner that makes the correct position obvious can be more valuable than code that tries to compensate for inconsistent setup.
+
+Robot operators therefore belong in the design process. They can identify problems a CAD model does not show:
+
+- The attachment can be installed backward.
+- A cable catches on a beam.
+- The operator cannot reach a button quickly.
+- Two similar attachments are easy to confuse.
+- A starting jig shifts when the child removes a hand.
+- The mechanism works but takes too long to reset.
+
+Operator tryouts are not a popularity contest. Our teams let students attempt the role and observe who remains steady, careful, and adaptable. The quiet Iron Pegasus researcher introduced in Chapter 3 discovered through a tryout that she was also a remarkably reliable Robot Game operator.
+
+Children sometimes surprise us when the role is real.
+
+## Backups Are Part of Engineering
+
+Competition-day recovery begins before competition day.
+
+Our teams maintain multiple copies of their code. With GitHub or another source-control system, they can recover a complete version when a computer or local file fails. We may also prepare a replica robot so a serious hardware problem does not end the day. Teams must always check the current season and event rules governing equipment and what may be brought into each competition area.
+
+A backup is not an admission that the design will fail. It is recognition that hardware breaks, files disappear, batteries behave differently, and children deserve a recovery path.
+
+But recovery plans must also belong to the children. They should know:
+
+- Where the current code is stored.
+- Which version is approved for competition.
+- How to restore it.
+- How to confirm the correct program is running.
+- Which robot and attachment checks happen before leaving the pit.
+- Who makes the decision to switch hardware.
+
+An adult who secretly maintains every backup may rescue the robot while leaving the team helpless. Teach the recovery process and practice it.
+
+Fire Kirin's endless state-championship spin could not be erased after it happened. But future teams can learn to ask better questions before the next run: Is the gyro ready? Can this behavior time out safely? What will the robot do when the sensor value is unexpected? Can the operators recognize the failure and move to the recovery plan?
+
+Reliability includes graceful failure.
+
+## Many Hands, Clear Ownership
+
+Builders, programmers, and testers work closely together, but they do not need to become one indistinguishable group. Our RACI chart makes ownership visible. Students begin with preferences, rotate while learning, and later settle into key roles when consistency becomes important.
+
+There are always more jobs than children:
+
+- Mission strategist.
+- CAD designer.
+- Base-robot builder.
+- Attachment designer and builder.
+- Programmer.
+- Sensor or calibration specialist.
+- Tester and data recorder.
+- Engineering-journal contributor.
+- Robot Game operator.
+- Pit and equipment coordinator.
+- Robot Design communicator.
+
+One child may hold several jobs, and no child needs to perform every job. But every child should own meaningful work and understand how it connects to the robot.
+
+Cross-training matters most where the team has a single point of failure. If only one student can launch the code, repair an attachment, or explain the mission strategy, the team is vulnerable. Ask the primary owner to teach a second person. Rotate students through demonstrations. Let a tester explain what the data changed. Let an operator describe why an attachment was redesigned. Let a programmer listen while another student explains the code, then correct the explanation respectfully.
+
+The goal is not for every child to say the same words. It is for the team to share understanding without pretending that everyone did the same work.
+
+## Tell the War Stories
+
+As a judge, I can quickly hear the difference between an engineering story and a product description.
+
+A weak explanation is general:
+
+"Our robot is strong. Our attachment is innovative. We tested many times. Everyone helped."
+
+Those statements may be true, but they provide no evidence. Often one student does nearly all the talking while the rest of the team waits.
+
+A strong Robot Design explanation introduces the process and the war stories. Students show what went wrong, what they did, and what changed. Our teams use a simple CAR structure:
+
+- **Context:** What problem or constraint did we face?
+- **Action:** What did we design, test, change, or decide?
+- **Result:** What evidence showed the effect, and what did we learn?
+
+For Golden Phoenix's Run 1 attachment, the story might sound like this:
+
+"We tried combining two runs because we expected fewer returns to base to save time. The combined attachment became bulky and inaccurate. We reduced its size, but it still did not meet our reliability goal. We split the missions again and redesigned the mechanism. The new approach saved about nine seconds compared with Version 4.0, and then we strengthened the aligner."
+
+That explanation gives judges something they can understand, question, and remember. The children can point to photographs, CAD models, attachments, code, and test records. Different members can explain the part they owned.
+
+Do not ask judges to read an entire engineering binder during a short session. Tell them where the evidence is. Demonstrate a mechanism. Show the code that solved a real problem. Share the failure that changed the design.
+
+Judges do not need a robot that was always perfect. We need to see a team that learned how to make it better.
+
+## The Robot Is Never Finished
+
+The state-championship robot that spun forever and the attachment that survived six versions teach the same lesson from opposite directions.
+
+Yesterday's success is not a guarantee. Today's failure is not a final verdict.
+
+A robot belongs to the children when they can explain the strategy, credit their starting points, justify the design, understand the code, operate the attachments, interpret the test data, recover from failure, and tell the story together.
+
+The coach's work is to make that ownership possible. Give children tools, examples, questions, feedback, time, and a safe place to fail. Do not take away the difficult decisions that allow them to become engineers.
+
+The scoreboard will display one number. The judging room will reveal a process. The children's confidence will reveal something larger.
+
+Build the robot for the missions. Build the team for everything that happens when the robot does not behave as planned.
