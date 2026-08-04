@@ -1,75 +1,380 @@
 ---
 layout: post
-title: "Chapter 8: Preparing for Competitions"
+title: "Chapter 8: Explain, Don't Perform"
 date: 2024-06-24 12:00:00 -0700
 categories: chapter
 ---
 
-# Preparing for Competitions
+# Explain, Don't Perform
 
-## Understanding the Judging Process
+## A Tale of Two Teams
 
-To perform well in FLL competitions, it’s crucial to understand the judging process. This includes knowing what judges are looking for and how the different aspects of the competition are evaluated.
+The night before the 2024 Arizona state championship, Fire Kirin looked ready.
 
-### Judging Criteria
-- **Core Values**: Teams are assessed on how well they embody the FLL Core Values. This includes teamwork, respect, inclusion, and having fun.
-- **Innovation Project**: Judges evaluate the team's research, the innovative solution proposed, and the impact and feasibility of the project. Presentation skills and thoroughness are key.
-- **Robot Design**: The design process, mechanical structure, programming, and innovation in the robot’s construction and functionality are considered.
-- **Robot Game Performance**: Teams are judged on how well their robot performs the missions on the field. This includes strategy, efficiency, and reliability.
+The robot had completed a full-score run. The judging rehearsal had gone extremely well. A video of the full-score Robot Game run drew hundreds of views on YouTube in one night. Fire Kirin was the defending Arizona champion, having won during the previous *SUPERPOWERED* season and advanced to the 2023 FIRST Championship in Houston.
 
-### Judging Sessions
-- **Core Values Session**: Teams participate in activities or discussions that demonstrate their adherence to the Core Values.
-- **Innovation Project Presentation**: Teams present their project to judges, explaining the problem they addressed, their research, and their proposed solution.
-- **Robot Design Review**: Teams showcase their robot, explaining its design, programming, and the rationale behind their choices.
-- **Robot Game**: Teams compete on the playing field, with their performance observed and scored by judges.
+The children did not merely hope to win again. They believed they deserved to.
 
-## Creating Effective Presentations for Judges
+Then, shortly before the opening ceremony, the robot began spinning sideways on the practice table.
 
-An effective presentation can significantly impact the judges’ assessment. Here are key elements to focus on:
+The team had encountered a gyro problem. A SPIKE Prime hub needs to remain absolutely still during the first moments after startup so its gyro can calibrate properly. That small operational detail had survived months of meetings, a successful rehearsal, and a perfect run the night before. On competition morning, under time pressure and noise, it suddenly became decisive.
 
-### Structure and Clarity
-- **Clear Introduction**: Start with a brief overview of the project, including the problem, research, and solution.
-- **Logical Flow**: Ensure the presentation follows a logical sequence: problem identification, research, solution development, and impact.
-- **Strong Conclusion**: Summarize the key points and highlight the importance and potential impact of your solution.
+Fire Kirin still performed well. The team finished among Arizona's top Robot Game teams and ultimately received the Robot Design Award. Those are strong results.
 
-### Visual Aids and Demonstrations
-- **Engaging Visuals**: Use slides, posters, or models to make your presentation visually engaging. Ensure they are clear and professional.
-- **Demonstrations**: If possible, demonstrate a working model or prototype of your solution to show its practical application.
+But they were not the results the children had already imagined.
 
-### Team Involvement
-- **Equal Participation**: Ensure all team members have a role in the presentation. This shows teamwork and inclusiveness.
-- **Practice**: Rehearse the presentation multiple times to ensure smooth delivery. Practice answering potential questions from judges.
+Their morale dropped before judging. We did not complete a full rehearsal immediately before the session. The children rushed into their presentations. One student forgot his lines, and no teammate stepped in to rescue the moment. The robot demonstration did not work exactly as planned. A team that had looked confident in practice appeared nervous and disconnected when it mattered most.
 
-## Practicing and Refining Robot Performance
+In another judging room that day, Golden Phoenix was having a very different experience.
 
-Consistent practice and refinement are crucial for a successful Robot Game performance.
+Golden Phoenix was a rookie team. Its members did not carry the pressure of defending a championship. They entered the room excited. When the judges asked questions, one child gave an excellent explanation of a battery problem and the team's solution. I was surprised—and pleased—that the student remembered a technical discussion we had held earlier in the season and could apply it in the moment. The team's spirit was strong, and the judges could see the children rather than their anxiety.
 
-### Regular Practice Sessions
-- **Schedule**: Hold regular practice sessions to test and refine the robot’s performance.
-- **Simulate Competition Conditions**: Practice under conditions that mimic the actual competition, including time constraints and distractions.
+Fire Kirin did not defend its Champion's Award. Golden Phoenix became the Arizona champion and advanced to Houston, where the team later received the Engineering Excellence Award at the 2024 FIRST Championship.
 
-### Testing and Iteration
-- **Test Runs**: Conduct multiple test runs to identify and address any issues with the robot’s performance.
-- **Refinement**: Continuously refine the robot’s design and programming based on test results. Document changes and improvements.
+I coached both teams, so the contrast was impossible to ignore.
 
-### Strategy Development
-- **Mission Prioritization**: Develop a strategy that prioritizes high-scoring and achievable missions.
-- **Path Optimization**: Optimize the robot’s path to minimize time and maximize efficiency.
+The experienced team had the stronger expectations. The rookie team gave the stronger complete performance.
 
-## Dealing with Competition Day Nerves
+The lesson is not that low expectations create success. Coaches should prepare ambitiously. Children benefit from difficult goals. The lesson is that confidence built on an expected result is fragile. When one robot run fails, the team's entire story can collapse with it.
 
-Competition day can be stressful, but with the right preparation, your team can manage nerves effectively.
+Better confidence sounds like this:
 
-### Mental Preparation
-- **Positive Visualization**: Encourage team members to visualize a successful performance. Positive thinking can boost confidence.
-- **Relaxation Techniques**: Teach relaxation techniques such as deep breathing or meditation to help manage anxiety.
+**We know our work. We know how to recover. One moment does not decide who we are.**
 
-### Team Support
-- **Encouragement**: Foster a supportive team environment where members encourage and motivate each other.
-- **Focus on Fun**: Remind the team that FLL is about learning and having fun. Emphasize the experience over the outcome.
+Competition preparation is not an attempt to make the day go perfectly. It is preparation for children to remain themselves when it does not.
 
-### Practical Preparation
-- **Checklist**: Prepare a checklist of items to bring to the competition, including the robot, spare parts, tools, presentation materials, and any necessary documentation.
-- **Arrive Early**: Arrive at the competition venue early to get acclimated and set up without rushing.
+## Four Areas, One Team
 
-By understanding the judging process, creating effective presentations, practicing and refining robot performance, and managing competition day nerves, your team can be well-prepared for FLL competitions. This preparation not only enhances performance but also ensures a positive and enriching experience for all team members.
+New coaches often experience a tournament as a collection of unrelated demands. There is a robot to operate, a project to present, engineering decisions to explain, Core Values to demonstrate, materials to carry, schedules to follow, and a leaderboard refreshing somewhere nearby.
+
+Children experience all of it as one day.
+
+FIRST LEGO League Challenge evaluates teams across four areas: Innovation Project, Robot Design, Core Values, and Robot Game. The areas work together when teams are considered for overall recognition such as the Champion's Award. Current FIRST materials describe a unified judging session in which children present their Innovation Project and explain their Robot Design while Core Values are embedded throughout the rubrics and interaction.
+
+At the time of writing, FIRST's standard flow is a 30-minute judging session, but every coach should verify the current season's [official judging materials](https://www.firstinspires.org/resources/library/fll/season-materials) and the instructions from the local tournament organizer. Timing, flow, permitted materials, venue logistics, and event procedures can change. FIRST also publishes useful [judging-session preparation guidance](https://community.firstinspires.org/tournament-tips-preparing-for-your-judging-session).
+
+Do not translate the four areas into four isolated groups of children.
+
+The project presenter should understand how the team collaborated. The programmer should be able to discuss testing and failure. The robot operator should know why a design changed. Every member should have a meaningful contribution and enough understanding to support teammates.
+
+This does not mean every child must answer every question. It means the team has no decorative members.
+
+Judging preparation should help judges see the real ownership already present. It cannot manufacture ownership during the final week.
+
+## The Final Four Weeks
+
+The final four weeks before competition are intense. They may also feel chaotic, especially to a first-time coach. Everything unfinished becomes visible at once.
+
+Our teams use both online and in-person meetings, with each setting reserved for work it supports best.
+
+Online meetings can focus on:
+
+- Reviewing code and design records.
+- Improving engineering-journal entries.
+- Drafting and revising the project presentation.
+- Organizing research, test results, and photographs.
+- Practicing short technical explanations.
+- Reviewing the current rubrics and identifying missing evidence.
+- Assigning follow-up work and confirming responsibilities.
+
+In-person meetings should protect the work that requires people, materials, and space together:
+
+- Robot Game runs under time limits.
+- Attachment and launch-position checks.
+- Reliability testing after final mechanical or code adjustments.
+- Prototype and robot demonstrations.
+- Full judging rehearsals with setup and transitions.
+- Team communication, recovery, and question-and-answer practice.
+
+As competition approaches, I want at least one formal mock judging session and several informal ones. For a regional event, coaches and parents can serve as mock judges. Before a state or world championship, we may invite experienced local judges who do not work regularly with the team.
+
+Fresh ears matter.
+
+A coach who has heard a presentation fifty times automatically fills in missing logic. We know what the child intended. An unfamiliar adult hears only what was said. If that adult cannot understand the problem, design choice, or evidence, the real judges may not understand it either.
+
+Use the current public rubrics during a mock session. Score what the team demonstrates, then give prompt, specific feedback:
+
+- “I understood the final attachment, but not why you rejected the earlier versions.”
+- “Three people answered most of the questions. Whose work did we not hear?”
+- “You mentioned testing. What evidence can you show?”
+- “The prototype took too long to start. How will it be ready when the session begins?”
+
+Record mock sessions when students and families have agreed to it. Let children watch themselves. They will notice rushed speech, blocked visuals, repeated answers, and moments when one person talks over another. Adults should guide the reflection without rewriting the children's presentation.
+
+The rubric is a mirror, not a scriptwriter.
+
+## Build Speakers All Season
+
+Children cannot become natural speakers by memorizing more words.
+
+During regular meetings, I sometimes choose a student without warning and ask for a one-minute explanation:
+
+- How does this attachment work?
+- Why did the team change this code?
+- What was the most important project feedback this week?
+- Which failure taught us the most?
+- What did you personally contribute?
+
+The child may record the answer and review it later. The purpose is not to catch anyone unprepared. It is to make explanation an ordinary part of engineering.
+
+At first, teams often have opposite communication problems. Several students speak at the same time, or everyone waits for someone else to begin. A talking stick can help. Only the child holding it answers; another student receives it next. This is a training wheel, not a judging-room prop. As members learn one another's rhythms, remove it.
+
+We also assign judging questions to every student. Each child records a response and shares it in the team channel. Teammates learn from one another, and the coach can identify students who need more understanding or practice. Strong speakers can help rookies rehearse, provided “help” means asking questions and giving feedback—not supplying lines to memorize.
+
+Improvisation should be grounded in knowledge. A child cannot naturally explain work they never did or understood. If a student consistently cannot answer questions about an assigned contribution, the solution is not a better script. The solution is to reconnect that student with meaningful work.
+
+Practice rescue, too.
+
+If a teammate forgets a line, another member can continue the idea without making the child feel exposed. If two students begin at once, one can pause and invite the other. If a demonstration fails, the team can explain what should have happened, identify a likely cause, and show other evidence.
+
+These are not theatrical tricks. They are collaboration under pressure.
+
+## Warm Up the Team, Not Just the Robot
+
+After Fire Kirin's *MASTERPIECE* state experience, I adopted a simple rule: no team enters judging without at least one complete practice and one quick warm-up on competition day.
+
+The complete practice confirms the structure, demonstrations, timing, transitions, and question-and-answer readiness. The quick warm-up shortly before judging activates the team's voices and memory. It should build confidence, not become a last-minute lecture.
+
+Coach Min Lu is especially strong at competition-day time management. Our team schedule can be planned almost to the minute because the official schedule often leaves little margin. A team may queue for a Robot Game match, travel a long distance through the venue, and then need to prepare for judging.
+
+Judging appointments are particularly difficult to recreate or reschedule. A later Robot Game match may offer another performance opportunity, but teams should never assume an event can recover a missed appointment. Study the official schedule, map travel time, and ask the tournament organizer about conflicts before the day begins.
+
+Our morning usually starts with a systems check:
+
+1. Account for every student and responsible adult.
+2. Inspect the robot after transportation.
+3. Confirm that the hub, computer, and other powered devices are charged.
+4. Check every attachment, cable, part, prototype, poster, and presentation item against a list.
+5. Start the robot on a stable surface and allow the gyro to calibrate without movement.
+6. Run the robot once or twice to detect transportation damage or setup errors.
+7. Complete a full judging rehearsal with sample questions.
+8. Later, perform a short verbal and demonstration warm-up before entering the judging room.
+
+Right before judging, each child should know what they are carrying, who enters first, where materials go, and how setup begins. The clock should not be consumed by children deciding who has the robot.
+
+The final message should be short:
+
+**You've got this. Show the judges what you've got.**
+
+## What an Experienced Judge Hears
+
+Memorization often survives the first question. It rarely survives the second.
+
+When a team tells me it used PID control, I may ask why the proportional, integral, and derivative terms were needed. How were the parameters tuned? What behavior changed? Would a simpler proportional controller have been enough?
+
+I am not hoping the child fails a technical examination. I want to hear an engineering choice.
+
+An impressive term is not evidence of an impressive process. A team may use PID because testing showed that all three components solved a real control problem. Another team may decide that proportional control is simpler, more reliable, and sufficient. The better answer is the one the children can support.
+
+The same principle applies to an Innovation Project. I have heard teams highlight plans for a provisional patent. When I ask whether they filed one, they may say they are waiting until the idea is perfected. That answer leaves an obvious question: if no filing occurred and the team cannot explain a specific intellectual-property decision, why was the word *patent* emphasized?
+
+Buzzwords attract follow-up questions. Authentic work welcomes them.
+
+Children who own the process may not use perfect vocabulary. They can usually describe what they saw, what they tried, why they changed it, and what still does not work. Their answers contain lived details.
+
+An experienced judge also notices how the room is set up. If the coach enters and begins assigning positions, arranging materials, and telling children what to do, the team communicates adult dependence before the formal presentation begins.
+
+The coach's role in the judging room is to become invisible—or, where appropriate and permitted, not enter at all. Do not prompt, mouth answers, correct a child, point to a forgotten poster, or answer a judge's question. Adult intervention can damage the judges' ability to see student ownership and may violate local event rules.
+
+It is the children's stage. Do not take their thunder.
+
+## Evidence, Not Clutter
+
+Engineering journals, reports, posters, prototypes, code, test data, and photographs can help judges understand a season. They can also consume the team's limited time without communicating anything.
+
+Do not hand judges a thick binder and expect them to discover the important page. Team members should point to selected evidence while explaining it:
+
+- A photograph showing the first attachment beside the improved version.
+- A graph or test table that changed a decision.
+- A short code segment connected to a specific robot behavior.
+- Expert feedback that led to project iteration.
+- A prototype used for testing rather than decoration.
+- A journal page that records a failure and the next experiment.
+
+The object supports the child's explanation. It does not replace it.
+
+Technology creates additional risk. I have watched teams lose several minutes starting a laptop or connecting a projector. If the device does not add something essential, leave it out. If it is essential, have it powered, opened, offline-capable, and ready before entering. Bring a low-technology backup such as printed images or screenshots when event rules permit.
+
+Every minute spent troubleshooting presentation technology is a minute the judges cannot spend understanding the children.
+
+## Practice the Tournament, Not Only the Missions
+
+A robot that works in a quiet classroom has not yet demonstrated tournament reliability.
+
+We practice complete two-and-a-half-minute runs. We play recorded crowd noise. When multiple tables are available, we switch between them. We rotate operators, prepare backups, vary lighting, and sometimes turn off lights to expose assumptions. I joke that we should practice at the swimming pool; the point is to test beyond one comfortable environment, not to endanger the robot.
+
+Teams should also practice the human sequence:
+
+- Select the correct program.
+- Carry the robot and attachments safely.
+- Check the equipment before leaving the pit.
+- Queue without losing focus.
+- Arrange items in the permitted setup area.
+- Communicate with the referee respectfully.
+- Recover after an interrupted or failed run.
+- Review the score before accepting it, following the current rules.
+
+Operator selection should be based on observation and tryouts, not status. Scrimmages reveal who remains careful under time pressure. Rotate students early enough that more than one pair develops experience. By competition, the primary operators and backups should know the launch sequence, attachments, relevant rules, and recovery plan.
+
+Do not tune code impulsively to one practice table at the tournament. Practice tables may differ from official competition tables in alignment, wear, lighting, wall position, mat condition, or model setup. A strange practice result is a reason to inspect and diagnose—not automatically rewrite a program that was reliable across many controlled tests.
+
+Fire Kirin learned this during the *MASTERPIECE* gyro incident. The immediate problem was not proof that every path needed adjustment. The team first needed to understand startup calibration and table differences.
+
+Late in the week before competition, stability usually matters more than one additional mission. Freeze the competition version of the code unless a change is necessary and can be tested properly. Back it up. Label the approved version clearly. Keep experimental work separate.
+
+One more mission is not an improvement if it makes three existing missions unreliable.
+
+<figure>
+  <img src="{{ '/assets/images/fk-world-2023-1.jpg' | relative_url }}" alt="Fire Kirin team members speaking with a referee beside a Robot Game table at the 2023 FIRST Championship">
+  <figcaption>Fire Kirin at the Robot Game table during the 2023 FIRST Championship in Houston. Real tournament experience teaches children how to communicate with referees, manage noise and pressure, and recover together.</figcaption>
+</figure>
+
+## Teach Children to Use the Rules
+
+Coaches often become the team's rule experts. Competition day reveals the weakness in that arrangement: the coach is not the student standing at the table.
+
+During the 2025-2026 *UNEARTHED* season, Fire Kirin had an all-rookie team. In one match, a referee mistakenly deducted points. The children lacked experience communicating with referees and did not question the decision before the scoring process was completed.
+
+After the run, I gave the students the rulebook and asked them to read the relevant section again. At the next match, they knew how to raise a respectful question before signing off on the score.
+
+I did not want to train children to argue every call. Referees deserve respect, and the head referee's decision is final under the rules. I wanted students to recognize that respectful self-advocacy is part of being prepared.
+
+Practice this before competition:
+
+- Locate rules that affect the team's missions.
+- Explain them in the children's own words.
+- Role-play a disagreement about a score.
+- Ask a concise question and point to the relevant rule.
+- Listen to the referee's explanation.
+- Accept the final decision graciously.
+
+The goal is neither silence nor confrontation. It is informed, respectful communication.
+
+## Pack by Owner, Not by Hope
+
+A packing list is useful only when responsibility is attached to it.
+
+Our teams assign a material manager, with support from that student's parents. The child learns to account for equipment; the parent helps with transportation and adult logistics. Other items are assigned through team roles so everyone knows what to bring and carry.
+
+A practical competition checklist may include:
+
+- Robot, approved code, and labeled backup files.
+- Attachments organized by run.
+- Hub, computer or tablet, charging cables, and power supplies.
+- Permitted spare parts, tools, and backup equipment.
+- Innovation Project prototype and supporting materials.
+- Robot Design evidence, photographs, code examples, and selected journal pages.
+- Posters or presentation aids.
+- Printed schedule, venue map, team contact information, and current event instructions.
+- Team shirts, name badges or required credentials, and spirit items.
+- Water, snacks, lunch plan, and necessary personal items.
+
+Check current Robot Game and event rules before packing backup robots or other equipment. What may be brought to the venue, pit, judging room, or competition table can differ.
+
+Use clean, separate, labeled containers. Keep the robot protected during transportation. Charge devices the night before, then maintain an intentional charging routine during the day. Low battery levels can change robot behavior, and a cable buried under lunch supplies is not a backup plan.
+
+Before every departure from the pit, use a short match checklist. Before leaving judging, use another list so prototypes, robots, and personal items do not remain behind.
+
+The team's full sample [FLL tournament packing list](https://docs.google.com/document/d/1aOJpkVWWQNXxr28l8nT_ZIx-7m2dh7NQ/edit?usp=sharing) can be adapted to the current season and event.
+
+## Coach the Emotional Weather
+
+The leaderboard is one of the most visible parts of a tournament. It is also one of the greatest sources of stress.
+
+Children may freeze, cry, argue, become overexcited, or decide that one poor run ruined months of work. These reactions do not mean the team failed to learn Core Values. They mean children are experiencing pressure.
+
+Prepare “what if” cases before competition:
+
+- What if the first match scores almost nothing?
+- What if the robot works on one table and fails on another?
+- What if a teammate forgets part of the presentation?
+- What if the judges ask a question no one expected?
+- What if a referee disagrees with us?
+- What if we do excellent work and receive no award?
+
+Ask children to design responses. The exercise makes recovery a team skill rather than a coach's emergency speech.
+
+Veteran members are especially valuable. No simulation fully reproduces a tournament, and an experienced child can calm a rookie in a way an adult cannot: “This happened to us before. We still have another run. Check the attachment and start again.”
+
+The coach sets the emotional temperature. Smile. Lower your voice. Do not panic because the children are studying your face for evidence about how serious the problem is. Never yell at a child, volunteer, referee, or parent. An adult who cannot manage disappointment cannot credibly ask ten-year-olds to manage theirs.
+
+Before the first match, I tell the team:
+
+“Treat it like a practice run, but be attentive. You have practiced this. If something goes wrong, we still have later opportunities. Focus on this run. Watch out for one another. Follow the rules. You've got this.”
+
+After the final match, let the robot go. If judging remains, shift attention to the next responsibility. If the team's scheduled work is finished, meet other teams, exchange ideas, cheer, and enjoy the event.
+
+Before awards, remind everyone that results combine preparation, performance, comparison with other teams, judging, and sometimes luck. The team controls its work and conduct, not the trophy.
+
+## Parents Make the Schedule Possible
+
+Coach Lu and I prepare a detailed team schedule and distribute it to students and parents before competition. The official tournament schedule is only the foundation. Our version adds meeting points, travel time, warm-ups, equipment checks, food, and adult responsibilities.
+
+Parents can make the day far more stable by:
+
+- Getting students to the correct location on time.
+- Handling lunch, water, and snacks around a tight schedule.
+- Transporting assigned equipment.
+- Cheering positively for all teams.
+- Watching siblings and managing non-team logistics.
+- Allowing coaches and mentors to focus on the children during critical transitions.
+
+Competition day is not the time for a long parent-coach conference. Questions that can wait should wait. Establish an emergency communication channel and one parent contact so the coach is not answering the same logistics question repeatedly.
+
+Students should stay with the team or receive permission before leaving. At a large venue, a missing child creates more risk than a missing attachment.
+
+Plan food instead of assuming there will be a convenient lunch break. Children who are hungry, thirsty, or exhausted do not become better collaborators because the schedule is important.
+
+## If Only Seven Days Remain
+
+A first-time coach one week from a regional tournament may still see dozens of improvements. Do not try to complete all of them.
+
+FIRST LEGO League values the four areas together. Robot Game is visible, but it is not the entire program. In the last seven days, protect the team's ability to communicate its authentic work across the judging rubrics while stabilizing the robot performance it already has.
+
+Prioritize:
+
+1. Read the current event instructions, judging flow, rubrics, schedule, and rule updates.
+2. Freeze a reliable Robot Game plan and approved code version.
+3. Test the selected runs repeatedly under tournament-like conditions.
+4. Hold a complete timed mock judging session with an unfamiliar adult.
+5. Make every demonstration ready in seconds, with a simple backup.
+6. Practice questions that reveal ownership, decisions, failures, testing, and individual contributions.
+7. Assign every item, transition, and parent responsibility.
+8. Rehearse one full competition-day sequence, including recovery from a failure.
+
+Stop trying to perfect:
+
+- A new mission that destabilizes reliable runs.
+- Fancy technology that adds setup risk.
+- A presentation script polished by adults.
+- A binder no child can navigate.
+- An answer to every possible judge question.
+- The appearance that nothing ever failed.
+
+Children do not need one more layer of polish. They need command of the work they already own.
+
+## The Day We Are Trying to Create
+
+My ideal competition day is not a day when the team wins every award.
+
+It begins with everyone arriving on time. No student, robot, or important attachment is left behind. The robot warms up without surprises. Every checklist is complete. The team performs a full judging rehearsal and walks into the room ready.
+
+The first Robot Game run is steady. Later scores improve. When a mission fails, the operators diagnose it without blaming one another. Team members cheer for the children across the table as well as for themselves.
+
+In judging, the presentation flows, but it does not feel mechanical. Children handle an unexpected question. A prototype or robot demonstration may not be perfect, yet the team explains what happened. Everyone contributes. The children have fun.
+
+Lunch is quick but arrives on time, thanks to parents. The schedule remains demanding without becoming frantic. After the team's responsibilities, members visit others and exchange ideas.
+
+Coach Lu and I can sit back. I can focus on the camera because I know that whatever happens, the children will handle it gracefully.
+
+That is the real goal of preparation.
+
+The robot may still spin. A child may still forget a sentence. A judge may ask the one question no one practiced. Competition will expose assumptions that months of meetings did not reveal.
+
+We are not preparing children to perform a flawless version of themselves.
+
+We are preparing them to explain what they know, support one another, adapt honestly, and remain a team.
+
+When the judging-room door opens, they do not need the coach's words.
+
+They need their own.
