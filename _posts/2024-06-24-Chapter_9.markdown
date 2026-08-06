@@ -219,11 +219,82 @@ Our current answers include:
 - Written schedules and assignments rather than memory alone.
 - Reports, photographs, code, and season history that make past learning visible.
 
-The chapter is still incomplete here because our system is still incomplete.
+Each team has its own robot hardware, Challenge set, computer, and practice field. That choice reduces the daily conflict of deciding who may use a robot or table. The teams do not have to stop a test because another roster needs the same hub.
 
-Some responsibilities remain too dependent on Coach Min or me. Equipment, data, communication, succession, and coach workload need the same honest engineering process we ask children to use: identify the failure point, test a better method, document it, and improve it next season.
+What they share is less visible and more valuable: the coaches' time, the two-hour weekly classroom session, digital learning materials, past reports, expert contacts, photographs, meeting notes, and the accumulated experience of earlier seasons.
 
-That is not an embarrassing admission. It is the central challenge of building anything meant to last.
+Buying three sets of hardware is simpler than multiplying good coaching.
+
+That is why shared time needs a structure. Teach foundational or advanced concepts once to the combined class when everyone can benefit. Let teams apply those ideas separately. Bring them back together for demonstrations, questions, scrimmages, and feedback. The common class creates efficiency without erasing team ownership.
+
+Families receive honest warnings before competition season. FLL can consume evenings and weekends. Children may decide another activity matters more, or a family may discover it cannot support the commitment. We allow an honest exit rather than keeping a child trapped in a promise the family cannot fulfill.
+
+At the same time, a coach should expect some roster changes. Build resilience within the current participation rules: do not make one child the only person who can operate the robot, explain the project, or access an important file. Redundancy is not an extra child waiting on the bench. It is shared knowledge among the children already on the team.
+
+Systems cannot replace aligned parents.
+
+When parents understand that we are building children rather than trophies, they support assignments at home, transportation, outreach, expert meetings, and the boundary that judged work belongs to students. When adults watch only the scoreboard, model poor Gracious Professionalism, or place their own hands on children's work, the conflict travels into every meeting.
+
+During *UNEARTHED*, many parents understood the mission and worked toward it with us. That alignment helped all three teams progress from the same classroom to state-level competition and later national or international invitational opportunities.
+
+The program's success belonged to the adult team as well as the coaching couple.
+
+## Measure the Seconds Adults Cannot See
+
+Testing is tedious to many children. Data collection feels slow when the robot is almost ready for another run.
+
+That is exactly when it matters.
+
+Our teams record the completion time for each run and how many attempts succeed—perhaps eight or nine out of ten. But mission success is not the only number that affects a two-and-a-half-minute match. They also time what happens at base.
+
+How long does an operator need to remove one attachment, find the next one, align it correctly, select the program, and launch again?
+
+A mission may be reliable and still damage the match strategy if its attachment takes too long to install. After measuring base time, teams changed attachment designs and alignment methods so operators could switch more quickly and consistently.
+
+Iron Pegasus programmers implemented automatic program switching. After one run finished, the robot prepared the next program so operators did not have to search for and press another button. Other teams solve the same human problem by using a color sensor to recognize which attachment is installed and select the corresponding mission.
+
+The clever feature matters less than the chain of evidence:
+
+1. The children timed the entire run, including work at base.
+2. The data revealed a delay that mission scores alone did not show.
+3. They considered mechanical, alignment, operator, and software solutions.
+4. They changed the system and tested it again.
+
+That is data-driven engineering. It is not a spreadsheet created to impress judges.
+
+Across a season, our teams may track base-robot and attachment test results, weekly assignments, expert-interview recordings, prototype trials, rubric evidence, expenses, outreach photographs, engineering reports, and design decisions. Each record should answer a future question:
+
+- What changed?
+- Why did we change it?
+- Did it work?
+- Who needs this information next?
+
+If no child can explain how a record affected a decision, it may be paperwork rather than evidence.
+
+## Make Technology Earn Its Place
+
+We like trying new tools.
+
+Acceleration and deceleration combined with proportional control can help a robot travel more accurately. CAD can improve design thinking and document attachments. GitHub can preserve code history. AI can help students locate starting points for research and learning. 3D printing can support project prototypes, outreach displays, and presentations.
+
+“Can we use it?” is not the engineering question.
+
+The questions are:
+
+- What problem does it solve?
+- What new failure modes does it introduce?
+- Can the children explain and maintain it?
+- Does testing show that it works better for this team?
+
+We try a technology, test it, and keep it when the evidence supports it. Otherwise, we move on.
+
+Sometimes the best advanced strategy is a simpler design.
+
+A passive attachment may complete a mission more quickly and reliably than a motorized attachment. A curved route may be easier to control than a path requiring a precise ninety-degree turn and a more complicated acceleration profile. A better starting position at base or an alignment jig may save more time than sophisticated navigation code because the operators can align the robot correctly on the first try.
+
+We teach the KISS principle: keep it simple.
+
+Simple does not mean careless or technically weak. A simple solution that survives repeated testing is often evidence of deeper engineering judgment. In the Robot Game, saving two reliable seconds can be more valuable than adding an impressive feature no one can operate under pressure.
 
 ## Should You Start a Second Team?
 
@@ -244,11 +315,122 @@ A first-time coach should consider a second team when several conditions are bec
 - Shared resources have owners, schedules, and rules.
 - The adults can explain how rivalry will be handled through Core Values.
 
-Wait another season if the founding team still depends on the coach for every decision, if parents do not understand the commitment, if meeting space is uncertain, or if the second team would receive only whatever time remains.
+Before expanding, examine the budget, equipment, meeting space, transportation, mentor hours, and age and experience of the prospective members. Wait another season if the founding team still depends on the coach for every decision, if parents do not understand the commitment, if mentors lack bandwidth, if the youngest children need a foundation semester first, or if the second team would receive only whatever time remains.
+
+The first five program systems I would establish are:
+
+1. **A repeatable process.** Define how teams move from kickoff through research, design, testing, documentation, judging preparation, and reflection.
+2. **A solid schedule.** Establish the common weekly rhythm, team-specific meetings, milestones, and competition-day planning.
+3. **An adaptive education plan.** Teach shared concepts together, then adjust the difficulty and support to each team's experience.
+4. **Realistic roles and assignments.** Give each child work that stretches them without making success impossible, and use a RACI chart so responsibility and adult boundaries remain visible.
+5. **A shared knowledge space.** Preserve research, reports, expert-meeting notes, photographs, code, testing records, and outreach artifacts where the next team can find them.
+
+Add inventories, budgets, mentor agreements, testing logs, communication rules, and a succession plan as the program matures. Templates help, but only when children and adults actually use them.
 
 Scaling magnifies culture.
 
 If children already share credit, document work, welcome rookies, and recover from mistakes, growth gives those habits a larger stage. If adults take over, information lives in one person's head, and winning determines status, growth multiplies those problems too.
+
+## Give Rookies a Runway
+
+Our program no longer treats the fall competition season as the ideal beginning for every new student.
+
+Spring is the runway.
+
+New members can enter an introductory semester without the pressure of an approaching tournament. Veteran students work with them one-on-one. Google Classroom modules lead them through a base robot, straight movement, turns, color and gyro sensors, and short challenges that create early success.
+
+The technical vocabulary expands gradually: gear ratios, one-way mechanisms, CAD, proportional control, attachment design, and the relationship between hardware and software. By the end of spring, students should be able to complete basic programming and design challenges and begin working more independently.
+
+Fall is competition season. Returning veterans and students who completed the spring foundation can start the new Challenge without spending the first urgent weeks learning how to make a robot travel straight.
+
+This staged approach also helps us observe compatibility before final rosters form. We see who follows through, who listens, who needs a different kind of support, and which families can sustain the schedule.
+
+I recently changed the class name to **FLL Robotics Club**. The word *class* can imply a short course that ends after the student receives the lesson. A club suggests continuing membership, contribution, and growth.
+
+Reaching the FIRST Championship in a rookie season does not mean a child has completed FLL.
+
+One season may introduce technical work. The next can deepen Python or Pybricks programming, leadership, fundraising, outreach, engineering efficiency, presentation skills, mentoring, and project management. Houston is not graduation. It is one experience in a longer development.
+
+## Match Commitment Before It Becomes Conflict
+
+Families leave for many reasons. Time demands may become too large. A child may struggle to work with teammates. Another activity may become more important. A student may believe that reaching the highest competition level means there is nothing left to learn.
+
+Not every departure is a failure.
+
+The dangerous mismatch occurs when team members expect fundamentally different seasons. One family wants a demanding path toward championship competition. Another wants a relaxed weekly enrichment activity. Both goals can be legitimate, but placing them on the same roster produces resentment.
+
+We now communicate the season's demands early and try to group families with similar goals and available time. That does not mean sorting children into “good” and “bad” teams. It means being honest about the agreement each roster is making.
+
+Watch parent behavior as carefully as the form they sign. A parent who cares only about the Robot Game leaderboard, demonstrates poor Gracious Professionalism, or repeatedly completes student work is showing a values conflict, not merely enthusiasm.
+
+Burnout cannot be prevented by motivational speeches alone. It requires a predictable weekly rhythm, milestones families can see, assignments proportional to a child's role, and permission to rest or reconsider. Coaches also need limits. Supporting three teams through Houston by personally rescuing every late task is not dedication; it is a system warning.
+
+The greatest cost of growing our program has been time. Coach Min and I sometimes joke about gray hair and blood pressure, but the physical and emotional load is real.
+
+The greatest reward is not three team numbers or a shelf of trophies.
+
+It is the aha moment—and the possibility that an experience changes the direction of a child's life.
+
+## When a Student Becomes the Next Coach
+
+My daughter joined the first Fire Kirin group in 2017 when she was eight years old. At first, she was mainly an observer.
+
+As she grew, the boundary between home and team created an unusual role. She took responsibility for work other members did not always have time to complete, including initial base-robot building, coding, and testing at home. She also faced demanding expectations from her coach, who happened to be her father.
+
+She had the tenacity to remain with Fire Kirin through multiple seasons and the 2022-2023 *SUPERPOWERED* trip to the FIRST Championship.
+
+Then she left the team and did something more important than remaining in my program forever.
+
+She founded a robotics club at her own school and became a mentor and coach. Her school team later received a regional Champion's Award and advanced to the state championship. She also returned to help our teams with mock judging.
+
+That is what we mean when we say we use robots to build children.
+
+Technical skill stayed with her, but it did not remain the final product. It became leadership. The student became someone who could create an opportunity for other students.
+
+Retention should never mean keeping every child under the founding coach's name. The best departure may be a student carrying the culture somewhere we could not reach ourselves.
+
+## Build the Memory Outside the Coach
+
+If I stopped coaching tomorrow, parts of my style and perspective would be difficult to reproduce. Ten years of coaching and judging create instincts that do not fit neatly into a checklist.
+
+The program should not require a copy of me.
+
+In recent years, Arizona has fielded roughly 250 FLL teams annually. My daughter and I have taught an annual coaches workshop at the ASU engineering school. The people in the room are only the beginning of its reach. Our presentations are archived online, so a coach who could not attend—or a parent who discovers FLL months later—can still use them.
+
+The impact is already visible in new team numbers.
+
+From families connected with my Hope Chinese School classroom, at least four or five new FLL teams have formed outside our three-team program. Some were created by former Fire Kirin or Golden Phoenix families. Others began when a family in the class decided to organize a team of its own. Those teams developed successful stories of their own.
+
+The number continues to grow. Outreach events, workshop materials, team websites, videos, and social media reach families we may never meet. I have received emails from people around the world asking for mentorship after finding us through our Facebook pages, ASU's FLL coaching website, or word of mouth. What began in one Hope Chinese School classroom now starts coaching conversations far beyond Arizona.
+
+A new coach may use one of our examples, adapt it, and create an opportunity for children in another school, state, or country. We may not hear about the result until years later—or at all.
+
+That is impact.
+
+A trophy records what one roster accomplished in one season. A new team creates learning opportunities for children we may never coach. When a former parent becomes a mentor, a former student teaches, or an online workshop helps someone begin, the program's influence has moved beyond our control. That is exactly where we want it to go.
+
+Engineering journals preserve the children's decisions. Past reports and photographs make earlier seasons visible. Online team histories, introductory seminar videos, annual coach workshops, shared resources, and this book can carry lessons beyond one classroom.
+
+Documentation is not a substitute for mentorship. It gives the next mentor a place to begin.
+
+A sustainable program leaves behind:
+
+- A record of why decisions were made, not only the final robot or presentation.
+- Teaching modules that a new adult can facilitate and veteran students can demonstrate.
+- Clear boundaries defining what coaches, mentors, parents, and children own.
+- Equipment and digital files organized so access does not depend on one person.
+- Parents and former students who have practiced leadership before the founder leaves.
+- Stories that communicate the culture when no rule covers the situation.
+
+Succession begins long before retirement. Every time a veteran teaches a rookie, a parent becomes a thoughtful mentor, or a former student creates a new club, the program becomes less dependent on its founder.
+
+A team I coach is an achievement. A team formed by someone we taught is capacity. A team formed because an unknown parent found an archived presentation is legacy.
+
+A successful FLL program outlives its founding coach because its processes and experiences were written down, practiced by other people, and given away.
+
+The intention is not for one team—or even three teams—to succeed.
+
+It is for more coaches to have successful seasons and build more children with robots.
 
 ## What Rose from the Bottom
 
@@ -265,5 +447,3 @@ That may be the greatest advantage of growing from a team into a program. The co
 The children can say it to one another.
 
 And then the newest team becomes part of the evidence.
-
-<!-- Working-draft note: Expand the sections on shared-resource management, data-driven decisions, retention, burnout, and succession after the remaining Tab 10 interview answers are complete. Confirm the exact regional event and official award wording. Obtain parent consent before identifying any newly named minors or describing diagnoses in a way that could identify a child. -->
