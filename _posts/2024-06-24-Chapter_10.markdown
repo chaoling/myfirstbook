@@ -1,121 +1,392 @@
 ---
 layout: post
-title: "Chapter 10: Case Studies and Success Stories"
+title: "Chapter 10: Three Teams, One Philosophy"
 date: 2024-06-24 12:00:00 -0700
 categories: chapter
 ---
 
-# Case Studies and Success Stories
+# Three Teams, One Philosophy
 
-## Detailed Accounts of Award-Winning Projects
+## The Names in the Auditorium
 
-### The Journey of the Tech Titans: Overcoming Obstacles to Reach the World Championship
+At an award ceremony, a team name sounds different when it belongs to your children.
 
-The Tech Titans, a team from a small town in Ohio, made their way to the FLL World Championship through sheer determination and teamwork. Their journey was fraught with challenges, both internal and external, but their ability to overcome these obstacles set them apart.
+At the 2024 FIRST Championship in Houston, Golden Phoenix sat with the other FIRST LEGO League teams in the auditorium. The children had completed their rookie season. Months earlier, some had been too shy to introduce themselves. Now they had presented their robot, project, engineering process, and personal growth on the world stage.
 
-#### Early Beginnings and Team Formation
-The Tech Titans started as a group of middle school friends with a shared interest in robotics. They formed their team at their local community center, where resources were limited. Their first challenge was securing enough funding for their robot kit and competition fees.
+Then we heard the words **Engineering Excellence Award**.
 
-#### External Obstacles: Funding and Resources
-- **Fundraising Efforts**: The team organized bake sales, car washes, and reached out to local businesses for sponsorships. Despite their efforts, they still fell short of their funding goals.
-  - *Example*: One local business owner, impressed by their persistence, offered to match all donations they raised. This was a turning point, allowing them to purchase the necessary equipment.
-  - **Tip**: Persistence pays off. Don’t be afraid to approach local businesses and community members for support. Highlight how their contribution will positively impact the community.
+For a moment, we could not believe our ears.
 
-#### Internal Challenges: Team Dynamics and Conflict Resolution
-- **Team Conflict**: As the competition approached, the team faced internal conflicts. Differing opinions on robot design and programming led to heated debates.
-  - *Example*: During one particularly intense argument, the team's coach intervened and introduced a conflict resolution strategy. They held a team meeting where each member expressed their concerns and ideas while others listened without interrupting.
-  - **Tip**: Implement a structured approach to conflict resolution. Ensure every team member feels heard and respected.
+Coach Min Lu led the children toward the stage. I walked with them while recording the moment. They exchanged high-fives, received the trophy, and raised their team flag where the world could see it.
 
-#### Technical Hurdles: Robot Design and Programming
-- **Robot Malfunctions**: Early in their preparation, the Tech Titans' robot frequently malfunctioned. The motors would overheat, and the sensors often failed to detect obstacles.
-  - *Example*: The team decided to take a data-driven approach. They logged each malfunction, noting the conditions and potential causes. Through this meticulous process, they identified that overheating occurred after extended use due to insufficient ventilation.
-  - **Tip**: Keep detailed logs of all technical issues and systematically troubleshoot to identify root causes. Regularly maintain and test your equipment under different conditions.
+It was epic.
 
-#### The Innovation Project: Addressing a Real-World Problem
-The Tech Titans chose to tackle the issue of food waste for their Innovation Project. They aimed to develop a smart composting system that could be used in local schools and households.
+It would also be easy to tell the story badly.
 
-- **Research Phase**: The team conducted extensive research, interviewing environmental scientists and local farmers. They learned about the benefits and challenges of composting.
-  - *Example*: They visited a local farm where they observed the composting process firsthand. This experience provided valuable insights that they integrated into their project.
-  - **Tip**: Hands-on research and expert interviews can provide practical insights that enhance the quality and feasibility of your project.
+I could describe only the award and make the season sound like a smooth climb from rookie meeting to Houston stage. I could turn shy children into born presenters, an unfinished prototype into a perfect invention, and months of uncertainty into a formula any coach could copy.
 
-- **Prototyping and Testing**: The team built a prototype of their smart composting system using sensors to monitor moisture and temperature. Initial tests were unsuccessful, with the system failing to maintain optimal composting conditions.
-  - *Example*: The team iterated on their design multiple times, using feedback from tests and expert consultations. They eventually developed a working prototype that met their goals.
-  - **Tip**: Embrace an iterative design process. Each failure is an opportunity to learn and improve.
+That would not help a first-time coach.
 
-#### The Road to the World Championship
-The Tech Titans faced numerous setbacks during the regional and state competitions. Their robot malfunctioned during a critical match, and their presentation encountered technical difficulties. However, their perseverance and adaptability shone through.
+Our three teams did not follow one formula:
 
-- **Regional Competition**: At regionals, their robot failed to complete a high-scoring mission. Instead of giving up, they quickly adapted their strategy, focusing on consistent performance in other missions. Their resilience impressed the judges.
-  - **Tip**: Stay adaptable during competitions. If something goes wrong, reassess and adjust your strategy on the fly.
+- Fire Kirin #33274 began in the 2017-2018 *HYDRO DYNAMICS* season and reached the FIRST Championship during *SUPERPOWERED* in 2023.
+- Golden Phoenix #61064 began in the 2023-2024 *MASTERPIECE* season, became the Arizona champion, and received the Engineering Excellence Award at the 2024 FIRST Championship.
+- Iron Pegasus #72674 began in the 2025-2026 *UNEARTHED* season. It received the Champion's Award and first place in Robot Performance at the ASU Polytechnic regional qualifier, then received the Rising All-Star Award at the 2026 FIRST Championship. Coach Min received the Coach/Mentor Award there.
 
-- **State Competition**: During their state presentation, a video they prepared failed to play. The team remained composed and explained the video content verbally, using visual aids they had prepared as backups.
-  - **Tip**: Always have a backup plan for presentations. Technical issues can arise, so be prepared to adapt.
+All three teams advanced to the Arizona state championship in every season they competed. Each reached the FIRST Championship once.
 
-#### The World Championship Experience
-Arriving at the World Championship, the Tech Titans were both excited and nervous. The scale of the event was overwhelming, but their preparation and team spirit carried them through.
+<figure class="chapter-figure">
+  <img src="{{ '/assets/images/three-team-world-awards.jpg' | relative_url }}" alt="Three FIRST Championship trophies for Golden Phoenix, Coach Min Lu, and Iron Pegasus">
+  <figcaption>Three world-championship honors, three different stories: Golden Phoenix's 2024 Engineering Excellence Award, Coach Min Lu's 2026 Coach/Mentor Award, and Iron Pegasus's 2026 Rising All-Star Award.</figcaption>
+</figure>
 
-- **Networking and Learning**: The team took every opportunity to network with other teams and learn from their experiences. They attended workshops and engaged in discussions that broadened their perspectives.
-  - **Tip**: Use the World Championship as a learning experience. Engage with other teams and absorb as much knowledge as possible.
+Those facts make the teams look similar. Living through the seasons showed how different they were.
 
-- **Final Presentation and Robot Game**: In the final rounds, their robot performed flawlessly, and their well-rehearsed presentation captivated the judges. The team’s ability to articulate their journey, including the challenges they overcame, resonated with everyone.
-  - **Tip**: Practice your presentation thoroughly. Your ability to communicate your story and learning journey is just as important as your technical achievements.
+Fire Kirin needed persistence. Golden Phoenix needed transformation. Iron Pegasus needed accelerated learning.
 
-### Outcome and Reflection
-The Tech Titans didn't win first place, but they received the Judges' Award for their resilience, innovation, and teamwork. Their journey to the World Championship was a testament to their perseverance and the power of collaboration.
+The philosophy remained the same: use robots to build children, let the children own the work, treat the engineering process as more important than a polished answer, and make Core Values visible everywhere.
 
-### Lessons Learned
-1. **Persistence and Adaptability**: Never give up, even when facing significant challenges. Adapt your strategy and remain flexible.
-2. **Team Cohesion**: Strong team dynamics and conflict resolution skills are crucial. Ensure every member feels valued and heard.
-3. **Data-Driven Approach**: Use data to inform your decisions. Detailed logs and systematic troubleshooting can solve complex technical issues.
-4. **Engage with the Community**: Seek support and insights from local businesses, experts, and the community. Their contributions can be invaluable.
-5. **Comprehensive Preparation**: Prepare for all aspects of the competition, including technical performance, presentations, and unexpected setbacks. Always have a backup plan.
+The coaching could not remain the same.
 
-By examining the detailed account of the Tech Titans, we see that success in FLL is not just about technical prowess but also about resilience, teamwork, and the ability to overcome obstacles. Their journey serves as an inspiring example for all aspiring FLL teams.
+## Fire Kirin: Persistence
 
-## Interviews with Successful Teams and Coaches
+<figure class="chapter-figure">
+  <img src="{{ '/assets/images/FireKirinWorld2023gp.jpg' | relative_url }}" alt="Fire Kirin team members at the 2023 FIRST Championship in Houston">
+  <figcaption>Fire Kirin at the 2023 FIRST Championship in Houston. The photograph records one event; the team's real story took six seasons to reach it.</figcaption>
+</figure>
 
-### Interview with Coach Thompson of the RoboWizards
+### Why Not Now?
 
-**Q: Coach Thompson, what do you believe sets your team apart in the FLL competitions?**
+Fire Kirin began because a school principal did not accept my cautious timeline.
 
-A: "Our focus has always been on the Core Values. We ensure that every member understands and embodies them, which fosters a positive and collaborative team environment. We also emphasize iterative design and data-driven decision making. Our students learn to analyze data and make informed adjustments, which has been crucial to our success."
+After judging an FLL competition, I told the principal of Hope Chinese School how exciting the program was and how well it could serve our students. I said we should create a class, but we needed time to prepare.
 
-**Q: Can you share a specific example of how your team overcame a significant challenge?**
+She asked, “Why not now?”
 
-A: "Last season, our robot consistently failed a crucial mission during testing. Instead of getting frustrated, the team conducted a root cause analysis and discovered that a loose wire was causing intermittent failures. They fixed the issue and improved the robot's reliability significantly. This experience taught them the importance of perseverance and thorough problem-solving."
+I agreed with more uncertainty than confidence.
 
-### Insights from the RoboMasters, World Champions
+Ten students, ages nine to eleven, registered for the new class. We met for two hours during Hope Chinese School's regular class time in room IRN 125 at Chandler-Gilbert Community College's Pecos campus. On Sundays, when parents could provide a meeting place, we added approximately four more hours. Families shared the registration, robot, field-kit, shirt, and travel costs.
 
-The RoboMasters, a team from Germany, won the FLL World Championship with their innovative approach to the Robot Game and the Innovation Project.
+What we did not share clearly enough was the expected commitment.
 
-**Q: What was your winning strategy in the Robot Game?**
+We had no established team history, no veteran students, and few tools for keeping work moving between meetings. Some children attended inconsistently. Families did not always understand how much work a full FLL season required. Meeting space outside school was difficult to find.
 
-A: "We focused on precision and reliability. Instead of attempting every mission, we prioritized the high-scoring ones and perfected our robot's performance on those tasks. This strategy allowed us to maximize our score with fewer risks."
+For the *HYDRO DYNAMICS* Innovation Project, the children created an app concept to help households save water and presented it through a fun skit. They built and programmed a robot. They entered their first regional tournament believing they had become a team.
 
-**Q: How did you approach the Innovation Project?**
+They did not advance.
 
-A: "We tackled a problem close to home – water conservation. Our solution was a smart irrigation system that used sensors to optimize water usage for farmers. We involved local farmers in our research and testing, which added practical value to our project."
+### The Comment I Understood Years Later
 
-## Lessons Learned from the World Championship
+During judging, one child said something that suggested the coach had designed the robot.
 
-### Emphasizing Core Values
+That was not true. The child had spent less time with the team and did not understand how the work had developed or how a careless sentence could be interpreted. I did not recognize the full significance immediately. Only years later, after gaining judging experience, did I understand that the comment may have created serious doubt about student ownership.
 
-At the World Championship, judges place a significant emphasis on Core Values. Teams that demonstrate respect, inclusion, and teamwork consistently score higher. The RoboMasters, for example, had a unique team-building exercise where each member shared their cultural background, fostering a deep sense of respect and unity.
+It would be convenient to blame one sentence for the result. The deeper problem was ours.
 
-### Importance of Thorough Documentation
+If one team member could not explain who did the work, we had not involved every child deeply enough. If a child did not know how to speak honestly about the team's process, we had not prepared the entire team for judging. If commitment differed widely, we had not created a clear agreement with families.
 
-Detailed documentation in the engineering notebook is crucial. It not only helps in tracking progress but also provides a comprehensive narrative for judges. Teams that document their iterative process, challenges, and solutions tend to perform better in the judging sessions.
+After winter break, the few continuing veterans reflected on the season. New children joined later. We began rebuilding not only the robot, but the system around the children.
 
-### Adapting to Feedback
+This story is why I now warn parents and mentors so strongly: **the children must do the work**. The rule protects more than award eligibility. Ownership gives each child a truthful story to tell.
 
-Successful teams are those that adapt to feedback quickly. During the competition, teams often receive feedback from judges and other teams. The ability to incorporate this feedback into their projects and robot design can make a significant difference. The RoboMasters, for instance, improved their presentation after a preliminary round based on the judges' feedback, which helped them in the final round.
+### Six Seasons of “Not Yet”
 
-### Collaboration and Mentorship
+Fire Kirin did not become a championship team the next year.
 
-Collaborating with other teams and seeking mentorship can provide new perspectives and solutions. The RoboWizards often partnered with local university students for advanced programming tips and workshops, which greatly enhanced their technical capabilities.
+For several seasons, simply advancing to the Arizona state championship felt important. The team returned without a state-level award. Children graduated or left. New members joined. My daughter was the one student who remained through the full history from the original team to the 2023 FIRST Championship.
 
-### Stress Management and Team Morale
+We kept improving the structure around each new roster:
 
-Competition days can be stressful. Successful teams manage this by maintaining a positive team spirit and supporting each other. The Green Innovators had a ritual of sharing a fun fact about themselves before each competition round to lighten the mood and keep spirits high.
+- Discord supported communication between meetings.
+- Google Classroom organized weekly lessons and announcements.
+- Google Drive preserved reports, code, photographs, and team resources.
+- Roadmaps and timelines made the season visible.
+- An electronic engineering journal recorded what happened after each meeting.
+- Spring and the offseason became time for fundamentals; fall became competition season.
+- Each season began with the history and lessons of earlier teams instead of a blank page.
 
-By examining these detailed accounts, interviews, and lessons from successful teams, we can see that winning in FLL is not just about having the best robot or the most innovative project. It’s about embodying the Core Values, continuously learning and iterating, and working together as a cohesive, supportive team.
+We tried tools, kept the ones children actually used, and changed the ones that became adult paperwork.
+
+During the COVID-affected *CARGO CONNECT* season, Fire Kirin competed with only two members and received the Robot Design Award. The following season, the team became the Arizona champion.
+
+The sequence matters.
+
+The first award did not prove that the earlier seasons had been wasted. It revealed what those seasons had accumulated: technical knowledge, routines, documentation, resilience, and a culture that could survive a very small roster.
+
+### The Team That Reached Houston
+
+During *SUPERPOWERED*, Fire Kirin investigated vehicle-to-grid technology. The children proposed smart chargers that could allow electric vehicles to support the electrical grid. Their prototype used a Raspberry Pi, an LCD screen, and a 3D-printed enclosure.
+
+The robot completed reliable missions. The children could explain why it worked.
+
+My daughter, then studying AP Calculus in eighth grade, could describe PID control in her own words and connect it to gyro-straight movement, gyro turns, and line following. A nine-year-old rookie served as the chief robot builder, a fact that surprised judges who might have expected the oldest child to own the most technical role. All four team members were strong presenters.
+
+The team advanced to the 2023 FIRST Championship in Houston.
+
+There, Fire Kirin met international teams with nearly perfect Robot Game runs. Some matches required a fourth attempt to break ties. The children saw impressive prototypes, exchanged ideas, made friends, and discovered that the world stage was not a finish line. It was a much larger classroom.
+
+One member returned convinced that our robot needed acceleration and deceleration control to move faster without sacrificing accuracy. The idea was implemented during *MASTERPIECE* and refined through *UNEARTHED*. A lesson observed at one championship became knowledge inherited by children who had not attended it.
+
+That is how a mature team should use Houston.
+
+### Success Can Empty a Team
+
+After Houston, almost every original Fire Kirin member left. Some had aged out. Some pursued other programs. Some felt they had already reached the highest stage available to them.
+
+Only my daughter was willing to remain long enough to teach newer members before moving into high-school robotics.
+
+We had achieved the result teams dream about and lost much of the team that achieved it.
+
+This is one of the uncomfortable truths of youth programs: a major success can remove the goal that held a roster together. A team that never reaches Houston may remain hungry and keep learning together. A team that reaches it may decide the story is complete.
+
+Fire Kirin had to restart.
+
+Its history still mattered, but history could not operate a robot or welcome a rookie. The coaches had to help new children inherit the name without demanding that they reproduce the old roster.
+
+Persistence does not mean keeping the same children forever. It means keeping the learning available when the children change.
+
+## Golden Phoenix: Transformation
+
+<figure class="chapter-figure">
+  <img src="{{ '/assets/images/GoldenPhoenix-61064.jpg' | relative_url }}" alt="Golden Phoenix team members at a 2025 SUBMERGED regional qualifier">
+  <figcaption>Golden Phoenix at a 2025 <em>SUBMERGED</em> regional qualifier. The roster continued evolving after the team's rookie trip to Houston.</figcaption>
+</figure>
+
+### Children Who Could Barely Say Their Names
+
+Golden Phoenix began with an advantage Fire Kirin never had: it could learn beside a veteran team.
+
+It also began with an entire roster of rookies.
+
+At the first meeting, most members were shy. Shiyu and his twin brother, Peiyu, could barely introduce themselves. Other children were more outspoken, including one younger brother whose excitement created a simple goal for the team: “Go to Texas.” The phrase became part of their judging-room presentation.
+
+Rookies did not carry the pressure of defending Fire Kirin's Arizona championship. They had no old score to protect and no personal history of how things “should” be done. Their weakness was inexperience. Their freedom was the same thing.
+
+During the *MASTERPIECE* season, Golden Phoenix did not lead the Arizona Robot Game standings. It still became the Arizona champion.
+
+The children showed judges a more complete picture of what they had learned.
+
+### An Honest Prototype
+
+Golden Phoenix's Innovation Project explored how deaf people might experience music. The children produced design drawings and interviewed a school principal, teachers, and deaf students. They learned from people connected directly to the problem.
+
+They did not arrive at Houston with the kind of polished prototype that fills a crowded pit with light, motion, and confidence.
+
+Before the championship, the mentors demonstrated how SPIKE Prime parts could be used for prototyping. We showed examples from past projects to spark ideas. The children produced preliminary work, but the prototype remained incomplete.
+
+The adult temptation was obvious: fix it.
+
+An experienced adult could have constructed something shinier, rehearsed an explanation around it, and made the table look more competitive. It also would have weakened the most important fact in the room: the children owned what they brought.
+
+They showed the judges their real work and explained what they hoped to do next.
+
+An unfinished student prototype is stronger evidence than a finished adult one.
+
+### “I Don't Think You Are Shy”
+
+At the 2024 FIRST Championship judging session, a judge asked each child what FLL had taught them.
+
+Shiyu explained that he had been very shy at the beginning of the season but had learned to speak in front of strangers.
+
+The judge replied, “I don't think you are shy.”
+
+That response proved his point.
+
+Within one rookie season, a child who had struggled to say his name at the first meeting was telling a judge at the world championship how the program had changed his personality. In later seasons, he became a team leader.
+
+His growth was not separate from the technical work. When given ownership, he could teach acceleration and deceleration programming together with PID-controlled movement—one of the team's new technical challenges. He also learned to recognize what a judging conversation still needed. When judges asked whether the team had anything else to share, he helped the group remember to explain its Core Values.
+
+Technical confidence and speaking confidence grew together because the team gave him something real to explain.
+
+### Engineering Excellence Without Pretending to Be Perfect
+
+The 2024 championship used a separate pit interview for Robot Design. Children could demonstrate the robot and present beside their pit in a format that felt more like an FRC or FTC interview.
+
+Golden Phoenix showed CAD designs on a tablet. The children explained prepared control algorithms and testing charts. Their engineering documents made the process visible.
+
+In the judging room, Innovation Project and Core Values reinforced each other. The project was authentic. The stories of personal growth were authentic. The children did not need to perform the role of experienced champions. They needed to show what rookies had genuinely learned and how they had worked together.
+
+Then their name was announced for the Engineering Excellence Award.
+
+Some children continued with Golden Phoenix in later seasons. Some left to pursue other robotics opportunities. The team's rookie story became part of our program history and changed what the next rookies believed was possible.
+
+Golden Phoenix transformed more than its own members.
+
+When Iron Pegasus formed, “rookie team” no longer sounded like a reason to lower expectations. The children had evidence beside them that a first-year team could reach the world stage.
+
+## Iron Pegasus: Accelerated Learning
+
+<figure class="chapter-figure">
+  <img src="{{ '/assets/images/IronPegasus-Houston-2026.jpg' | relative_url }}" alt="Iron Pegasus team members with Coach Min Lu at the 2026 FIRST Championship in Houston">
+  <figcaption>Iron Pegasus with Coach Min Lu at the 2026 FIRST Championship in Houston.</figcaption>
+</figure>
+
+### Three Weeks Before Regionals
+
+Iron Pegasus was not created by coaches who had forgotten how hard a rookie season could be.
+
+It was created inside a program with Fire Kirin's history, Golden Phoenix's example, veteran teaching, past robots, reports, code, experts, and competition routines. That inheritance allowed the children to learn faster. It did not allow them to skip the work.
+
+Three weeks before the ASU Polytechnic regional qualifier, the team's reports were incomplete, the skit was unstable, the operators were inconsistent, and the Robot Game was not ready.
+
+During one weekend meeting, Coach Min and I asked the children to perform the Innovation Project skit.
+
+They could not remember their lines. The words they did remember sounded recited. Their explanation of four board-game iterations was so disorganized that an audience could not see how one design had led to the next.
+
+We did not rewrite the project for them.
+
+I asked four children to hold the four versions of the game map. As each version was discussed, the child unfolded it while the others explained what had changed and why. The physical sequence gave structure to the engineering story.
+
+At the next rehearsal, the explanation was visibly clearer.
+
+This is what accelerated learning looks like in practice. It is not an adult supplying a faster answer. It is an adult finding a demonstration that allows children to reorganize their own work.
+
+### Different Children Need Different Doors
+
+Iron Pegasus included a neurodivergent veteran whose attention, communication, and technical focus did not always look conventional.
+
+The child might become distracted during judging, miss a deadline, or switch tasks before completing the first one. The same child could become deeply absorbed in programming and LEGO mechanisms, stay late to refine an attachment, and notice possibilities others missed.
+
+The coaching response was not to define the child by either the difficulty or the talent.
+
+We gave one clear instruction at a time. We reduced distractions. We focused on one mission before moving to another. Before competition, we communicated relevant needs to tournament leadership so the judging environment could be supportive.
+
+As the team's veteran, the child already understood coding, attachments, and lessons from the previous season. The leadership challenge was to stop solving everything personally. The veteran began asking younger teammates to own missions, then guiding them instead of writing all the code.
+
+Inclusion is not lowering the engineering standard. It is designing a path through which a particular child can reach it—and contribute something the team would otherwise lack.
+
+### Four Versions of Archaeology
+
+For its *UNEARTHED* Innovation Project, Iron Pegasus asked how people could learn what archaeology really is, beyond the popular image of treasure hunting and *Indiana Jones*.
+
+The children researched the market and found few educational board games focused on authentic archaeology. They consulted archaeologists, developed a question bank, and iterated the game through four versions. They explored a website and digital versions, using AI tools as part of broadening access. They also contacted an archaeology organization about directing support toward archaeological study.
+
+<figure class="chapter-figure">
+  <img src="{{ '/assets/images/iron-pegasus-game-board-evolution.jpg' | relative_url }}" alt="Iron Pegasus pit display showing the evolution of its archaeology game board">
+  <figcaption>Iron Pegasus made iteration visible at its Houston pit: successive physical game boards led to a later digital version.</figcaption>
+</figure>
+
+The project was not impressive because an adult could describe all those components in one paragraph.
+
+It became impressive when the children could place four maps in front of an audience and say:
+
+**This is what we tried. This is what we learned. This is what we changed.**
+
+That sentence is the heart of the engineering design process.
+
+### From Unstable to Rising All-Star
+
+At the regional qualifier, Iron Pegasus's final Robot Game attempt raised the team into first place in Robot Performance. The team also received the Champion's Award.
+
+Coach Min had watched the judging session and knew the children had done strong work. We were happy, but not shocked. They had earned the result through the repetitions that the ceremony did not show.
+
+The state-championship rubric still identified uneven speaking and participation. Some children carried more of the explanation than others.
+
+By the 2026 FIRST Championship, every team member spoke. Children complemented one another's answers instead of waiting for one star presenter. The team received the Rising All-Star Award.
+
+Our interpretation was not that the children had suddenly become polished. They had become more visibly a team.
+
+The Coach/Mentor Award for Min was a genuine surprise. Team members and parents had nominated her. The judges saw perspectives that coaches do not often hear directly: how she organized the team, responded to families, cared for each child, followed the details, and planned competition day like clockwork.
+
+<figure class="chapter-figure">
+  <img src="{{ '/assets/images/min-lu-coach-mentor-award-2026.jpg' | relative_url }}" alt="Coach Min Lu onstage with the 2026 FIRST Championship Coach Mentor Award recipients">
+  <figcaption>Coach Min Lu onstage with the 2026 FIRST Championship Coach/Mentor Award recipients. The nomination came from team members and parents.</figcaption>
+</figure>
+
+The award mattered because it came through the appreciation of the people her work supported.
+
+It also returned the attention to the adults' real responsibility. A coach does not create a Rising All-Star by standing in the spotlight. A coach creates enough order, safety, challenge, and belief for children to step into it.
+
+## Same Philosophy, Different Coaching
+
+These stories are not three proofs that our method always produces trophies.
+
+Fire Kirin attended Houston without receiving an award. Its members still became pioneers who opened a larger world for every team that followed. Golden Phoenix received a major award with an unfinished prototype. Iron Pegasus reached regionals with its work still unstable and needed much more direct demonstration than our older teams.
+
+The philosophy stayed consistent. The assignments, feedback, and amount of structure changed.
+
+| Team | What the children most needed | What the coaches had to practice | What success taught the program |
+| --- | --- | --- | --- |
+| Fire Kirin | Time, continuity, systems, and permission to keep going | Patience across seasons; turning mistakes into reusable knowledge | “Not yet” can last for years without meaning “never” |
+| Golden Phoenix | Opportunities to speak, authentic ownership, and freedom from veteran expectations | Stepping back from an imperfect prototype; seeing transformation as evidence | Rookies can do ambitious work without pretending to be veterans |
+| Iron Pegasus | Visible examples, small steps, frequent feedback, and differentiated support | Demonstrating without taking over; matching instruction to each learner | Inherited knowledge can accelerate learning when veterans build independence |
+
+Fair coaching did not mean giving every team the same assignment.
+
+An assignment that stretches a veteran may overwhelm a nine-year-old rookie. A long verbal explanation may work for one child and disappear for another. One team may need a principle and room to explore. Another may need the coach to unfold the first map and ask what should happen next.
+
+The boundary is not “hands off.”
+
+The boundary is ownership.
+
+We can show the rope, demonstrate key concepts, spark interest, ask questions, organize feedback, and create a safer learning environment. The children must make the decisions, conduct the work, understand the result, and tell the story.
+
+## What the Teams Gave One Another
+
+The three teams met in the same classroom. Their results could have created status: the old champion, the world-award rookie, and the youngest team.
+
+We tried to create inheritance instead.
+
+Veterans taught rookies. Teams watched one another's judging rehearsals and Robot Game runs. Children celebrated another roster's award because they understood that the achievement expanded what their whole program believed possible.
+
+Technical ideas crossed team boundaries with credit. An Iron Pegasus veteran designed an attachment in which one motor drove two arms at different speeds through different gear ratios. The idea inspired a Golden Phoenix builder, who developed a different final design. The value was not in copying a mechanism. It was in seeing a peer ask an engineering question the other child had not considered.
+
+The exchange also moved beyond Arizona.
+
+At the world championship, Golden Phoenix competed beside the Spanish team Legotronic Beavers. The Spanish children cheered for Golden Phoenix at the Robot Game table and lifted one of our members afterward. The moment became one of our clearest examples of Gracious Professionalism: teams can compete seriously and still increase one another's joy.
+
+Houston should not be treated as a private reward for one roster.
+
+Before going, ask experienced coaches about travel, packing, pit supplies, schedules, and outreach. During the event, visit other pits. Let children ask children about robots, projects, team culture, and mistakes. Exchange ideas and make friends. After returning, reflect and teach what the team learned to people who were not there.
+
+An experience becomes program knowledge only when someone passes it on.
+
+<figure class="chapter-figure">
+  <img src="{{ '/assets/images/three-team-pins-first-alumni.jpg' | relative_url }}" alt="Fire Kirin, Golden Phoenix, and Iron Pegasus pins beside a FIRST Alumni Volunteer patch">
+  <figcaption>Three team identities beside a FIRST Alumni Volunteer patch: the cycle is complete when students return to create opportunities for others.</figcaption>
+</figure>
+
+## A Coach's Case-Study Questions
+
+When you study a successful team—ours or anyone else's—do not begin with “How did they win?”
+
+Ask:
+
+1. What could the children not yet do at the beginning?
+2. What did the adults teach, and what did they deliberately leave unfinished?
+3. Which team systems made progress possible between meetings?
+4. How did quieter, younger, or differently wired children gain meaningful ownership?
+5. What evidence shows iteration rather than a polished final result?
+6. What failure changed the next season?
+7. What knowledge remained after the original roster left?
+8. Who did the team help beyond itself?
+
+Awards can be useful evidence, but they are incomplete evidence.
+
+A trophy cannot show the first meeting when a child could not say his name. It cannot show the years when a team advanced without an award, the Sunday a skit collapsed, the prototype adults chose not to finish, or the veteran who learned to hand a mission to a rookie.
+
+Those are the moments a coach can reuse.
+
+## Three Messages to a First-Time Coach
+
+Fire Kirin says: **Do not wait until you feel fully prepared. Start, reflect, and persist.**
+
+Golden Phoenix says: **Do not confuse inexperience with low potential. Rookies can reach a world stage while doing authentic rookie work.**
+
+Iron Pegasus says: **Do not make every new child rediscover everything alone. Let veterans teach, then help them step back so rookies can own the next solution.**
+
+Together, the teams say something more important:
+
+Core Values must live in the program's DNA. We use robots to build children. We broaden the meaning of winning so children can beat yesterday, learn from a loss, and return knowledge to the people who come next.
+
+I hope our alumni remember the scores, flags, and auditoriums. I hope they remember even more clearly the first time they found their voice, taught another child, recovered from failure, or discovered that their mind could solve a difficult problem.
+
+Someday, I would like to see a documentary that places those childhood moments beside the adults the children become.
+
+Until then, these three team histories offer the evidence I can give a new coach:
+
+You do not need to produce a miracle.
+
+Create the conditions in which children can do work that surprises you.
+
+Then let the story belong to them.
