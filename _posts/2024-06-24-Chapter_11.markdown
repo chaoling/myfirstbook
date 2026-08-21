@@ -1,158 +1,419 @@
 ---
 layout: post
-title: "Chapter 11: Resources and Appendices"
+title: "Chapter 11: The First-Time Coach's Playbook"
 date: 2024-06-24 12:00:00 -0700
 categories: chapter
 ---
 
-# Resources and Appendices
+# The First-Time Coach's Playbook
 
-## Useful Links and Tools
+## What Do We Do Next Monday?
 
-### Robotics and Programming
-- **LEGO Mindstorms and SPIKE Prime**: [LEGO Education](https://education.lego.com/en-us/products/lego-mindstorms-ev3-core-set/5003400)
-- **Programming Resources**: [Scratch](https://scratch.mit.edu/), [Python](https://www.python.org/)
+Sooner or later, philosophy has to enter a room.
 
-### Project Management
-- **Trello**: [Trello](https://trello.com/)
-- **Asana**: [Asana](https://asana.com/)
-- **Google Workspace**: [Google Workspace](https://workspace.google.com/)
+The robot is still in its box. The mission models are divided among several plastic bags. One laptop needs an update. Parents are waiting for a schedule. Children are touching every LEGO piece except the one you hoped they would use. You have read enough about FIRST LEGO League to understand that the children should do the work, but not enough to know what you should say next.
 
-### Research and Innovation
-- **Google Scholar**: [Google Scholar](https://scholar.google.com/)
-- **Khan Academy**: [Khan Academy](https://www.khanacademy.org/)
+This is the moment when many first-time coaches ask the wrong question:
 
-### Simulation and Prototyping
-- **LEGO Digital Designer**: [LEGO Digital Designer](https://www.lego.com/en-us/ldd)
-- **Tinkercad**: [Tinkercad](https://www.tinkercad.com/)
-- **Fusion 360**: [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
+> How can I teach everything these children need to know?
 
-### Community and Support
-- **FIRST LEGO League Official Site**: [FIRST LEGO League](https://www.firstinspires.org/robotics/fll)
-- **FIRST LEGO League Forum**: [FLL Forum](https://forums.usfirst.org/forum/general-discussions/first-programs/first-lego-league)
-- **Reddit FLL Community**: [Reddit FLL](https://www.reddit.com/r/FLL/)
+You cannot, and you do not need to.
 
-## Sample Schedules and Checklists
+Your job is to show them the rope: demonstrate a few key concepts, make the problem interesting, provide resources, ask useful questions, and give frequent, constructive feedback. The children learn by building, researching, explaining, failing, and trying again. Sometimes the coach learns beside them.
 
-### Sample Team Schedule
-#### Pre-Season (June - August)
-- **June**
-  - Team formation and recruitment
-  - Initial brainstorming sessions
-  - Kick-off meeting with parents and mentors
-- **July**
-  - Research and initial project ideas
-  - Basic robot building and programming workshops
-- **August**
-  - Finalize project topic and research plan
-  - Prototype robot and initial testing
+A good coach does not begin with all the answers. A good coach creates the conditions in which children can find answers and recognize why those answers matter.
 
-#### Competition Season (September - December)
-- **September**
-  - Weekly team meetings
-  - Project development and research
-  - Robot design and programming iterations
-- **October**
-  - Practice presentations
-  - Robot testing and refinement
-  - Attend local workshops or scrimmages
-- **November**
-  - Finalize project and presentation
-  - Intensive robot practice sessions
-  - Mock judging sessions
-- **December**
-  - Regional competition
-  - Reflect and iterate based on feedback
+This chapter turns the philosophy of the earlier chapters into a working season. It is not the only way to run a team. It is the system my family and I developed through Fire Kirin, Golden Phoenix, and Iron Pegasus, informed by our Arizona coaching workshops with Elaine from the ASU program-delivery community and by Elaine's practical guide from her years coaching in Alaska.
 
-### Competition Day Checklist
-- **Robot Kit and Spare Parts**
-  - Fully charged batteries
-  - Backup sensors and motors
-  - Tools for quick repairs
-- **Documentation**
-  - Engineering notebook
-  - Printed project presentation
-  - Team member roles and schedules
-- **Presentation Materials**
-  - Visual aids (posters, slides, models)
-  - Laptop and backup USB drive with presentation files
-- **Personal Items**
-  - Team uniforms or shirts
-  - Snacks and water
-  - Emergency contact information
+Rules, technology, judging formats, registration fees, and program names change. Before each season, confirm the current requirements through the [official FIRST resource library](https://www.firstinspires.org/resources/library), the [FIRST LEGO League get-started page](https://www.firstinspires.org/programs/fll/get-started), and your local Program Delivery Partner. The routines in this chapter are not replacements for the current rules. They are a way to help children do meaningful work within them.
 
-## Templates for Documentation
+## You Do Not Need to Be the Robotics Expert
 
-### Engineering Notebook Template
-#### Title Page
-- Team Name
-- Team Members
-- Coach/Mentor Names
-- Season Year
+A first-time coach may think the team needs an adult who can already write advanced code, design a competition robot, evaluate a research source, manage a project, and prepare children for judging.
 
-#### Table of Contents
+That person does not exist.
 
-#### Daily Log Entries
-- **Date**:
-- **Team Members Present**:
-- **Objectives**:
-- **Tasks Completed**:
-- **Challenges Faced**:
-- **Solutions Found**:
-- **Next Steps**:
+Even if one adult possesses several of those skills, FLL will quickly create a problem the adult has never seen. The team may need to interview an archaeologist, make a robot turn reliably on a worn mat, resolve a disagreement between two builders, or explain why ten successful tests still do not guarantee success at a tournament.
 
-#### Project Research
-- **Problem Statement**:
-- **Research Notes**:
-- **Interviews and Expert Consultations**:
-- **Bibliography**:
+Expertise helps. It should not become the price of admission for coaching.
 
-#### Robot Design and Programming
-- **Initial Design Sketches**:
-- **Programming Code**:
-- **Test Results and Iterations**:
-- **Final Design and Code**:
+The coach's first expertise is facilitation:
 
-### Presentation Template
-#### Title Slide
-- Project Title
-- Team Name
-- Competition Name and Year
+- Keep children safe.
+- Protect student ownership.
+- Make the next goal visible.
+- Connect the team with people and resources it cannot reach alone.
+- Notice who is participating and who is disappearing.
+- Ask for evidence instead of accepting confidence.
+- Help the team reflect without taking over the decision.
 
-#### Introduction
-- Team introduction
-- Overview of the project topic
+When children know more than I do about a topic, I do not need to pretend otherwise. I can ask them to teach the team. When nobody knows, we can read the official material, find a tutorial, contact a mentor, design a small test, or learn together.
 
-#### Problem Statement
-- Description of the problem being addressed
-- Why it is important
+That is not a weakness in the coaching model. It is a demonstration of how engineers work.
 
-#### Research
-- Summary of research conducted
-- Key findings
+## Build the Minimum Viable Team
 
-#### Solution
-- Description of the innovative solution
-- How it works
-- Benefits and potential impact
+Before choosing a name or ordering shirts, establish the small system that allows the team to exist.
 
-#### Development Process
-- Steps taken to develop the solution
-- Prototyping and testing phases
+For a traditional FLL Challenge team, current FIRST guidance calls for two screened adult coaches and allows two to ten youth members, with age eligibility varying by country. A team also needs an appropriate robot set, the annual Challenge set, a compatible laptop or tablet, a safe and reliable meeting location, storage, and a way to reach families. Local event registration is normally separate from the national team registration.
 
-#### Conclusion
-- Summary of key points
-- Call to action or future steps
+Do not turn those statements into a permanent checklist without checking the current season. Equipment platforms and registration structures evolve. Your Program Delivery Partner may also have regional deadlines, event fees, consent requirements, or tournament procedures.
 
-## Glossary of Terms
+Create a budget before recruiting. Include at least these categories:
 
-- **Autonomous**: Operating independently without human control.
-- **Brainstorming**: A group creativity technique used to generate a large number of ideas for the solution to a problem.
-- **CAD (Computer-Aided Design)**: Software used to create precision drawings or technical illustrations.
-- **Iteration**: A process of repeating a set of operations until a specific result is achieved.
-- **Prototype**: An early sample, model, or release of a product built to test a concept or process.
-- **Sensor**: A device that detects or measures a physical property and records, indicates, or otherwise responds to it.
-- **SPIKE Prime**: A LEGO Education robotics kit used in FLL competitions.
-- **STEM**: An acronym referring to the academic disciplines of science, technology, engineering, and mathematics.
+- Team registration and the annual Challenge set.
+- Robot equipment and replacement parts.
+- Local qualifier or event fees.
+- Meeting-space, storage, printing, and prototyping supplies.
+- Team shirts or other identification.
+- Food and local transportation.
+- State, championship, or invitational travel if the team advances.
+- A reserve for the expense nobody predicted.
 
-By providing these resources and appendices, this chapter aims to equip teams with the tools and knowledge they need to succeed in their FLL journey. Whether you're looking for useful links, sample schedules, templates, or terminology, these resources will support your team's preparation and performance.
+World-level registration, airfare, lodging, meals, shipping, and local transportation can transform a modest local-season budget into a major family decision. Do not promise that a team will travel, and do not wait until an advancement announcement to mention what travel could cost. Explain the possibility early, then make the decision with families when the opportunity becomes real.
+
+Elaine's guide recommends organizing the season's adult documents separately from the children's work. I agree. Whether you use a binder or a shared drive, keep the roster, contacts, consent information, official rules and updates, schedules, budget, and emergency information available. Label adult-created administrative material clearly. A coach's logistics file should never be mistaken for a student's engineering documentation.
+
+## The First Parent Meeting Comes Before the First Assignment
+
+In Fire Kirin's first season, families shared the cost. What we did not share clearly enough was the commitment.
+
+Some adults thought they were joining a weekly robotics class. The coaches were trying to form a competition team that would need steady work between meetings. Neither expectation was unreasonable, but they were incompatible. By the time the difference became obvious, the season was already slipping.
+
+At the first parent meeting today, I explain:
+
+- The complete program: Robot Game, Robot Design, Innovation Project, and Core Values.
+- The regular schedule and the possibility of extra meetings near events.
+- Attendance, advance notice, and work between meetings.
+- The estimated local budget and possible travel costs.
+- Transportation, food, supervision, meeting space, and communication tools.
+- The rule that children own all judged work.
+- The expectation that Core Values apply to students and adults, at meetings and events.
+- The process for addressing repeated absence or behavior that harms the team.
+- The possibility that a child may not represent the team at an event if serious Core Values or safety issues remain unresolved.
+
+I also speak privately with each family about schedule conflicts, allergies, medical or accessibility needs, and learning or communication support. Share such information only with the adults who need it. If a child may need an accommodation at an event, contact the tournament organizer early. Support should give the child access to the experience, not attach a public label.
+
+Helpful parents understand that we use robots to build children. They provide rides, meals, space, reminders, encouragement, and an audience for practice. They ask, "Can you explain what you tried?" instead of saying, "Let me fix it."
+
+The most damaging adult behavior often begins with good intentions. A parent sees a weak poster, an unreliable attachment, or an awkward sentence and decides to improve it. The product becomes cleaner as the child's ownership becomes weaker.
+
+Delegate logistics to adults. Delegate engineering to children.
+
+## Recruit for Growth, Not a Robotics Stereotype
+
+If we selected only confident coders and speakers, Shiyu might never have joined Golden Phoenix.
+
+At the beginning of his rookie *MASTERPIECE* season, he was so shy that introducing himself was difficult. Later, I asked him to explain the team's acceleration and deceleration code together with PID control. Acceleration and deceleration were new that season and remained one of the team's technical challenges. He learned the material, demonstrated it, and helped the team explain it.
+
+At the 2024 FIRST Championship, in his first FLL season, Shiyu told the judges how FLL had changed his personality. In later seasons, he became a team lead.
+
+That path would have been invisible in a tryout designed to identify the children who already looked like robotics students.
+
+I recruit for a balanced cohort and for individual growth. FLL needs programmers, but it also needs builders, testers, researchers, organizers, artists, strategists, storytellers, and children whose potential has not yet found a name.
+
+Do not build a team around which parents can provide competitive advantages. Do not cherry-pick children simply because they already speak like judges or code like older students. Look for curiosity, reliability, kindness, recovery after failure, and the ability to make teammates better.
+
+Then give children enough varied work for those qualities to become visible.
+
+## Wait Four Weeks Before Locking Roles
+
+During the first month, I do not immediately declare one child the programmer, another the project lead, and a third the presenter. Early labels are sticky. A confident child receives the most opportunities and becomes more confident. A quiet beginner receives supporting work and stays quiet.
+
+Instead, new members rotate through short tasks in temporary groups. They might:
+
+- Build mission models from the official instructions.
+- Read one mission and present its requirements to the team.
+- Sketch a base robot and explain a design choice.
+- Complete a small coding challenge.
+- Design, test, and improve a simple mechanism.
+- Identify possible Innovation Project problems.
+- Research a topic and evaluate the source.
+- Draft an email to an expert.
+- Present two minutes of work and answer one question.
+
+Children should work with different teammates. Coaches observe not only whose solution succeeds, but how the group reaches it. Who listens? Who records evidence? Who recovers when the program fails? Who quietly prevents a mistake? Who dominates? Who helps another child enter the discussion?
+
+After this compatibility period, students can express role preferences and identify teammates with whom they work well. Coaches can then form balanced groups and use a RACI chart to clarify ownership. The method resembles an alliance-selection period: children gain evidence before deciding how to work together.
+
+This is not a four-week audition for eliminating beginners. It is a four-week discovery process for finding where each beginner can grow.
+
+## The First Four Meetings
+
+The exact season calendar will vary, but a rookie coach can use this sequence immediately.
+
+### Meeting 1: See the Whole Challenge
+
+Begin with an icebreaker and the Core Values. Introduce the four parts of FLL and make one point unmistakable: every child will contribute to more than one part of the team.
+
+Open the annual materials together. Assign mission-model bags to small groups and follow the official building instructions exactly. While students build, other groups can inspect the mat, read the Robot Game rulebook, or identify unfamiliar words.
+
+End with short presentations: What did your group build? What does it appear to do? What question do you still have?
+
+### Meeting 2: Turn Missions into Strategy
+
+Give each group several missions to analyze. Ask them to consider:
+
+- Where is the mission located?
+- How difficult is navigation?
+- What action activates it?
+- Which nearby missions could share one trip?
+- How many points are available?
+- How reliably could a rookie team complete it?
+
+Have students draw possible routes on a field image, group compatible missions, choose three promising early runs, and estimate points and reliability. The highest-value mission is not automatically the best first mission. An early reliable run can teach alignment, mechanism design, coding, testing, and recovery.
+
+At the same meeting, let small groups sketch base-robot ideas and begin listing real problems related to the season theme.
+
+### Meeting 3: Build Something That Can Fail
+
+Teach a small robot foundation: move straight, make a controlled turn, stop on a line, or activate a simple attachment. Give teams a measurable target and several attempts. Record what changed and what happened.
+
+On the project side, compare possible problems. Who experiences each problem? What evidence shows it is real? Which expert or user could help the team understand it?
+
+Every group should have something imperfect to demonstrate by the end. An imperfect result gives the team material for feedback. A lecture does not.
+
+### Meeting 4: Explain the Process
+
+Students present their robot test, mission strategy, or project research. Ask what evidence supports their decision, what failed, and what they would change next.
+
+Discuss role preferences only after these demonstrations. Create the first RACI chart and the first season roadmap. Make both documents revisable. The team will discover new strengths and new constraints.
+
+By the end of four meetings, the robot does not need to score many points and the project does not need a solution. The team should understand the complete program, have attempted varied work, and know how the next decision will be made.
+
+## Use RACI to Keep Adults on the Right Side of the Work
+
+RACI stands for Responsible, Accountable, Consulted, and Informed. The letters matter less than the conversation they force.
+
+For a mission attachment, the chart might look like this:
+
+| Work | Responsible | Accountable | Consulted | Informed |
+| --- | --- | --- | --- | --- |
+| Design the attachment | Student builders | Student robot lead | Programmers, testers, mentor | Whole team |
+| Test and record results | Student testers | Student test lead | Builders, operators | Coach |
+| Decide whether to keep it | Student robot group | Student robot lead | Strategist, whole team | Parents |
+| Purchase a missing supply | Parent volunteer | Coach | Student designer | Team |
+
+The adult can demonstrate a general concept, locate a resource, ask about a missing test, or purchase material. The adult is not responsible for the judged design decision.
+
+Our role list has included project manager, robot designer, creative designer, programmer, tester, strategist, researcher, public-relations lead, operator, and material manager. Every student takes at least one role, several roles may be shared, and one student may hold more than one. The chart is not a wall between children. It is a map showing who takes the next step and who must be included before a decision.
+
+Revisit the chart when work becomes unfair, a child is repeatedly absent, or an adult starts filling a student role. RACI is not paperwork for its own sake. It makes ownership discussable before ownership becomes a judging-room problem.
+
+## Give the Season a Heartbeat
+
+Our Arizona calendar often begins with team formation and preparation before the annual Challenge release, becomes intensive through the fall, and leads into regional qualifiers and the Arizona state championship. A team that advances may continue to the FIRST Championship in Houston, and some teams attend later invitationals.
+
+Your calendar may be different. Work backward from your first official event, not from ours.
+
+A useful season rhythm looks like this:
+
+| Phase | Main purpose | Evidence that the team is moving |
+| --- | --- | --- |
+| Preseason | Form the adult system and teach foundations | Screened coaches, roster, budget, location, communication tools, basic robot practice |
+| Challenge kickoff | Understand before solving | Built field, annotated rules, mission map, list of project problems |
+| Early development | Explore many approaches | Small prototypes, expert contacts, base robot candidates, first test records |
+| Middle development | Select and iterate | Chosen project problem, mission runs, prototype feedback, updated RACI and roadmap |
+| Integration | Connect the team's story | Full Robot Game attempts, project solution, engineering evidence, weekly presentations |
+| Event preparation | Stabilize and explain | Code freeze, mock judging, packing owners, complete schedule, recovery plans |
+| Reflection | Convert experience into inheritance | Rubric review, lessons learned, archived files, celebration, next-season recommendations |
+
+Meeting more hours does not automatically create a better team. A focused two-hour meeting can outperform an unstructured weekend. The goal is a rhythm children can sustain: regular work, visible ownership, evidence, feedback, and a clear next action.
+
+## Run the Meeting Like an Engineering Team
+
+At the beginning of a weekend work session, we use a simple stand-up. Each group answers:
+
+1. What did we complete last time?
+2. What will we complete today?
+3. What is blocking us, and whose help do we need?
+
+A two-hour meeting can then follow this pattern:
+
+- **Ten minutes:** stand-up, attendance, safety, goals.
+- **Fifty minutes:** robot and project work in small groups.
+- **Ten minutes:** groups exchange tests, questions, or feedback.
+- **Thirty minutes:** second work cycle based on what was learned.
+- **Twenty minutes:** demonstrations, journal update, assignments, and owners.
+
+Longer weekend meetings allow attachment design, coding, repeated testing, project research, expert interviews, and presentation practice. Midweek online meetings can remove blockers before the next in-person session.
+
+We have used Discord for team communication, private channels, voice or video meetings, and shared resources; Google Classroom for lessons, references, assignments, and submissions; and Google Drive for photographs, reports, test data, journals, contacts, RACI charts, schedules, and scripts.
+
+The platform is not the system. The system is that a child can answer four questions without waiting for the coach:
+
+- What is my next task?
+- Where is the information?
+- Where do I record the result?
+- Who needs to know?
+
+If a tool cannot help children answer those questions, it may be digital clutter.
+
+## Three Tracks, One Team
+
+The Robot Game, Innovation Project, and communication work should move together. Do not spend two months on the robot and then announce that the project and judging presentation are due.
+
+For rookie robot work, use a technical ladder:
+
+1. Identify the hub, motors, sensors, ports, and safe handling.
+2. Sequence actions and move a repeatable distance.
+3. Turn and compare methods.
+4. Use force, distance, gyro, and color sensing where appropriate.
+5. Use loops and conditions.
+6. Follow or square against a line and recover a position.
+7. Combine navigation with a simple attachment.
+8. Test complete mission runs and record reliability.
+
+After the fundamentals are stable, students may explore CAD, proportional or PID control, acceleration and deceleration, automatic program selection, version control, and other advanced tools. Introduce advanced technology because it solves a measured problem—not because it sounds impressive in judging.
+
+For the Innovation Project, use a parallel ladder:
+
+1. Identify several problems connected to the theme.
+2. Find users or experts who experience or understand them.
+3. Research existing solutions and unmet needs.
+4. Compare possible problems and select one.
+5. Generate several solutions before choosing.
+6. Build a prototype that can answer a question.
+7. Share it with a user or expert.
+8. Improve it using specific feedback.
+9. Communicate the evidence and remaining limitations honestly.
+
+Every week, children should explain some part of their progress. They can present a mission strategy, a test graph, a project source, a failed prototype, or a decision. Public speaking begins in the first month, not when the script is written.
+
+## Milestones Force Useful Choices
+
+Work backward from the first qualifier. The following is a practical rhythm, not an official FIRST calendar.
+
+### Eight Weeks Before
+
+The team has selected a project problem, contacted users or experts, chosen an initial robot strategy, and begun keeping test evidence. Every child has visible work in the RACI chart.
+
+### Six Weeks Before
+
+Several mission runs exist, even if they are not yet reliable. The project team has compared possible solutions and built or planned a first prototype. Students are presenting progress weekly.
+
+### Four Weeks Before
+
+The Robot Game is stable enough for complete practice rounds. Posters or other judging aids are taking form. The team has completed a local scrimmage or realistic table practice and its first mock judging session.
+
+### Two Weeks Before
+
+Freeze major code and mechanical changes. Complete reports and evidence. Rehearse the presentation and Q&A with several audiences. Fix only changes that clearly reduce risk or correct an important gap.
+
+### One Week Before
+
+Practice full Robot Game rounds, transitions, judging entry, presentation, Q&A, and recovery from mistakes. Use final test data for small adjustments. Pack by owner and verify the tournament schedule.
+
+When a team is behind, stop trying to rescue every mission and every idea. Protect a complete, authentic story. A few reliable runs that children can explain are better than an ambitious robot they no longer understand. A well-researched project with honest limitations is better than a last-minute adult-built prototype.
+
+Judging practice can be one of the most cost-effective uses of the final weeks because it exposes missing ownership and evidence across the entire season. It should not become theater. Practice helps children retrieve their real work under pressure.
+
+## Keep an Engineering Journal From the Beginning
+
+The engineering journal is the team's external memory.
+
+For each meeting, record:
+
+- Date, attendance, and meeting goal.
+- Work attempted and by whom.
+- Photographs, sketches, code versions, sources, or prototype evidence.
+- Test conditions and results.
+- Decisions and the reasons behind them.
+- Failures, disagreements, and unresolved questions.
+- Next actions, owners, and due dates.
+
+The journal does not need beautiful prose. It needs enough truth that a child can return three weeks later and explain why the team changed direction.
+
+Near an event, we use the journal to build a judge-ready evidence check. A box is checked only when the children can show the evidence and explain it clearly. For Iron Pegasus, that included robot controls, version history, mission strategy, repeated full-run data, success criteria, project research, prototype feedback, cost thinking, outreach evidence, RACI, timeline, and selection matrices.
+
+The point was not to impress judges with a long checklist. It was to discover the difference between "we did it" and "we can prove, explain, and learn from it."
+
+## Reset the System When It Slips
+
+Every team system will slip.
+
+If a student is repeatedly absent, begin with a private conversation. Determine whether the problem is motivation, workload, transportation, another activity, or a family constraint. If the schedule conflict is real, changing the child's role may be fairer than allowing teammates to carry invisible work. Sometimes leaving the competitive roster is the healthiest decision.
+
+If one child dominates, do not merely say, "Let others speak." Give the child a boundary and a new responsibility: explain the concept, then hand the next test to a teammate; ask two questions before offering another solution; own documentation instead of every design decision.
+
+If a quiet child disappears, assign a defined contribution and create a small-group space in which it can be prepared. Shiyu's first important technical presentation did not happen because we waited for him to volunteer in a crowded room. It happened because he was given meaningful material and the expectation that he would teach it.
+
+When conflict grows, let children first describe the problem through Core Values. If they cannot resolve it safely and respectfully, involve the coaches and then parents as needed.
+
+If adults are taking over, look at the children. Have they stopped asking questions? Are they waiting for directions? Can they explain the decisions? Do they treat the adult as the source of every next action?
+
+Pause the work. Name what has happened without shaming anyone. Return responsibility to the RACI chart and give the children a smaller decision they can genuinely own.
+
+The week before competition will still feel overwhelming. Parents can help children practice at home, proofread student-written material, check that files open, organize food and rides, and verify packing lists. They must not write the presentation, redesign the poster, build the attachment, or manufacture an answer the child cannot defend.
+
+## Competition Day Begins Before the Venue
+
+At the 2026 FIRST Championship in Houston, some Iron Pegasus families encountered long lines after arriving later than we had suggested. The team missed planned practice-table time. We did not even have time to open the robot box before the first official match.
+
+The first Robot Game score was low.
+
+The children did not collapse. They focused on judging practice, accepted the rough opening, and recovered in later rounds.
+
+A schedule cannot eliminate every surprise. It can make surprise less expensive.
+
+Before leaving, assign one owner to verify each category:
+
+- Official roster, consent status, schedule, rules, and current Challenge Updates.
+- Robot, charged batteries, cables, laptop or tablet, and program backups.
+- Attachments, alignment jigs, spare legal parts, and repair supplies.
+- Match checklist and a safe way to carry the robot.
+- Project prototype, student-created presentation aids, and evidence.
+- Engineering journal or selected supporting material.
+- Shirts, water, food, medication, emergency contacts, and transportation plan.
+- Arrival time, meeting point, judging time, matches, practice windows, meals, and departure.
+
+Practice the movement between activities. Children should know what leaves the pit, who carries it, where the team meets afterward, and what happens if a match goes badly.
+
+Pack a great attitude, but do not make attitude responsible for a missing charger.
+
+## Close the Loop
+
+Immediately after a tournament, while memories are fresh, ask every child to reflect:
+
+- What worked?
+- What surprised us?
+- What failed, and under what conditions?
+- What did another team teach us?
+- What should we keep, stop, and start?
+- What did I contribute?
+- What will I do differently next time?
+
+When rubrics arrive, review them as evidence, not a verdict on the children. Compare the judges' observations with the team's own reflection. Sometimes the rubric confirms a known weakness. Sometimes it shows that the team did valuable work but failed to communicate it. Sometimes it reveals an assumption worth questioning.
+
+End the season with a celebration. Thank parents, mentors, experts, volunteers, and students. We give coach certificates and create seasonal videos. Celebration is not separate from the engineering cycle. It recognizes the people whose effort made another cycle possible.
+
+Then archive the RACI chart, roadmap, journal, budget, schedules, photographs, code, research, test data, and reflections. Remove private information before sharing material beyond the team. The next roster should inherit lessons, not personal data.
+
+## Your First Monday
+
+If your first meeting is next Monday, prepare these ten things:
+
+1. A charged robot hub and the current official programming software.
+2. A laptop or tablet with required updates completed.
+3. The current season materials and Robot Game rulebook.
+4. A roster and private emergency-contact information.
+5. A short icebreaker connected to teamwork.
+6. The Core Values in language children can discuss.
+7. Mission-model bags and official building instructions assigned to groups.
+8. A simple mission-strategy worksheet.
+9. One place to record photographs, decisions, tests, and next actions.
+10. A can-do mindset.
+
+The tenth item is not optimism that everything will work.
+
+It is the belief that the team can take the next honest step without the coach secretly doing the journey for them.
+
+On Monday, children may build the wrong model, disagree about a route, forget a cable, or discover that the robot does not drive straight. Good. Now the team has a real problem.
+
+Do not rush to remove it.
+
+Show them the rope. Ask what they notice. Help them design a test. Give them feedback. Record what they learned. Assign the next owner.
+
+Then meet again.
+
+That is how a season begins.
